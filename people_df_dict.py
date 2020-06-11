@@ -1,0 +1,10 @@
+dict_for_df = {"name": ["Tom", "Josue", "Miryam", "Latarsha", 
+                        "Huan", "Klara", "Prasong", "Darius"],
+               "age": [15, 33, 19, 45, 
+                       60, 38, 29, 22], 
+               "occupation": ["high school student", "alderman", "baker", "attorney", 
+                              "accountant", "tutor", "server", "truck driver"], 
+               "height": [71, 64, 62, 67, 
+                          64, 59, 61, 75],
+               "city": ["San Francisco", "Millbrae", "San Francisco", "Daly City", 
+                        "San Leandro", "San Francisco", "Daly City", "Oakland"]}
