@@ -1,16 +1,16 @@
-Metro Region,Population,Median Income,Region,,,
-Albany,"97,726","$43,790.00",Northeast,,,
-Atlanta,"491,763","$65,381.00",Southeast,,,
-Boise,"227,621","$54,547.00",Northwest,,,
-Boston,"688,276","$71,834.00",Northeast,,,
-Charlotte,"859,347","$61,156.00",Southeast,,,
-Denver,"704,621","$64,974.00",Midwest,,,
-Jacksonville,"891,736","$58,709.00",Southeast,,,
-Los Angeles,"3,982,000","$68,093.00",West,,,
-Pittsburgh,"301,720","$58,521.00",Northeast,,,
-Sacramento,"500,944","$65,046.00",West,,,
-San Francisco,"879,166","$101,714.00",West,,,
-San Diego,"1,414,000","$76,207.00",Southwest,,,
-Seattle,"729,601","$82,133.00",Northwest,,,
-Syracuse,"142,300","$34,716.00",Northeast,,,
-Tampa,"386,577","$52,212.00",Southeast,,,
+Metro Region,Population,Median Income,Region
+Albany,"97,726","$43,790.00",Northeast
+Atlanta,"491,763","$65,381.00",Southeast
+Boise,"227,621","$54,547.00",Northwest
+Boston,"688,276","$71,834.00",Northeast
+Charlotte,"859,347","$61,156.00",Southeast
+Denver,"704,621","$64,974.00",Midwest
+Jacksonville,"891,736","$58,709.00",Southeast
+Los Angeles,"3,982,000","$68,093.00",West
+Pittsburgh,"301,720","$58,521.00",Northeast
+Sacramento,"500,944","$65,046.00",West
+San Francisco,"879,166","$101,714.00",West
+San Diego,"1,414,000","$76,207.00",Southwest
+Seattle,"729,601","$82,133.00",Northwest
+Syracuse,"142,300","$34,716.00",Northeast
+Tampa,"386,577","$52,212.00",Southeast
