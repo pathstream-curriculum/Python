@@ -1,0 +1,38 @@
+,country,year,number_of_reported_cases_of_cholera,number_of_reported_deaths_from_cholera,cholera_case_fatality_rate,who_region
+0,Afghanistan,2016,677,5,0.7,Eastern Mediterranean
+43,Angola,2016,78,3,3.8,Africa
+76,Australia,2016,1,0,0.0,Western Pacific
+191,Benin,2016,761,13,1.7,Africa
+288,Burundi,2016,434,5,1.2,Africa
+408,Canada,2016,1,0,0.0,Americas
+467,China,2016,27,0,0.0,Western Pacific
+525,Congo,2016,15,2,13.3,Americas
+579,Democratic Republic of the Congo,2016,28093,759,2.7,Africa
+618,Denmark,2016,1,0,0.0,Europe
+640,Dominican Republic,2016,1159,27,2.3,Americas
+761,Germany,2016,1,0,,Europe
+793,Ghana,2016,175,0,0.0,Africa
+892,Haiti,2016,41421,447,1.1,Americas
+911,India,2016,841,3,0.4,South-East Asia
+1059,Iraq,2016,35,0,0.0,Eastern Mediterranean
+1101,Japan,2016,10,0,0.0,Western Pacific
+1156,Kenya,2016,5866,80,1.4,Africa
+1279,Malawi,2016,1792,46,2.6,Africa
+1435,Mozambique,2016,883,2,0.2,Africa
+1475,Myanmar,2016,782,11,1.4,South-East Asia
+1529,Nepal,2016,169,0,0.0,South-East Asia
+1564,Netherlands,2016,1,0,0.0,Europe
+1606,Niger,2016,38,6,15.8,Africa
+1636,Nigeria,2016,768,32,4.2,Africa
+1732,Philippines,2016,124,0,0.0,Western Pacific
+1786,Republic of Korea,2016,4,0,0.0,Western Pacific
+1832,Rwanda,2016,355,0,0.0,Africa
+1967,Somalia,2016,15619,548,3.5,Eastern Mediterranean
+2019,South Sudan,2016,4295,82,1.9,Africa
+2110,Thailand,2016,52,1,1.9,South-East Asia
+2197,Uganda,2016,516,11,2.1,Africa
+2236,United Kingdom of Great Britain and Northern Ireland,2016,19,0,0.0,Europe
+2277,United Republic of Tanzania,2016,11360,172,1.5,Africa
+2317,United States of America,2016,14,0,0.0,Americas
+2404,Yemen,2016,15751,164,1.0,Eastern Mediterranean
+2445,Zimbabwe,2016,10,1,10.0,Africa
