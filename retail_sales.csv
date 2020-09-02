@@ -1,0 +1,4577 @@
+Store,Dept,Date,Weekly_Sales
+Buffalo,Electronics,1/10/2010,7001.48
+Buffalo,Furniture,1/10/2010,3233.79
+Buffalo,Toys,1/10/2010,8147.53
+Buffalo,Housewares,1/10/2010,14214.86
+Buffalo,Shoes,1/10/2010,6134.59
+Buffalo,Clothing,1/10/2010,5617.26
+Buffalo,Outdoor,1/10/2010,2530.38
+Buffalo,Jewelry,1/10/2010,6947.26
+Las Vegas,Shoes,1/10/2010,16481.79
+Las Vegas,Electronics,1/10/2010,23381.38
+Las Vegas,Outdoor,1/10/2010,2876.19
+Las Vegas,Toys,1/10/2010,34658.25
+Las Vegas,Furniture,1/10/2010,9775.17
+Las Vegas,Housewares,1/10/2010,45829.02
+Las Vegas,Clothing,1/10/2010,20094.19
+Las Vegas,Jewelry,1/10/2010,34912.45
+Los Angeles,Clothing,1/10/2010,27023.35
+Los Angeles,Jewelry,1/10/2010,44705.44
+Los Angeles,Electronics,1/10/2010,29935.83
+Los Angeles,Housewares,1/10/2010,66423.44
+Los Angeles,Outdoor,1/10/2010,6989.57
+Los Angeles,Shoes,1/10/2010,27350.84
+Los Angeles,Toys,1/10/2010,58821.79
+Los Angeles,Furniture,1/10/2010,12390.87
+Seattle,Electronics,1/10/2010,41979.23
+Seattle,Toys,1/10/2010,65810.71
+Seattle,Clothing,1/10/2010,36486.28
+Seattle,Furniture,1/10/2010,12496.55
+Seattle,Outdoor,1/10/2010,6388.4
+Seattle,Jewelry,1/10/2010,54800.74
+Seattle,Shoes,1/10/2010,32910.99
+Seattle,Housewares,1/10/2010,88537.23
+Buffalo,Toys,2/4/2010,8829.82
+Buffalo,Housewares,2/4/2010,15830.95
+Buffalo,Jewelry,2/4/2010,8313.44
+Buffalo,Furniture,2/4/2010,3288.31
+Buffalo,Clothing,2/4/2010,16399.01
+Buffalo,Outdoor,2/4/2010,2286.38
+Buffalo,Shoes,2/4/2010,7016.69
+Buffalo,Electronics,2/4/2010,10113.4
+Las Vegas,Toys,2/4/2010,38151.58
+Las Vegas,Clothing,2/4/2010,57258.43
+Las Vegas,Outdoor,2/4/2010,4132.61
+Las Vegas,Furniture,2/4/2010,11157.08
+Las Vegas,Jewelry,2/4/2010,37809.49
+Las Vegas,Housewares,2/4/2010,47450.5
+Las Vegas,Electronics,2/4/2010,29967.92
+Las Vegas,Shoes,2/4/2010,22427.62
+Los Angeles,Clothing,2/4/2010,82766.07
+Los Angeles,Outdoor,2/4/2010,6375.83
+Los Angeles,Housewares,2/4/2010,68286.2
+Los Angeles,Toys,2/4/2010,63316.38
+Los Angeles,Shoes,2/4/2010,40111.71
+Los Angeles,Jewelry,2/4/2010,47951.76
+Los Angeles,Furniture,2/4/2010,13404.23
+Los Angeles,Electronics,2/4/2010,41053.17
+Seattle,Electronics,2/4/2010,54214.39
+Seattle,Jewelry,2/4/2010,56959.52
+Seattle,Housewares,2/4/2010,83927.41
+Seattle,Toys,2/4/2010,67998.34
+Seattle,Clothing,2/4/2010,75535.18
+Seattle,Outdoor,2/4/2010,6694.35
+Seattle,Furniture,2/4/2010,11626.88
+Seattle,Shoes,2/4/2010,40504.47
+Buffalo,Outdoor,2/7/2010,1578.43
+Buffalo,Clothing,2/7/2010,4238.56
+Buffalo,Toys,2/7/2010,8682.73
+Buffalo,Furniture,2/7/2010,2645.63
+Buffalo,Jewelry,2/7/2010,8163.02
+Buffalo,Electronics,2/7/2010,7290.93
+Buffalo,Shoes,2/7/2010,8757.26
+Buffalo,Housewares,2/7/2010,16314.65
+Las Vegas,Outdoor,2/7/2010,4541.91
+Las Vegas,Electronics,2/7/2010,18887.71
+Las Vegas,Jewelry,2/7/2010,39773.71
+Las Vegas,Housewares,2/7/2010,47077.72
+Las Vegas,Shoes,2/7/2010,22589
+Las Vegas,Toys,2/7/2010,35580.01
+Las Vegas,Furniture,2/7/2010,7857.88
+Las Vegas,Clothing,2/7/2010,16333.14
+Los Angeles,Toys,2/7/2010,61018.69
+Los Angeles,Outdoor,2/7/2010,7216.63
+Los Angeles,Housewares,2/7/2010,72107.47
+Los Angeles,Jewelry,2/7/2010,49043.02
+Los Angeles,Electronics,2/7/2010,25343.84
+Los Angeles,Furniture,2/7/2010,11663.03
+Los Angeles,Shoes,2/7/2010,34611.91
+Los Angeles,Clothing,2/7/2010,23803.34
+Seattle,Shoes,2/7/2010,49861.13
+Seattle,Outdoor,2/7/2010,7340.66
+Seattle,Jewelry,2/7/2010,56869.52
+Seattle,Housewares,2/7/2010,86804.99
+Seattle,Electronics,2/7/2010,40201.28
+Seattle,Clothing,2/7/2010,27310.36
+Seattle,Furniture,2/7/2010,9791.98
+Seattle,Toys,2/7/2010,64472.21
+Buffalo,Shoes,2/19/2010,8767.34
+Buffalo,Clothing,2/19/2010,8918.31
+Buffalo,Housewares,2/19/2010,15676.11
+Buffalo,Toys,2/19/2010,9049.87
+Buffalo,Outdoor,2/19/2010,2767.05
+Buffalo,Jewelry,2/19/2010,7824.13
+Buffalo,Electronics,2/19/2010,12577.82
+Buffalo,Furniture,2/19/2010,4461.75
+Las Vegas,Housewares,2/19/2010,47928.89
+Las Vegas,Toys,2/19/2010,38717.6
+Las Vegas,Jewelry,2/19/2010,36826.95
+Las Vegas,Clothing,2/19/2010,41595.55
+Las Vegas,Outdoor,2/19/2010,6060.26
+Las Vegas,Electronics,2/19/2010,26468.27
+Las Vegas,Furniture,2/19/2010,11523.47
+Las Vegas,Shoes,2/19/2010,19985.2
+Los Angeles,Toys,2/19/2010,66589.27
+Los Angeles,Jewelry,2/19/2010,46131.14
+Los Angeles,Clothing,2/19/2010,58221.52
+Los Angeles,Furniture,2/19/2010,14607.28
+Los Angeles,Electronics,2/19/2010,31620.12
+Los Angeles,Outdoor,2/19/2010,10592.63
+Los Angeles,Shoes,2/19/2010,31003.4
+Los Angeles,Housewares,2/19/2010,70853.58
+Seattle,Shoes,2/19/2010,35309.25
+Seattle,Jewelry,2/19/2010,53939.17
+Seattle,Electronics,2/19/2010,45376.6
+Seattle,Furniture,2/19/2010,15062.54
+Seattle,Housewares,2/19/2010,86570.21
+Seattle,Outdoor,2/19/2010,7730.32
+Seattle,Clothing,2/19/2010,49937.09
+Seattle,Toys,2/19/2010,67007.65
+Buffalo,Clothing,2/26/2010,4992
+Buffalo,Shoes,2/26/2010,8826.12
+Buffalo,Jewelry,2/26/2010,8012.43
+Buffalo,Housewares,2/26/2010,15112.23
+Buffalo,Electronics,2/26/2010,9913.15
+Buffalo,Outdoor,2/26/2010,2289.72
+Buffalo,Toys,2/26/2010,8971.63
+Buffalo,Furniture,2/26/2010,4807.77
+Las Vegas,Clothing,2/26/2010,19403.54
+Las Vegas,Outdoor,2/26/2010,5244.56
+Las Vegas,Toys,2/26/2010,35318.2
+Las Vegas,Housewares,2/26/2010,44292.87
+Las Vegas,Jewelry,2/26/2010,34660.16
+Las Vegas,Electronics,2/26/2010,24101.89
+Las Vegas,Furniture,2/26/2010,11135.17
+Las Vegas,Shoes,2/26/2010,17224.22
+Los Angeles,Furniture,2/26/2010,15635.95
+Los Angeles,Jewelry,2/26/2010,42126.71
+Los Angeles,Electronics,2/26/2010,26394.97
+Los Angeles,Clothing,2/26/2010,25962.32
+Los Angeles,Toys,2/26/2010,61875.48
+Los Angeles,Shoes,2/26/2010,24275.91
+Los Angeles,Outdoor,2/26/2010,8273.51
+Los Angeles,Housewares,2/26/2010,64963.9
+Seattle,Furniture,2/26/2010,14490.06
+Seattle,Housewares,2/26/2010,84405.45
+Seattle,Toys,2/26/2010,66705.03
+Seattle,Clothing,2/26/2010,30107.54
+Seattle,Outdoor,2/26/2010,10871.94
+Seattle,Shoes,2/26/2010,33186.53
+Seattle,Electronics,2/26/2010,37590.77
+Seattle,Jewelry,2/26/2010,54687.08
+Buffalo,Housewares,3/9/2010,15961.1
+Buffalo,Clothing,3/9/2010,4923.61
+Buffalo,Jewelry,3/9/2010,8464.83
+Buffalo,Electronics,3/9/2010,4862.58
+Buffalo,Furniture,3/9/2010,5942.43
+Buffalo,Shoes,3/9/2010,6880.83
+Buffalo,Outdoor,3/9/2010,1523.08
+Buffalo,Toys,3/9/2010,8722.49
+Las Vegas,Housewares,3/9/2010,49015.05
+Las Vegas,Shoes,3/9/2010,18005.65
+Las Vegas,Furniture,3/9/2010,19081.8
+Las Vegas,Toys,3/9/2010,35562.68
+Las Vegas,Outdoor,3/9/2010,3553.75
+Las Vegas,Electronics,3/9/2010,15390.52
+Las Vegas,Jewelry,3/9/2010,38321.88
+Las Vegas,Clothing,3/9/2010,16241.78
+Los Angeles,Electronics,3/9/2010,23507.43
+Los Angeles,Clothing,3/9/2010,23901.32
+Los Angeles,Housewares,3/9/2010,70081.13
+Los Angeles,Jewelry,3/9/2010,48202.94
+Los Angeles,Shoes,3/9/2010,27545.9
+Los Angeles,Toys,3/9/2010,58793.43
+Los Angeles,Furniture,3/9/2010,27296.57
+Los Angeles,Outdoor,3/9/2010,5343.92
+Seattle,Electronics,3/9/2010,31085.72
+Seattle,Outdoor,3/9/2010,7450.07
+Seattle,Clothing,3/9/2010,34713.96
+Seattle,Furniture,3/9/2010,20452.49
+Seattle,Toys,3/9/2010,65257.74
+Seattle,Jewelry,3/9/2010,59177.53
+Seattle,Shoes,3/9/2010,37396.86
+Seattle,Housewares,3/9/2010,93677.66
+Buffalo,Toys,3/12/2010,7775.2
+Buffalo,Electronics,3/12/2010,14779.36
+Buffalo,Outdoor,3/12/2010,2527.06
+Buffalo,Furniture,3/12/2010,4732.03
+Buffalo,Jewelry,3/12/2010,8544.43
+Buffalo,Housewares,3/12/2010,16093.58
+Buffalo,Clothing,3/12/2010,7442.48
+Buffalo,Shoes,3/12/2010,16011.2
+Las Vegas,Clothing,3/12/2010,22517.56
+Las Vegas,Shoes,3/12/2010,47406.83
+Las Vegas,Jewelry,3/12/2010,37110.55
+Las Vegas,Furniture,3/12/2010,10856.85
+Las Vegas,Housewares,3/12/2010,44405.02
+Las Vegas,Toys,3/12/2010,36222.74
+Las Vegas,Outdoor,3/12/2010,6356.96
+Las Vegas,Electronics,3/12/2010,36472.02
+Los Angeles,Housewares,3/12/2010,62758.12
+Los Angeles,Electronics,3/12/2010,48750.32
+Los Angeles,Jewelry,3/12/2010,45630.41
+Los Angeles,Furniture,3/12/2010,15463.76
+Los Angeles,Outdoor,3/12/2010,7397.88
+Los Angeles,Toys,3/12/2010,58172.84
+Los Angeles,Clothing,3/12/2010,30662.62
+Los Angeles,Shoes,3/12/2010,94720.59
+Seattle,Electronics,3/12/2010,72434.86
+Seattle,Shoes,3/12/2010,90879.23
+Seattle,Clothing,3/12/2010,36639.21
+Seattle,Toys,3/12/2010,64423.09
+Seattle,Jewelry,3/12/2010,54740.6
+Seattle,Housewares,3/12/2010,89556.97
+Seattle,Outdoor,3/12/2010,12310.44
+Seattle,Furniture,3/12/2010,15184.19
+Buffalo,Electronics,3/19/2010,9527.14
+Buffalo,Housewares,3/19/2010,14631.7
+Buffalo,Shoes,3/19/2010,9059.91
+Buffalo,Clothing,3/19/2010,5118.12
+Buffalo,Furniture,3/19/2010,2444.09
+Buffalo,Outdoor,3/19/2010,1934.96
+Buffalo,Toys,3/19/2010,8325.46
+Buffalo,Jewelry,3/19/2010,7043.63
+Las Vegas,Toys,3/19/2010,34188.52
+Las Vegas,Housewares,3/19/2010,43615.49
+Las Vegas,Shoes,3/19/2010,22711.59
+Las Vegas,Outdoor,3/19/2010,4906.05
+Las Vegas,Clothing,3/19/2010,22136.64
+Las Vegas,Electronics,3/19/2010,22632.57
+Las Vegas,Furniture,3/19/2010,9001.37
+Las Vegas,Jewelry,3/19/2010,34118.11
+Los Angeles,Clothing,3/19/2010,28446.92
+Los Angeles,Furniture,3/19/2010,10394.28
+Los Angeles,Jewelry,3/19/2010,44622.56
+Los Angeles,Electronics,3/19/2010,33232.94
+Los Angeles,Outdoor,3/19/2010,6365.82
+Los Angeles,Toys,3/19/2010,60353.6
+Los Angeles,Housewares,3/19/2010,64307.01
+Los Angeles,Shoes,3/19/2010,33700.33
+Seattle,Furniture,3/19/2010,12392.87
+Seattle,Electronics,3/19/2010,43853.69
+Seattle,Clothing,3/19/2010,30853.27
+Seattle,Housewares,3/19/2010,81217.33
+Seattle,Toys,3/19/2010,63266.15
+Seattle,Jewelry,3/19/2010,51535.33
+Seattle,Shoes,3/19/2010,34561.51
+Seattle,Outdoor,3/19/2010,8327.49
+Buffalo,Shoes,3/26/2010,6300.21
+Buffalo,Electronics,3/26/2010,12599.55
+Buffalo,Outdoor,3/26/2010,1176.62
+Buffalo,Toys,3/26/2010,7789.68
+Buffalo,Jewelry,3/26/2010,6938.17
+Buffalo,Furniture,3/26/2010,4302.59
+Buffalo,Housewares,3/26/2010,14044.59
+Buffalo,Clothing,3/26/2010,6620.12
+Las Vegas,Electronics,3/26/2010,38971.89
+Las Vegas,Furniture,3/26/2010,10366.85
+Las Vegas,Outdoor,3/26/2010,7468.33
+Las Vegas,Jewelry,3/26/2010,33872.07
+Las Vegas,Toys,3/26/2010,33581.72
+Las Vegas,Housewares,3/26/2010,41892.55
+Las Vegas,Clothing,3/26/2010,26229.21
+Las Vegas,Shoes,3/26/2010,16254.21
+Los Angeles,Furniture,3/26/2010,12406.44
+Los Angeles,Outdoor,3/26/2010,7594.56
+Los Angeles,Clothing,3/26/2010,32213.99
+Los Angeles,Housewares,3/26/2010,59770.18
+Los Angeles,Electronics,3/26/2010,51778.35
+Los Angeles,Shoes,3/26/2010,25149.21
+Los Angeles,Toys,3/26/2010,55825.44
+Los Angeles,Jewelry,3/26/2010,41455.34
+Seattle,Electronics,3/26/2010,67751.87
+Seattle,Clothing,3/26/2010,33401.19
+Seattle,Jewelry,3/26/2010,47886.96
+Seattle,Housewares,3/26/2010,75726.7
+Seattle,Furniture,3/26/2010,10421.5
+Seattle,Outdoor,3/26/2010,4542.13
+Seattle,Toys,3/26/2010,64294.52
+Seattle,Shoes,3/26/2010,33280.76
+Buffalo,Housewares,4/6/2010,17083.4
+Buffalo,Clothing,4/6/2010,5020.1
+Buffalo,Toys,4/6/2010,8599.23
+Buffalo,Outdoor,4/6/2010,1487.64
+Buffalo,Shoes,4/6/2010,11939.29
+Buffalo,Furniture,4/6/2010,3408.74
+Buffalo,Jewelry,4/6/2010,8765.89
+Buffalo,Electronics,4/6/2010,9100.17
+Las Vegas,Outdoor,4/6/2010,5484.9
+Las Vegas,Housewares,4/6/2010,48754.47
+Las Vegas,Electronics,4/6/2010,22932.26
+Las Vegas,Toys,4/6/2010,35181.47
+Las Vegas,Furniture,4/6/2010,8001.41
+Las Vegas,Jewelry,4/6/2010,40548.19
+Las Vegas,Shoes,4/6/2010,44563.68
+Las Vegas,Clothing,4/6/2010,17558.09
+Los Angeles,Electronics,4/6/2010,29784.34
+Los Angeles,Shoes,4/6/2010,62903.1
+Los Angeles,Toys,4/6/2010,61463.29
+Los Angeles,Outdoor,4/6/2010,11352.12
+Los Angeles,Housewares,4/6/2010,68994.35
+Los Angeles,Clothing,4/6/2010,23869.17
+Los Angeles,Jewelry,4/6/2010,49732.37
+Los Angeles,Furniture,4/6/2010,11859.68
+Seattle,Furniture,4/6/2010,10522.11
+Seattle,Clothing,4/6/2010,25702.66
+Seattle,Toys,4/6/2010,62756.76
+Seattle,Jewelry,4/6/2010,55355.78
+Seattle,Shoes,4/6/2010,59143.72
+Seattle,Electronics,4/6/2010,37445.96
+Seattle,Housewares,4/6/2010,83294.12
+Seattle,Outdoor,4/6/2010,9864.87
+Buffalo,Jewelry,4/16/2010,7529.02
+Buffalo,Electronics,4/16/2010,6847.45
+Buffalo,Toys,4/16/2010,8304.35
+Buffalo,Outdoor,4/16/2010,1379.74
+Buffalo,Clothing,4/16/2010,4061.89
+Buffalo,Furniture,4/16/2010,3402.61
+Buffalo,Housewares,4/16/2010,14846.32
+Buffalo,Shoes,4/16/2010,5300.39
+Las Vegas,Housewares,4/16/2010,45025.02
+Las Vegas,Electronics,4/16/2010,11570.27
+Las Vegas,Clothing,4/16/2010,17596.96
+Las Vegas,Shoes,4/16/2010,19330.26
+Las Vegas,Jewelry,4/16/2010,34740.19
+Las Vegas,Toys,4/16/2010,32890.54
+Las Vegas,Outdoor,4/16/2010,5020.78
+Las Vegas,Furniture,4/16/2010,9226.8
+Los Angeles,Clothing,4/16/2010,21308.59
+Los Angeles,Housewares,4/16/2010,65172.2
+Los Angeles,Shoes,4/16/2010,29678.87
+Los Angeles,Jewelry,4/16/2010,43463.55
+Los Angeles,Electronics,4/16/2010,20090.55
+Los Angeles,Toys,4/16/2010,56653.63
+Los Angeles,Outdoor,4/16/2010,5984.9
+Los Angeles,Furniture,4/16/2010,11547.5
+Seattle,Toys,4/16/2010,65662.06
+Seattle,Shoes,4/16/2010,33306.54
+Seattle,Electronics,4/16/2010,27692.81
+Seattle,Jewelry,4/16/2010,53694.53
+Seattle,Clothing,4/16/2010,27744.54
+Seattle,Furniture,4/16/2010,11298.1
+Seattle,Outdoor,4/16/2010,6973.22
+Seattle,Housewares,4/16/2010,84643.38
+Buffalo,Clothing,4/23/2010,4417.17
+Buffalo,Outdoor,4/23/2010,1939.2
+Buffalo,Furniture,4/23/2010,4006.1
+Buffalo,Shoes,4/23/2010,6638.58
+Buffalo,Housewares,4/23/2010,14182.84
+Buffalo,Jewelry,4/23/2010,7497.25
+Buffalo,Electronics,4/23/2010,7482.34
+Buffalo,Toys,4/23/2010,8371.01
+Las Vegas,Electronics,4/23/2010,24763.98
+Las Vegas,Clothing,4/23/2010,16145.35
+Las Vegas,Jewelry,4/23/2010,33806.71
+Las Vegas,Outdoor,4/23/2010,3945.19
+Las Vegas,Toys,4/23/2010,32946.13
+Las Vegas,Furniture,4/23/2010,8868.93
+Las Vegas,Housewares,4/23/2010,44418.11
+Las Vegas,Shoes,4/23/2010,18534.4
+Los Angeles,Shoes,4/23/2010,26686.75
+Los Angeles,Electronics,4/23/2010,31805.87
+Los Angeles,Furniture,4/23/2010,11862.26
+Los Angeles,Outdoor,4/23/2010,6293.49
+Los Angeles,Jewelry,4/23/2010,43703.76
+Los Angeles,Housewares,4/23/2010,66471.86
+Los Angeles,Clothing,4/23/2010,22163.12
+Los Angeles,Toys,4/23/2010,59203.94
+Seattle,Housewares,4/23/2010,82631.69
+Seattle,Furniture,4/23/2010,11736.06
+Seattle,Clothing,4/23/2010,23961.8
+Seattle,Toys,4/23/2010,62894.51
+Seattle,Electronics,4/23/2010,38166.16
+Seattle,Outdoor,4/23/2010,9047.22
+Seattle,Shoes,4/23/2010,32030.76
+Seattle,Jewelry,4/23/2010,51630.47
+Buffalo,Outdoor,4/30/2010,1682.66
+Buffalo,Jewelry,4/30/2010,7363.77
+Buffalo,Furniture,4/30/2010,2812.94
+Buffalo,Electronics,4/30/2010,7202.76
+Buffalo,Housewares,4/30/2010,14019.26
+Buffalo,Shoes,4/30/2010,6388.07
+Buffalo,Toys,4/30/2010,8614.63
+Buffalo,Clothing,4/30/2010,4159.25
+Las Vegas,Outdoor,4/30/2010,4736.15
+Las Vegas,Toys,4/30/2010,34168.23
+Las Vegas,Furniture,4/30/2010,9337.44
+Las Vegas,Shoes,4/30/2010,22723.48
+Las Vegas,Jewelry,4/30/2010,33437.8
+Las Vegas,Clothing,4/30/2010,16555.11
+Las Vegas,Housewares,4/30/2010,45971.3
+Las Vegas,Electronics,4/30/2010,22006.41
+Los Angeles,Jewelry,4/30/2010,42829.7
+Los Angeles,Electronics,4/30/2010,29088.16
+Los Angeles,Furniture,4/30/2010,11867.75
+Los Angeles,Clothing,4/30/2010,24066.2
+Los Angeles,Housewares,4/30/2010,65054.02
+Los Angeles,Shoes,4/30/2010,29456.07
+Los Angeles,Toys,4/30/2010,57540.12
+Los Angeles,Outdoor,4/30/2010,6215.07
+Seattle,Furniture,4/30/2010,11264.87
+Seattle,Electronics,4/30/2010,37306.35
+Seattle,Housewares,4/30/2010,82676.37
+Seattle,Outdoor,4/30/2010,11508.02
+Seattle,Toys,4/30/2010,64566.88
+Seattle,Shoes,4/30/2010,33645.9
+Seattle,Jewelry,4/30/2010,52820.8
+Seattle,Clothing,4/30/2010,25076
+Buffalo,Electronics,5/2/2010,15051.48
+Buffalo,Toys,5/2/2010,9556.23
+Buffalo,Jewelry,5/2/2010,8495.1
+Buffalo,Outdoor,5/2/2010,2181.93
+Buffalo,Furniture,5/2/2010,4710.29
+Buffalo,Clothing,5/2/2010,6453.58
+Buffalo,Shoes,5/2/2010,8914.32
+Buffalo,Housewares,5/2/2010,17566.72
+Las Vegas,Shoes,5/2/2010,21084.08
+Las Vegas,Toys,5/2/2010,40129.01
+Las Vegas,Outdoor,5/2/2010,5749.03
+Las Vegas,Electronics,5/2/2010,32229.38
+Las Vegas,Clothing,5/2/2010,24924.5
+Las Vegas,Housewares,5/2/2010,50605.27
+Las Vegas,Furniture,5/2/2010,13740.12
+Las Vegas,Jewelry,5/2/2010,39954.04
+Los Angeles,Shoes,5/2/2010,28512.95
+Los Angeles,Housewares,5/2/2010,74661.16
+Los Angeles,Outdoor,5/2/2010,7472.24
+Los Angeles,Clothing,5/2/2010,35034.06
+Los Angeles,Furniture,5/2/2010,16873.2
+Los Angeles,Electronics,5/2/2010,34025.45
+Los Angeles,Toys,5/2/2010,69634.8
+Los Angeles,Jewelry,5/2/2010,47681.96
+Seattle,Clothing,5/2/2010,38724.42
+Seattle,Housewares,5/2/2010,91481.24
+Seattle,Shoes,5/2/2010,37239.25
+Seattle,Electronics,5/2/2010,48602.55
+Seattle,Toys,5/2/2010,71562.58
+Seattle,Furniture,5/2/2010,16166.02
+Seattle,Jewelry,5/2/2010,59554.57
+Seattle,Outdoor,5/2/2010,10216.17
+Buffalo,Outdoor,5/3/2010,1926.59
+Buffalo,Shoes,5/3/2010,7229.39
+Buffalo,Clothing,5/3/2010,5172.73
+Buffalo,Furniture,5/3/2010,4296.57
+Buffalo,Jewelry,5/3/2010,8511.73
+Buffalo,Toys,5/3/2010,8996.39
+Buffalo,Housewares,5/3/2010,16477.28
+Buffalo,Electronics,5/3/2010,8874.52
+Las Vegas,Electronics,5/3/2010,23082.14
+Las Vegas,Toys,5/3/2010,38776.09
+Las Vegas,Furniture,5/3/2010,12275.58
+Las Vegas,Jewelry,5/3/2010,38086.19
+Las Vegas,Housewares,5/3/2010,48397.98
+Las Vegas,Outdoor,5/3/2010,4221.25
+Las Vegas,Clothing,5/3/2010,21827.9
+Las Vegas,Shoes,5/3/2010,19659.7
+Los Angeles,Shoes,5/3/2010,29442.87
+Los Angeles,Jewelry,5/3/2010,46937.81
+Los Angeles,Electronics,5/3/2010,28609.08
+Los Angeles,Housewares,5/3/2010,68428.64
+Los Angeles,Outdoor,5/3/2010,6068.64
+Los Angeles,Clothing,5/3/2010,27372.05
+Los Angeles,Furniture,5/3/2010,14895.96
+Los Angeles,Toys,5/3/2010,67041.18
+Seattle,Toys,5/3/2010,71817.79
+Seattle,Housewares,5/3/2010,87922.48
+Seattle,Jewelry,5/3/2010,56959.02
+Seattle,Furniture,5/3/2010,15438.34
+Seattle,Outdoor,5/3/2010,9076.55
+Seattle,Clothing,5/3/2010,31580.69
+Seattle,Shoes,5/3/2010,35442.76
+Seattle,Electronics,5/3/2010,40169.06
+Buffalo,Clothing,5/11/2010,14326.87
+Buffalo,Toys,5/11/2010,7941.61
+Buffalo,Jewelry,5/11/2010,9263.26
+Buffalo,Electronics,5/11/2010,9006.17
+Buffalo,Furniture,5/11/2010,4191.21
+Buffalo,Housewares,5/11/2010,18340.04
+Buffalo,Shoes,5/11/2010,8017.65
+Buffalo,Outdoor,5/11/2010,2242.72
+Las Vegas,Housewares,5/11/2010,46381.43
+Las Vegas,Outdoor,5/11/2010,5036.99
+Las Vegas,Furniture,5/11/2010,9825.22
+Las Vegas,Jewelry,5/11/2010,37980.55
+Las Vegas,Clothing,5/11/2010,34238.88
+Las Vegas,Electronics,5/11/2010,23903.81
+Las Vegas,Shoes,5/11/2010,19136.58
+Las Vegas,Toys,5/11/2010,36182.58
+Los Angeles,Housewares,5/11/2010,64267.74
+Los Angeles,Clothing,5/11/2010,46198.84
+Los Angeles,Toys,5/11/2010,63248.62
+Los Angeles,Outdoor,5/11/2010,6094.83
+Los Angeles,Shoes,5/11/2010,28729.55
+Los Angeles,Furniture,5/11/2010,12098.73
+Los Angeles,Jewelry,5/11/2010,47784.77
+Los Angeles,Electronics,5/11/2010,26202.38
+Seattle,Jewelry,5/11/2010,56510.88
+Seattle,Shoes,5/11/2010,35552.38
+Seattle,Furniture,5/11/2010,11250.36
+Seattle,Clothing,5/11/2010,48727.62
+Seattle,Electronics,5/11/2010,50590.18
+Seattle,Housewares,5/11/2010,92919.57
+Seattle,Outdoor,5/11/2010,5590.16
+Seattle,Toys,5/11/2010,68822.67
+Buffalo,Clothing,5/14/2010,4771.24
+Buffalo,Jewelry,5/14/2010,6765.26
+Buffalo,Electronics,5/14/2010,7260.71
+Buffalo,Shoes,5/14/2010,7181.97
+Buffalo,Toys,5/14/2010,8069.59
+Buffalo,Furniture,5/14/2010,3660.35
+Buffalo,Housewares,5/14/2010,15597.26
+Buffalo,Outdoor,5/14/2010,2479.64
+Las Vegas,Clothing,5/14/2010,18926.74
+Las Vegas,Shoes,5/14/2010,18771.35
+Las Vegas,Electronics,5/14/2010,16891.66
+Las Vegas,Jewelry,5/14/2010,33657.7
+Las Vegas,Outdoor,5/14/2010,6982.17
+Las Vegas,Housewares,5/14/2010,43675.61
+Las Vegas,Toys,5/14/2010,33131.69
+Las Vegas,Furniture,5/14/2010,7919.86
+Los Angeles,Clothing,5/14/2010,25876.55
+Los Angeles,Jewelry,5/14/2010,43466.84
+Los Angeles,Toys,5/14/2010,58091.71
+Los Angeles,Shoes,5/14/2010,31054.88
+Los Angeles,Furniture,5/14/2010,10855.62
+Los Angeles,Electronics,5/14/2010,21447.79
+Los Angeles,Housewares,5/14/2010,62666.91
+Los Angeles,Outdoor,5/14/2010,11850.07
+Seattle,Housewares,5/14/2010,77259.96
+Seattle,Outdoor,5/14/2010,14605.7
+Seattle,Clothing,5/14/2010,27649.17
+Seattle,Furniture,5/14/2010,10266.61
+Seattle,Jewelry,5/14/2010,48542.31
+Seattle,Shoes,5/14/2010,31165.85
+Seattle,Toys,5/14/2010,60993.01
+Seattle,Electronics,5/14/2010,36221.11
+Buffalo,Clothing,5/21/2010,4444.92
+Buffalo,Toys,5/21/2010,7690.88
+Buffalo,Housewares,5/21/2010,15098.12
+Buffalo,Furniture,5/21/2010,3372.16
+Buffalo,Jewelry,5/21/2010,7061.3
+Buffalo,Outdoor,5/21/2010,1841.03
+Buffalo,Electronics,5/21/2010,5079.98
+Buffalo,Shoes,5/21/2010,8385.54
+Las Vegas,Shoes,5/21/2010,28726.86
+Las Vegas,Housewares,5/21/2010,44319.15
+Las Vegas,Electronics,5/21/2010,16157.17
+Las Vegas,Toys,5/21/2010,34442.73
+Las Vegas,Furniture,5/21/2010,7813.91
+Las Vegas,Clothing,5/21/2010,14773.04
+Las Vegas,Outdoor,5/21/2010,3395.75
+Las Vegas,Jewelry,5/21/2010,35571.47
+Los Angeles,Clothing,5/21/2010,22689.01
+Los Angeles,Outdoor,5/21/2010,8331.46
+Los Angeles,Housewares,5/21/2010,69699.5
+Los Angeles,Electronics,5/21/2010,19852.04
+Los Angeles,Furniture,5/21/2010,11486.91
+Los Angeles,Shoes,5/21/2010,40359.64
+Los Angeles,Jewelry,5/21/2010,45303.34
+Los Angeles,Toys,5/21/2010,59977
+Seattle,Electronics,5/21/2010,27277.64
+Seattle,Outdoor,5/21/2010,12752.5
+Seattle,Jewelry,5/21/2010,54926.4
+Seattle,Clothing,5/21/2010,27138.28
+Seattle,Furniture,5/21/2010,10733.81
+Seattle,Toys,5/21/2010,62826.34
+Seattle,Housewares,5/21/2010,81805.04
+Seattle,Shoes,5/21/2010,36121.78
+Buffalo,Shoes,5/28/2010,7285.55
+Buffalo,Housewares,5/28/2010,14749.03
+Buffalo,Furniture,5/28/2010,3568.78
+Buffalo,Jewelry,5/28/2010,7205.91
+Buffalo,Outdoor,5/28/2010,2656.79
+Buffalo,Clothing,5/28/2010,4204.65
+Buffalo,Toys,5/28/2010,7954.76
+Buffalo,Electronics,5/28/2010,5767.75
+Las Vegas,Furniture,5/28/2010,8412.69
+Las Vegas,Toys,5/28/2010,35046.1
+Las Vegas,Jewelry,5/28/2010,36380.36
+Las Vegas,Outdoor,5/28/2010,6165.59
+Las Vegas,Clothing,5/28/2010,15580.43
+Las Vegas,Shoes,5/28/2010,36911.59
+Las Vegas,Housewares,5/28/2010,44619.52
+Las Vegas,Electronics,5/28/2010,15784.6
+Los Angeles,Electronics,5/28/2010,23033.98
+Los Angeles,Jewelry,5/28/2010,49046.81
+Los Angeles,Furniture,5/28/2010,9264.33
+Los Angeles,Toys,5/28/2010,60202.35
+Los Angeles,Housewares,5/28/2010,68750.86
+Los Angeles,Shoes,5/28/2010,51582.43
+Los Angeles,Clothing,5/28/2010,22899.73
+Los Angeles,Outdoor,5/28/2010,9378.9
+Seattle,Housewares,5/28/2010,82674.48
+Seattle,Outdoor,5/28/2010,11454
+Seattle,Jewelry,5/28/2010,50608.77
+Seattle,Furniture,5/28/2010,11362.69
+Seattle,Clothing,5/28/2010,25405.65
+Seattle,Toys,5/28/2010,62635.49
+Seattle,Shoes,5/28/2010,47743.62
+Seattle,Electronics,5/28/2010,32193.38
+Buffalo,Outdoor,6/8/2010,1641.68
+Buffalo,Toys,6/8/2010,8095.02
+Buffalo,Clothing,6/8/2010,3552.7
+Buffalo,Housewares,6/8/2010,16183.81
+Buffalo,Furniture,6/8/2010,11686.01
+Buffalo,Shoes,6/8/2010,6375.91
+Buffalo,Electronics,6/8/2010,6065.41
+Buffalo,Jewelry,6/8/2010,8991.83
+Las Vegas,Jewelry,6/8/2010,40973.88
+Las Vegas,Outdoor,6/8/2010,4700.38
+Las Vegas,Clothing,6/8/2010,17508.41
+Las Vegas,Furniture,6/8/2010,26719.02
+Las Vegas,Housewares,6/8/2010,50031.73
+Las Vegas,Electronics,6/8/2010,16926.17
+Las Vegas,Shoes,6/8/2010,21842.57
+Las Vegas,Toys,6/8/2010,34833.35
+Los Angeles,Shoes,6/8/2010,29730.29
+Los Angeles,Clothing,6/8/2010,22795.72
+Los Angeles,Toys,6/8/2010,58947.32
+Los Angeles,Furniture,6/8/2010,41201.05
+Los Angeles,Housewares,6/8/2010,69920.91
+Los Angeles,Electronics,6/8/2010,24316.97
+Los Angeles,Jewelry,6/8/2010,49676.14
+Los Angeles,Outdoor,6/8/2010,8095.68
+Seattle,Shoes,6/8/2010,32800.34
+Seattle,Furniture,6/8/2010,44683.74
+Seattle,Jewelry,6/8/2010,56299.32
+Seattle,Clothing,6/8/2010,24769.54
+Seattle,Outdoor,6/8/2010,7394.69
+Seattle,Electronics,6/8/2010,33317.86
+Seattle,Toys,6/8/2010,62358.61
+Seattle,Housewares,6/8/2010,87791.77
+Buffalo,Jewelry,6/18/2010,7509.23
+Buffalo,Electronics,6/18/2010,8787.77
+Buffalo,Shoes,6/18/2010,8769.82
+Buffalo,Outdoor,6/18/2010,1556.22
+Buffalo,Furniture,6/18/2010,2920.7
+Buffalo,Housewares,6/18/2010,14982.99
+Buffalo,Clothing,6/18/2010,4444.66
+Buffalo,Toys,6/18/2010,8670.13
+Las Vegas,Furniture,6/18/2010,8201.06
+Las Vegas,Outdoor,6/18/2010,3902.26
+Las Vegas,Shoes,6/18/2010,26984.25
+Las Vegas,Housewares,6/18/2010,44428.71
+Las Vegas,Electronics,6/18/2010,19778.44
+Las Vegas,Jewelry,6/18/2010,35059.52
+Las Vegas,Toys,6/18/2010,33387.48
+Las Vegas,Clothing,6/18/2010,16216.27
+Los Angeles,Shoes,6/18/2010,41165.84
+Los Angeles,Toys,6/18/2010,57122.14
+Los Angeles,Outdoor,6/18/2010,7275.86
+Los Angeles,Clothing,6/18/2010,23918.56
+Los Angeles,Housewares,6/18/2010,69633.65
+Los Angeles,Electronics,6/18/2010,26323.42
+Los Angeles,Furniture,6/18/2010,10593.34
+Los Angeles,Jewelry,6/18/2010,46855.87
+Seattle,Electronics,6/18/2010,38562.19
+Seattle,Shoes,6/18/2010,41418.5
+Seattle,Furniture,6/18/2010,9902.21
+Seattle,Toys,6/18/2010,60549.07
+Seattle,Housewares,6/18/2010,86165.93
+Seattle,Clothing,6/18/2010,26832.57
+Seattle,Jewelry,6/18/2010,49646.84
+Seattle,Outdoor,6/18/2010,8590.35
+Buffalo,Electronics,6/25/2010,8362.08
+Buffalo,Outdoor,6/25/2010,1155.51
+Buffalo,Toys,6/25/2010,7914.04
+Buffalo,Jewelry,6/25/2010,7304.73
+Buffalo,Housewares,6/25/2010,13851.83
+Buffalo,Clothing,6/25/2010,4377.74
+Buffalo,Furniture,6/25/2010,2731.51
+Buffalo,Shoes,6/25/2010,13262.5
+Las Vegas,Jewelry,6/25/2010,34454.69
+Las Vegas,Outdoor,6/25/2010,4239.1
+Las Vegas,Furniture,6/25/2010,6591.22
+Las Vegas,Clothing,6/25/2010,16328.72
+Las Vegas,Toys,6/25/2010,33731.24
+Las Vegas,Shoes,6/25/2010,28912.18
+Las Vegas,Housewares,6/25/2010,45299.92
+Las Vegas,Electronics,6/25/2010,19054.58
+Los Angeles,Shoes,6/25/2010,41086.78
+Los Angeles,Outdoor,6/25/2010,7898.58
+Los Angeles,Furniture,6/25/2010,10615.94
+Los Angeles,Electronics,6/25/2010,26773.43
+Los Angeles,Jewelry,6/25/2010,43272.19
+Los Angeles,Housewares,6/25/2010,68587.69
+Los Angeles,Toys,6/25/2010,57049.63
+Los Angeles,Clothing,6/25/2010,23757.36
+Seattle,Toys,6/25/2010,57577.18
+Seattle,Housewares,6/25/2010,78775.38
+Seattle,Furniture,6/25/2010,8235.07
+Seattle,Clothing,6/25/2010,25940.32
+Seattle,Shoes,6/25/2010,47916.68
+Seattle,Jewelry,6/25/2010,48668.13
+Seattle,Outdoor,6/25/2010,10864.98
+Seattle,Electronics,6/25/2010,34501.52
+Buffalo,Electronics,7/5/2010,7328.41
+Buffalo,Jewelry,7/5/2010,8550.14
+Buffalo,Housewares,7/5/2010,16416.91
+Buffalo,Outdoor,7/5/2010,1660.85
+Buffalo,Clothing,7/5/2010,4756.69
+Buffalo,Furniture,7/5/2010,3841.05
+Buffalo,Shoes,7/5/2010,8612.51
+Buffalo,Toys,7/5/2010,9072.16
+Las Vegas,Clothing,7/5/2010,17413.94
+Las Vegas,Toys,7/5/2010,35393.78
+Las Vegas,Furniture,7/5/2010,9372.8
+Las Vegas,Housewares,7/5/2010,47903.01
+Las Vegas,Shoes,7/5/2010,20457.62
+Las Vegas,Outdoor,7/5/2010,7477.7
+Las Vegas,Jewelry,7/5/2010,37168.34
+Las Vegas,Electronics,7/5/2010,19260.44
+Los Angeles,Jewelry,7/5/2010,47486.4
+Los Angeles,Toys,7/5/2010,61640.34
+Los Angeles,Shoes,7/5/2010,36761.04
+Los Angeles,Electronics,7/5/2010,27408.86
+Los Angeles,Outdoor,7/5/2010,12981.17
+Los Angeles,Housewares,7/5/2010,68976.37
+Los Angeles,Clothing,7/5/2010,26191.58
+Los Angeles,Furniture,7/5/2010,12060.55
+Seattle,Outdoor,7/5/2010,12287.72
+Seattle,Electronics,7/5/2010,36695.23
+Seattle,Shoes,7/5/2010,37995.71
+Seattle,Toys,7/5/2010,68417.55
+Seattle,Clothing,7/5/2010,27453.68
+Seattle,Furniture,7/5/2010,11894.47
+Seattle,Housewares,7/5/2010,86455.24
+Seattle,Jewelry,7/5/2010,54037.74
+Buffalo,Housewares,7/16/2010,14659.55
+Buffalo,Jewelry,7/16/2010,6945.46
+Buffalo,Outdoor,7/16/2010,921.57
+Buffalo,Clothing,7/16/2010,3440.69
+Buffalo,Shoes,7/16/2010,7162.07
+Buffalo,Electronics,7/16/2010,5274.61
+Buffalo,Furniture,7/16/2010,5805.9
+Buffalo,Toys,7/16/2010,7856.36
+Las Vegas,Electronics,7/16/2010,17918.22
+Las Vegas,Furniture,7/16/2010,13751.3
+Las Vegas,Shoes,7/16/2010,22666.55
+Las Vegas,Housewares,7/16/2010,44339.2
+Las Vegas,Toys,7/16/2010,33171.72
+Las Vegas,Jewelry,7/16/2010,35234.66
+Las Vegas,Clothing,7/16/2010,17150.84
+Las Vegas,Outdoor,7/16/2010,4772.7
+Los Angeles,Jewelry,7/16/2010,46002.41
+Los Angeles,Clothing,7/16/2010,23727.77
+Los Angeles,Toys,7/16/2010,57622.55
+Los Angeles,Furniture,7/16/2010,21138.74
+Los Angeles,Shoes,7/16/2010,28685.54
+Los Angeles,Electronics,7/16/2010,22070.82
+Los Angeles,Outdoor,7/16/2010,6375.45
+Los Angeles,Housewares,7/16/2010,69430.49
+Seattle,Toys,7/16/2010,60005.05
+Seattle,Housewares,7/16/2010,87181.89
+Seattle,Electronics,7/16/2010,32590.11
+Seattle,Furniture,7/16/2010,25593.25
+Seattle,Clothing,7/16/2010,27218.37
+Seattle,Jewelry,7/16/2010,53436.74
+Seattle,Outdoor,7/16/2010,6201.79
+Seattle,Shoes,7/16/2010,38298.54
+Buffalo,Electronics,7/23/2010,6729.8
+Buffalo,Shoes,7/23/2010,6381.82
+Buffalo,Toys,7/23/2010,7002.83
+Buffalo,Jewelry,7/23/2010,7320.08
+Buffalo,Housewares,7/23/2010,14224.53
+Buffalo,Outdoor,7/23/2010,1683.46
+Buffalo,Furniture,7/23/2010,7107.79
+Buffalo,Clothing,7/23/2010,3874.45
+Las Vegas,Housewares,7/23/2010,44763.33
+Las Vegas,Clothing,7/23/2010,15360.45
+Las Vegas,Toys,7/23/2010,34350.12
+Las Vegas,Furniture,7/23/2010,16930.62
+Las Vegas,Outdoor,7/23/2010,5758.04
+Las Vegas,Electronics,7/23/2010,17313.46
+Las Vegas,Shoes,7/23/2010,20029.1
+Las Vegas,Jewelry,7/23/2010,36624.71
+Los Angeles,Outdoor,7/23/2010,8370.9
+Los Angeles,Shoes,7/23/2010,30319.88
+Los Angeles,Housewares,7/23/2010,66465.49
+Los Angeles,Clothing,7/23/2010,21139.52
+Los Angeles,Toys,7/23/2010,55654.91
+Los Angeles,Jewelry,7/23/2010,44645.34
+Los Angeles,Electronics,7/23/2010,22236.84
+Los Angeles,Furniture,7/23/2010,25107.25
+Seattle,Toys,7/23/2010,63123.05
+Seattle,Shoes,7/23/2010,35512.5
+Seattle,Housewares,7/23/2010,81652.46
+Seattle,Furniture,7/23/2010,31660.07
+Seattle,Electronics,7/23/2010,27250.41
+Seattle,Outdoor,7/23/2010,6323.99
+Seattle,Jewelry,7/23/2010,50912.21
+Seattle,Clothing,7/23/2010,27561.95
+Buffalo,Toys,7/30/2010,8128.51
+Buffalo,Furniture,7/30/2010,9147.7
+Buffalo,Shoes,7/30/2010,5208.45
+Buffalo,Jewelry,7/30/2010,7570.49
+Buffalo,Clothing,7/30/2010,4205.62
+Buffalo,Housewares,7/30/2010,14191.77
+Buffalo,Electronics,7/30/2010,5453.14
+Buffalo,Outdoor,7/30/2010,1491.41
+Las Vegas,Toys,7/30/2010,33568.19
+Las Vegas,Electronics,7/30/2010,16472.48
+Las Vegas,Shoes,7/30/2010,17709.46
+Las Vegas,Housewares,7/30/2010,45833.77
+Las Vegas,Outdoor,7/30/2010,3932.95
+Las Vegas,Clothing,7/30/2010,15381.82
+Las Vegas,Furniture,7/30/2010,20915.95
+Las Vegas,Jewelry,7/30/2010,36419.68
+Los Angeles,Shoes,7/30/2010,25195.42
+Los Angeles,Clothing,7/30/2010,22749.21
+Los Angeles,Toys,7/30/2010,57499.29
+Los Angeles,Jewelry,7/30/2010,45238.73
+Los Angeles,Housewares,7/30/2010,67829.52
+Los Angeles,Outdoor,7/30/2010,5050.13
+Los Angeles,Electronics,7/30/2010,24542.81
+Los Angeles,Furniture,7/30/2010,34165.46
+Seattle,Jewelry,7/30/2010,52243.98
+Seattle,Furniture,7/30/2010,41504.97
+Seattle,Outdoor,7/30/2010,8919.54
+Seattle,Electronics,7/30/2010,33482.99
+Seattle,Clothing,7/30/2010,27493.53
+Seattle,Shoes,7/30/2010,33527.62
+Seattle,Toys,7/30/2010,61625.27
+Seattle,Housewares,7/30/2010,85568.43
+Buffalo,Shoes,8/10/2010,8395.55
+Buffalo,Jewelry,8/10/2010,8310.01
+Buffalo,Outdoor,8/10/2010,1874.28
+Buffalo,Toys,8/10/2010,8596.29
+Buffalo,Housewares,8/10/2010,15962.43
+Buffalo,Clothing,8/10/2010,6848.21
+Buffalo,Furniture,8/10/2010,4171.83
+Buffalo,Electronics,8/10/2010,9659.36
+Las Vegas,Outdoor,8/10/2010,4168.36
+Las Vegas,Jewelry,8/10/2010,35772.82
+Las Vegas,Clothing,8/10/2010,23388.03
+Las Vegas,Housewares,8/10/2010,46387.54
+Las Vegas,Furniture,8/10/2010,10081.8
+Las Vegas,Shoes,8/10/2010,16350.96
+Las Vegas,Electronics,8/10/2010,19853.57
+Las Vegas,Toys,8/10/2010,35966.67
+Los Angeles,Housewares,8/10/2010,64252.04
+Los Angeles,Outdoor,8/10/2010,5869.56
+Los Angeles,Jewelry,8/10/2010,45818.11
+Los Angeles,Electronics,8/10/2010,27101.46
+Los Angeles,Toys,8/10/2010,59685.25
+Los Angeles,Furniture,8/10/2010,14480.96
+Los Angeles,Clothing,8/10/2010,31524.86
+Los Angeles,Shoes,8/10/2010,28039.79
+Seattle,Housewares,8/10/2010,86708.3
+Seattle,Electronics,8/10/2010,45367.02
+Seattle,Furniture,8/10/2010,13037.27
+Seattle,Toys,8/10/2010,65169.63
+Seattle,Outdoor,8/10/2010,7912.06
+Seattle,Shoes,8/10/2010,36607.75
+Seattle,Jewelry,8/10/2010,53891.67
+Seattle,Clothing,8/10/2010,37119.05
+Buffalo,Outdoor,8/13/2010,1204.78
+Buffalo,Clothing,8/13/2010,3930.41
+Buffalo,Shoes,8/13/2010,6972.53
+Buffalo,Electronics,8/13/2010,6352.28
+Buffalo,Toys,8/13/2010,6805.2
+Buffalo,Furniture,8/13/2010,9329.48
+Buffalo,Jewelry,8/13/2010,7340.21
+Buffalo,Housewares,8/13/2010,13947.93
+Las Vegas,Electronics,8/13/2010,15544.62
+Las Vegas,Shoes,8/13/2010,19178.36
+Las Vegas,Clothing,8/13/2010,15536.4
+Las Vegas,Toys,8/13/2010,32326.19
+Las Vegas,Housewares,8/13/2010,45475.69
+Las Vegas,Outdoor,8/13/2010,3885.01
+Las Vegas,Jewelry,8/13/2010,36461.66
+Las Vegas,Furniture,8/13/2010,30640.54
+Los Angeles,Jewelry,8/13/2010,46682.77
+Los Angeles,Housewares,8/13/2010,69947
+Los Angeles,Shoes,8/13/2010,27061.98
+Los Angeles,Outdoor,8/13/2010,7453.02
+Los Angeles,Furniture,8/13/2010,44340.16
+Los Angeles,Toys,8/13/2010,52832.4
+Los Angeles,Electronics,8/13/2010,19453.79
+Los Angeles,Clothing,8/13/2010,21933.3
+Seattle,Electronics,8/13/2010,37313.01
+Seattle,Jewelry,8/13/2010,56967.92
+Seattle,Housewares,8/13/2010,95845.19
+Seattle,Furniture,8/13/2010,67779.25
+Seattle,Toys,8/13/2010,62910.61
+Seattle,Clothing,8/13/2010,27058.91
+Seattle,Outdoor,8/13/2010,7455.5
+Seattle,Shoes,8/13/2010,35877.79
+Buffalo,Housewares,8/20/2010,14316.56
+Buffalo,Outdoor,8/20/2010,1201.18
+Buffalo,Toys,8/20/2010,6732.07
+Buffalo,Furniture,8/20/2010,13119.92
+Buffalo,Electronics,8/20/2010,4730.87
+Buffalo,Shoes,8/20/2010,7067.21
+Buffalo,Jewelry,8/20/2010,7740.37
+Buffalo,Clothing,8/20/2010,4136.05
+Las Vegas,Outdoor,8/20/2010,4067.35
+Las Vegas,Clothing,8/20/2010,15740.13
+Las Vegas,Toys,8/20/2010,32249.35
+Las Vegas,Jewelry,8/20/2010,39706.1
+Las Vegas,Furniture,8/20/2010,41101.93
+Las Vegas,Shoes,8/20/2010,17821.71
+Las Vegas,Housewares,8/20/2010,49754.17
+Las Vegas,Electronics,8/20/2010,15412.44
+Los Angeles,Furniture,8/20/2010,67235.4
+Los Angeles,Housewares,8/20/2010,69472.79
+Los Angeles,Electronics,8/20/2010,22920.64
+Los Angeles,Shoes,8/20/2010,29596.98
+Los Angeles,Jewelry,8/20/2010,50224.42
+Los Angeles,Outdoor,8/20/2010,5654.59
+Los Angeles,Clothing,8/20/2010,22126.52
+Los Angeles,Toys,8/20/2010,53779.81
+Seattle,Outdoor,8/20/2010,6001.02
+Seattle,Jewelry,8/20/2010,57022.55
+Seattle,Toys,8/20/2010,56995.29
+Seattle,Housewares,8/20/2010,99771.88
+Seattle,Shoes,8/20/2010,30029.99
+Seattle,Electronics,8/20/2010,31454.13
+Seattle,Furniture,8/20/2010,76740.18
+Seattle,Clothing,8/20/2010,27077.42
+Buffalo,Clothing,8/27/2010,3917.19
+Buffalo,Housewares,8/27/2010,15567.78
+Buffalo,Toys,8/27/2010,6565.03
+Buffalo,Shoes,8/27/2010,7073.77
+Buffalo,Jewelry,8/27/2010,7741.92
+Buffalo,Electronics,8/27/2010,4945.21
+Buffalo,Furniture,8/27/2010,15065.52
+Buffalo,Outdoor,8/27/2010,1042.06
+Las Vegas,Jewelry,8/27/2010,36404.6
+Las Vegas,Toys,8/27/2010,31272.68
+Las Vegas,Housewares,8/27/2010,49623.53
+Las Vegas,Electronics,8/27/2010,13570.32
+Las Vegas,Clothing,8/27/2010,15793.87
+Las Vegas,Furniture,8/27/2010,51159.17
+Las Vegas,Shoes,8/27/2010,16309.44
+Las Vegas,Outdoor,8/27/2010,3389.29
+Los Angeles,Shoes,8/27/2010,25264.69
+Los Angeles,Furniture,8/27/2010,66752.04
+Los Angeles,Outdoor,8/27/2010,4855.07
+Los Angeles,Electronics,8/27/2010,20008.17
+Los Angeles,Housewares,8/27/2010,69300.7
+Los Angeles,Toys,8/27/2010,52400.46
+Los Angeles,Jewelry,8/27/2010,45934.74
+Los Angeles,Clothing,8/27/2010,21264.66
+Seattle,Shoes,8/27/2010,36913.1
+Seattle,Furniture,8/27/2010,39983.26
+Seattle,Toys,8/27/2010,58526.02
+Seattle,Outdoor,8/27/2010,7223.49
+Seattle,Housewares,8/27/2010,87362.54
+Seattle,Clothing,8/27/2010,28044.57
+Seattle,Jewelry,8/27/2010,52712.01
+Seattle,Electronics,8/27/2010,33656.15
+Buffalo,Outdoor,9/4/2010,2066.34
+Buffalo,Housewares,9/4/2010,14848.71
+Buffalo,Jewelry,9/4/2010,8025.03
+Buffalo,Clothing,9/4/2010,8316.05
+Buffalo,Furniture,9/4/2010,3353.84
+Buffalo,Shoes,9/4/2010,6512.22
+Buffalo,Toys,9/4/2010,8262.93
+Buffalo,Electronics,9/4/2010,7638.83
+Las Vegas,Housewares,9/4/2010,46549.73
+Las Vegas,Shoes,9/4/2010,20516.64
+Las Vegas,Furniture,9/4/2010,10179.29
+Las Vegas,Electronics,9/4/2010,18516.45
+Las Vegas,Toys,9/4/2010,34145.96
+Las Vegas,Jewelry,9/4/2010,36174.43
+Las Vegas,Clothing,9/4/2010,42960.91
+Las Vegas,Outdoor,9/4/2010,4428.8
+Los Angeles,Outdoor,9/4/2010,5978.04
+Los Angeles,Clothing,9/4/2010,66560
+Los Angeles,Electronics,9/4/2010,28514.81
+Los Angeles,Housewares,9/4/2010,64295.22
+Los Angeles,Shoes,9/4/2010,32545.6
+Los Angeles,Furniture,9/4/2010,12873.09
+Los Angeles,Jewelry,9/4/2010,45280.89
+Los Angeles,Toys,9/4/2010,57612.62
+Seattle,Toys,9/4/2010,58908.32
+Seattle,Furniture,9/4/2010,11584.81
+Seattle,Housewares,9/4/2010,76007.75
+Seattle,Clothing,9/4/2010,56416.66
+Seattle,Jewelry,9/4/2010,49746.01
+Seattle,Outdoor,9/4/2010,8043.54
+Seattle,Electronics,9/4/2010,37779.66
+Seattle,Shoes,9/4/2010,34195.53
+Buffalo,Jewelry,9/7/2010,8636.49
+Buffalo,Clothing,9/7/2010,4544.62
+Buffalo,Furniture,9/7/2010,4657.49
+Buffalo,Outdoor,9/7/2010,716.34
+Buffalo,Housewares,9/7/2010,15093.18
+Buffalo,Electronics,9/7/2010,8787.98
+Buffalo,Toys,9/7/2010,7962.33
+Buffalo,Shoes,9/7/2010,7419.46
+Las Vegas,Housewares,9/7/2010,46752.12
+Las Vegas,Electronics,9/7/2010,20249.54
+Las Vegas,Shoes,9/7/2010,22767.34
+Las Vegas,Toys,9/7/2010,34721.25
+Las Vegas,Furniture,9/7/2010,8112.67
+Las Vegas,Jewelry,9/7/2010,39781.45
+Las Vegas,Clothing,9/7/2010,17688.76
+Las Vegas,Outdoor,9/7/2010,4986.25
+Los Angeles,Jewelry,9/7/2010,47787.07
+Los Angeles,Clothing,9/7/2010,23707.54
+Los Angeles,Shoes,9/7/2010,34549.92
+Los Angeles,Furniture,9/7/2010,13839.77
+Los Angeles,Toys,9/7/2010,57010.13
+Los Angeles,Housewares,9/7/2010,66045.13
+Los Angeles,Electronics,9/7/2010,25088.27
+Los Angeles,Outdoor,9/7/2010,8004.37
+Seattle,Jewelry,9/7/2010,54750.48
+Seattle,Furniture,9/7/2010,11614.2
+Seattle,Toys,9/7/2010,63423.92
+Seattle,Outdoor,9/7/2010,7827.51
+Seattle,Housewares,9/7/2010,81534.25
+Seattle,Clothing,9/7/2010,26687.61
+Seattle,Electronics,9/7/2010,36760.05
+Seattle,Shoes,9/7/2010,40817.35
+Buffalo,Shoes,9/17/2010,6604.18
+Buffalo,Clothing,9/17/2010,5833.23
+Buffalo,Electronics,9/17/2010,5754.92
+Buffalo,Jewelry,9/17/2010,7153.75
+Buffalo,Outdoor,9/17/2010,1628.42
+Buffalo,Housewares,9/17/2010,14294.92
+Buffalo,Toys,9/17/2010,7709.75
+Buffalo,Furniture,9/17/2010,3116.79
+Las Vegas,Electronics,9/17/2010,15862.61
+Las Vegas,Shoes,9/17/2010,17397.01
+Las Vegas,Housewares,9/17/2010,44681.64
+Las Vegas,Toys,9/17/2010,33762.32
+Las Vegas,Outdoor,9/17/2010,4492.88
+Las Vegas,Furniture,9/17/2010,10722.46
+Las Vegas,Jewelry,9/17/2010,33999.01
+Las Vegas,Clothing,9/17/2010,19354.23
+Los Angeles,Electronics,9/17/2010,21767.57
+Los Angeles,Housewares,9/17/2010,64649.52
+Los Angeles,Shoes,9/17/2010,26473.56
+Los Angeles,Clothing,9/17/2010,26266.39
+Los Angeles,Toys,9/17/2010,55673.16
+Los Angeles,Outdoor,9/17/2010,7218.06
+Los Angeles,Jewelry,9/17/2010,43583.12
+Los Angeles,Furniture,9/17/2010,14566.42
+Seattle,Toys,9/17/2010,61297.48
+Seattle,Furniture,9/17/2010,13081.31
+Seattle,Electronics,9/17/2010,34895.21
+Seattle,Shoes,9/17/2010,35747.58
+Seattle,Clothing,9/17/2010,33298.06
+Seattle,Housewares,9/17/2010,89875.27
+Seattle,Jewelry,9/17/2010,54102.43
+Seattle,Outdoor,9/17/2010,7738.8
+Buffalo,Shoes,9/24/2010,6937.11
+Buffalo,Toys,9/24/2010,7912.14
+Buffalo,Clothing,9/24/2010,5855.34
+Buffalo,Housewares,9/24/2010,14200.47
+Buffalo,Electronics,9/24/2010,6696.03
+Buffalo,Outdoor,9/24/2010,1337.94
+Buffalo,Furniture,9/24/2010,4106.96
+Buffalo,Jewelry,9/24/2010,7111.15
+Las Vegas,Clothing,9/24/2010,18122.52
+Las Vegas,Outdoor,9/24/2010,4601.39
+Las Vegas,Jewelry,9/24/2010,32497.43
+Las Vegas,Shoes,9/24/2010,18227.39
+Las Vegas,Housewares,9/24/2010,42477.49
+Las Vegas,Electronics,9/24/2010,17039.38
+Las Vegas,Furniture,9/24/2010,8097.92
+Las Vegas,Toys,9/24/2010,31381.97
+Los Angeles,Jewelry,9/24/2010,43343.92
+Los Angeles,Outdoor,9/24/2010,7809.65
+Los Angeles,Toys,9/24/2010,54894.49
+Los Angeles,Housewares,9/24/2010,65789.27
+Los Angeles,Shoes,9/24/2010,26189.63
+Los Angeles,Clothing,9/24/2010,26127.76
+Los Angeles,Electronics,9/24/2010,23831.77
+Los Angeles,Furniture,9/24/2010,12302.36
+Seattle,Housewares,9/24/2010,85159.65
+Seattle,Outdoor,9/24/2010,7367.9
+Seattle,Clothing,9/24/2010,32211.3
+Seattle,Electronics,9/24/2010,34085.24
+Seattle,Shoes,9/24/2010,31466.3
+Seattle,Jewelry,9/24/2010,52942.57
+Seattle,Furniture,9/24/2010,13027.88
+Seattle,Toys,9/24/2010,61292.91
+Buffalo,Furniture,10/9/2010,3546.95
+Buffalo,Shoes,10/9/2010,7228.39
+Buffalo,Electronics,10/9/2010,5868.25
+Buffalo,Jewelry,10/9/2010,8274.25
+Buffalo,Housewares,10/9/2010,14946.42
+Buffalo,Outdoor,10/9/2010,877.32
+Buffalo,Clothing,10/9/2010,5184.6
+Buffalo,Toys,10/9/2010,6999.09
+Las Vegas,Furniture,10/9/2010,12134.69
+Las Vegas,Clothing,10/9/2010,18194.74
+Las Vegas,Outdoor,10/9/2010,4432.69
+Las Vegas,Jewelry,10/9/2010,36603.78
+Las Vegas,Electronics,10/9/2010,17776.56
+Las Vegas,Toys,10/9/2010,32737.89
+Las Vegas,Shoes,10/9/2010,20824.49
+Las Vegas,Housewares,10/9/2010,45182.5
+Los Angeles,Furniture,10/9/2010,16018.45
+Los Angeles,Shoes,10/9/2010,30132.5
+Los Angeles,Toys,10/9/2010,56459.59
+Los Angeles,Clothing,10/9/2010,25710.17
+Los Angeles,Outdoor,10/9/2010,6567.2
+Los Angeles,Housewares,10/9/2010,65663.65
+Los Angeles,Electronics,10/9/2010,21516.68
+Los Angeles,Jewelry,10/9/2010,45649
+Seattle,Outdoor,10/9/2010,7104.55
+Seattle,Furniture,10/9/2010,13155.89
+Seattle,Shoes,10/9/2010,35713.93
+Seattle,Jewelry,10/9/2010,54140.32
+Seattle,Clothing,10/9/2010,33641.04
+Seattle,Housewares,10/9/2010,87384.43
+Seattle,Toys,10/9/2010,61744.33
+Seattle,Electronics,10/9/2010,31292.37
+Buffalo,Housewares,10/12/2010,14645.35
+Buffalo,Electronics,10/12/2010,17023.25
+Buffalo,Clothing,10/12/2010,9361.27
+Buffalo,Outdoor,10/12/2010,3436.9
+Buffalo,Toys,10/12/2010,7653.26
+Buffalo,Jewelry,10/12/2010,7992.26
+Buffalo,Furniture,10/12/2010,4251.07
+Buffalo,Shoes,10/12/2010,23375.98
+Las Vegas,Shoes,10/12/2010,63896.89
+Las Vegas,Housewares,10/12/2010,46955.82
+Las Vegas,Clothing,10/12/2010,31497.65
+Las Vegas,Toys,10/12/2010,35188.54
+Las Vegas,Furniture,10/12/2010,11219.78
+Las Vegas,Electronics,10/12/2010,49517.17
+Las Vegas,Jewelry,10/12/2010,36364.31
+Las Vegas,Outdoor,10/12/2010,6440.06
+Los Angeles,Outdoor,10/12/2010,11660.79
+Los Angeles,Electronics,10/12/2010,76143.28
+Los Angeles,Furniture,10/12/2010,16072.07
+Los Angeles,Jewelry,10/12/2010,48045.66
+Los Angeles,Clothing,10/12/2010,44451.34
+Los Angeles,Shoes,10/12/2010,140504.01
+Los Angeles,Toys,10/12/2010,59998.16
+Los Angeles,Housewares,10/12/2010,66513.13
+Seattle,Housewares,10/12/2010,94107.63
+Seattle,Outdoor,10/12/2010,10873.42
+Seattle,Toys,10/12/2010,65890.02
+Seattle,Jewelry,10/12/2010,55596.4
+Seattle,Shoes,10/12/2010,121861.67
+Seattle,Furniture,10/12/2010,16006.33
+Seattle,Electronics,10/12/2010,92877.69
+Seattle,Clothing,10/12/2010,49875.17
+Buffalo,Jewelry,10/15/2010,6863.46
+Buffalo,Shoes,10/15/2010,6433.15
+Buffalo,Furniture,10/15/2010,4271.04
+Buffalo,Electronics,10/15/2010,6027.66
+Buffalo,Outdoor,10/15/2010,1293.05
+Buffalo,Housewares,10/15/2010,13618.05
+Buffalo,Clothing,10/15/2010,7157.09
+Buffalo,Toys,10/15/2010,7258.17
+Las Vegas,Toys,10/15/2010,33747.68
+Las Vegas,Electronics,10/15/2010,20443.05
+Las Vegas,Housewares,10/15/2010,43110.79
+Las Vegas,Jewelry,10/15/2010,34693.27
+Las Vegas,Outdoor,10/15/2010,5024.04
+Las Vegas,Clothing,10/15/2010,26978.34
+Las Vegas,Shoes,10/15/2010,16296.65
+Las Vegas,Furniture,10/15/2010,9735.73
+Los Angeles,Furniture,10/15/2010,11490.78
+Los Angeles,Clothing,10/15/2010,34924.59
+Los Angeles,Shoes,10/15/2010,26440.36
+Los Angeles,Electronics,10/15/2010,25431.82
+Los Angeles,Outdoor,10/15/2010,4802.92
+Los Angeles,Jewelry,10/15/2010,44807.3
+Los Angeles,Toys,10/15/2010,56514.9
+Los Angeles,Housewares,10/15/2010,63597.23
+Seattle,Outdoor,10/15/2010,8482.13
+Seattle,Housewares,10/15/2010,82889.69
+Seattle,Toys,10/15/2010,63404.62
+Seattle,Furniture,10/15/2010,11934.19
+Seattle,Electronics,10/15/2010,43887.26
+Seattle,Shoes,10/15/2010,34361.32
+Seattle,Clothing,10/15/2010,42167.71
+Seattle,Jewelry,10/15/2010,50525.31
+Buffalo,Electronics,10/22/2010,6672.86
+Buffalo,Outdoor,10/22/2010,2370.38
+Buffalo,Housewares,10/22/2010,14729.64
+Buffalo,Furniture,10/22/2010,4086.16
+Buffalo,Clothing,10/22/2010,7665.09
+Buffalo,Jewelry,10/22/2010,7078.53
+Buffalo,Shoes,10/22/2010,6604.29
+Buffalo,Toys,10/22/2010,8093.19
+Las Vegas,Clothing,10/22/2010,25543.04
+Las Vegas,Outdoor,10/22/2010,4291.27
+Las Vegas,Jewelry,10/22/2010,32902.26
+Las Vegas,Furniture,10/22/2010,8614.41
+Las Vegas,Shoes,10/22/2010,15395.27
+Las Vegas,Toys,10/22/2010,32659.74
+Las Vegas,Housewares,10/22/2010,42371.48
+Las Vegas,Electronics,10/22/2010,19525.85
+Los Angeles,Electronics,10/22/2010,24888.57
+Los Angeles,Outdoor,10/22/2010,6058.8
+Los Angeles,Jewelry,10/22/2010,42886.13
+Los Angeles,Housewares,10/22/2010,62810.47
+Los Angeles,Furniture,10/22/2010,11462.89
+Los Angeles,Shoes,10/22/2010,26656.18
+Los Angeles,Toys,10/22/2010,56132
+Los Angeles,Clothing,10/22/2010,40755.17
+Seattle,Jewelry,10/22/2010,54253.23
+Seattle,Housewares,10/22/2010,86969.56
+Seattle,Clothing,10/22/2010,51673.53
+Seattle,Toys,10/22/2010,63417.23
+Seattle,Shoes,10/22/2010,35121.94
+Seattle,Furniture,10/22/2010,11099.16
+Seattle,Electronics,10/22/2010,43214.99
+Seattle,Outdoor,10/22/2010,6039.94
+Buffalo,Furniture,10/29/2010,3070.97
+Buffalo,Housewares,10/29/2010,13421.58
+Buffalo,Toys,10/29/2010,7526.98
+Buffalo,Shoes,10/29/2010,6573.88
+Buffalo,Jewelry,10/29/2010,7156.28
+Buffalo,Electronics,10/29/2010,5389.06
+Buffalo,Clothing,10/29/2010,11645.78
+Buffalo,Outdoor,10/29/2010,1371.28
+Las Vegas,Furniture,10/29/2010,9283.09
+Las Vegas,Clothing,10/29/2010,38640.93
+Las Vegas,Shoes,10/29/2010,17598.98
+Las Vegas,Jewelry,10/29/2010,35202.44
+Las Vegas,Electronics,10/29/2010,16377.46
+Las Vegas,Toys,10/29/2010,34917.77
+Las Vegas,Outdoor,10/29/2010,5424.27
+Las Vegas,Housewares,10/29/2010,44081.33
+Los Angeles,Outdoor,10/29/2010,5520.87
+Los Angeles,Furniture,10/29/2010,11236.1
+Los Angeles,Jewelry,10/29/2010,44921.82
+Los Angeles,Housewares,10/29/2010,63125.76
+Los Angeles,Clothing,10/29/2010,56903.47
+Los Angeles,Electronics,10/29/2010,25038.28
+Los Angeles,Shoes,10/29/2010,27622.15
+Los Angeles,Toys,10/29/2010,57667.62
+Seattle,Shoes,10/29/2010,35150.75
+Seattle,Furniture,10/29/2010,11635.2
+Seattle,Housewares,10/29/2010,84800.12
+Seattle,Jewelry,10/29/2010,51854.74
+Seattle,Outdoor,10/29/2010,7106.85
+Seattle,Clothing,10/29/2010,77397.15
+Seattle,Electronics,10/29/2010,36051.3
+Seattle,Toys,10/29/2010,62949.8
+Buffalo,Clothing,11/6/2010,4726.45
+Buffalo,Shoes,11/6/2010,8608.54
+Buffalo,Outdoor,11/6/2010,1657.04
+Buffalo,Furniture,11/6/2010,2503.69
+Buffalo,Housewares,11/6/2010,15351.27
+Buffalo,Toys,11/6/2010,8835.93
+Buffalo,Electronics,11/6/2010,8578.21
+Buffalo,Jewelry,11/6/2010,7137.97
+Las Vegas,Electronics,11/6/2010,21817.36
+Las Vegas,Toys,11/6/2010,34036.53
+Las Vegas,Shoes,11/6/2010,26910.46
+Las Vegas,Furniture,11/6/2010,7742.75
+Las Vegas,Jewelry,11/6/2010,36579.96
+Las Vegas,Outdoor,11/6/2010,4082.04
+Las Vegas,Clothing,11/6/2010,16637.62
+Las Vegas,Housewares,11/6/2010,47089.54
+Los Angeles,Jewelry,11/6/2010,45485.63
+Los Angeles,Furniture,11/6/2010,12166.23
+Los Angeles,Outdoor,11/6/2010,10125.25
+Los Angeles,Housewares,11/6/2010,72603.29
+Los Angeles,Electronics,11/6/2010,28096.78
+Los Angeles,Toys,11/6/2010,61110.56
+Los Angeles,Shoes,11/6/2010,41691.53
+Los Angeles,Clothing,11/6/2010,24549.01
+Seattle,Furniture,11/6/2010,8633.04
+Seattle,Toys,11/6/2010,57975.15
+Seattle,Electronics,11/6/2010,36070.92
+Seattle,Housewares,11/6/2010,78179.6
+Seattle,Shoes,11/6/2010,42143.68
+Seattle,Jewelry,11/6/2010,49069.9
+Seattle,Outdoor,11/6/2010,8866.86
+Seattle,Clothing,11/6/2010,26962.02
+Buffalo,Clothing,11/19/2010,5848.35
+Buffalo,Electronics,11/19/2010,9856.68
+Buffalo,Shoes,11/19/2010,9419.77
+Buffalo,Outdoor,11/19/2010,1920.9
+Buffalo,Toys,11/19/2010,8479.26
+Buffalo,Furniture,11/19/2010,3468.65
+Buffalo,Housewares,11/19/2010,15414.89
+Buffalo,Jewelry,11/19/2010,8687.49
+Las Vegas,Furniture,11/19/2010,9202.11
+Las Vegas,Toys,11/19/2010,35759.26
+Las Vegas,Jewelry,11/19/2010,37078.61
+Las Vegas,Electronics,11/19/2010,24716.49
+Las Vegas,Clothing,11/19/2010,19552.84
+Las Vegas,Housewares,11/19/2010,41443.25
+Las Vegas,Shoes,11/19/2010,24313.72
+Las Vegas,Outdoor,11/19/2010,3507.65
+Los Angeles,Housewares,11/19/2010,65120.69
+Los Angeles,Jewelry,11/19/2010,51524.46
+Los Angeles,Electronics,11/19/2010,34318.05
+Los Angeles,Furniture,11/19/2010,11233.22
+Los Angeles,Clothing,11/19/2010,24363.72
+Los Angeles,Outdoor,11/19/2010,7668.48
+Los Angeles,Shoes,11/19/2010,53218.32
+Los Angeles,Toys,11/19/2010,61775.39
+Seattle,Outdoor,11/19/2010,7455.44
+Seattle,Housewares,11/19/2010,89350.52
+Seattle,Clothing,11/19/2010,32392.84
+Seattle,Toys,11/19/2010,69442.5
+Seattle,Jewelry,11/19/2010,60787.72
+Seattle,Shoes,11/19/2010,49992.79
+Seattle,Furniture,11/19/2010,12716.95
+Seattle,Electronics,11/19/2010,51115.8
+Buffalo,Electronics,11/26/2010,40342.94
+Buffalo,Jewelry,11/26/2010,9123.35
+Buffalo,Shoes,11/26/2010,33061.55
+Buffalo,Housewares,11/26/2010,14051.23
+Buffalo,Toys,11/26/2010,7260.27
+Buffalo,Clothing,11/26/2010,5111.38
+Buffalo,Outdoor,11/26/2010,13067.28
+Buffalo,Furniture,11/26/2010,4411.18
+Las Vegas,Toys,11/26/2010,34099.53
+Las Vegas,Outdoor,11/26/2010,20163.69
+Las Vegas,Shoes,11/26/2010,72635.06
+Las Vegas,Jewelry,11/26/2010,46201.27
+Las Vegas,Furniture,11/26/2010,10706.81
+Las Vegas,Housewares,11/26/2010,45681.98
+Las Vegas,Clothing,11/26/2010,18820.29
+Las Vegas,Electronics,11/26/2010,70158.86
+Los Angeles,Toys,11/26/2010,61973.18
+Los Angeles,Outdoor,11/26/2010,27228
+Los Angeles,Clothing,11/26/2010,24513.63
+Los Angeles,Electronics,11/26/2010,102750.26
+Los Angeles,Furniture,11/26/2010,15224.16
+Los Angeles,Housewares,11/26/2010,66864.2
+Los Angeles,Shoes,11/26/2010,140648.34
+Los Angeles,Jewelry,11/26/2010,60904.49
+Seattle,Toys,11/26/2010,60883.4
+Seattle,Housewares,11/26/2010,91281.55
+Seattle,Outdoor,11/26/2010,33055.16
+Seattle,Clothing,11/26/2010,30958.54
+Seattle,Furniture,11/26/2010,14835.25
+Seattle,Electronics,11/26/2010,129860.88
+Seattle,Jewelry,11/26/2010,67374.29
+Seattle,Shoes,11/26/2010,132613.12
+Buffalo,Electronics,12/2/2010,12981.72
+Buffalo,Clothing,12/2/2010,12748.72
+Buffalo,Housewares,12/2/2010,15177.3
+Buffalo,Shoes,12/2/2010,8087.19
+Buffalo,Jewelry,12/2/2010,8489.46
+Buffalo,Outdoor,12/2/2010,2605.51
+Buffalo,Furniture,12/2/2010,4887.08
+Buffalo,Toys,12/2/2010,8134.91
+Las Vegas,Clothing,12/2/2010,46039.49
+Las Vegas,Jewelry,12/2/2010,35351.21
+Las Vegas,Housewares,12/2/2010,44682.74
+Las Vegas,Toys,12/2/2010,37334.83
+Las Vegas,Furniture,12/2/2010,10887.84
+Las Vegas,Shoes,12/2/2010,18310.31
+Las Vegas,Outdoor,12/2/2010,9135
+Las Vegas,Electronics,12/2/2010,29620.81
+Los Angeles,Electronics,12/2/2010,37978.19
+Los Angeles,Toys,12/2/2010,63393.29
+Los Angeles,Outdoor,12/2/2010,12491.16
+Los Angeles,Furniture,12/2/2010,13821.01
+Los Angeles,Housewares,12/2/2010,65487.46
+Los Angeles,Shoes,12/2/2010,29067.99
+Los Angeles,Clothing,12/2/2010,60483.7
+Los Angeles,Jewelry,12/2/2010,44197.95
+Seattle,Electronics,12/2/2010,48016.95
+Seattle,Shoes,12/2/2010,37175.62
+Seattle,Clothing,12/2/2010,69872.44
+Seattle,Jewelry,12/2/2010,54069.82
+Seattle,Outdoor,12/2/2010,9609.3
+Seattle,Housewares,12/2/2010,85763.19
+Seattle,Toys,12/2/2010,66308.14
+Seattle,Furniture,12/2/2010,16384.59
+Buffalo,Toys,12/3/2010,8394.64
+Buffalo,Furniture,12/3/2010,4067.62
+Buffalo,Jewelry,12/3/2010,6932.93
+Buffalo,Electronics,12/3/2010,8846.44
+Buffalo,Shoes,12/3/2010,8012.34
+Buffalo,Clothing,12/3/2010,5540.28
+Buffalo,Housewares,12/3/2010,15022.47
+Buffalo,Outdoor,12/3/2010,1858.51
+Las Vegas,Clothing,12/3/2010,21043.39
+Las Vegas,Jewelry,12/3/2010,32668.67
+Las Vegas,Outdoor,12/3/2010,5619
+Las Vegas,Toys,12/3/2010,34342.64
+Las Vegas,Housewares,12/3/2010,43751.94
+Las Vegas,Shoes,12/3/2010,21529.14
+Las Vegas,Electronics,12/3/2010,21498.92
+Las Vegas,Furniture,12/3/2010,10123.45
+Los Angeles,Jewelry,12/3/2010,42489.21
+Los Angeles,Electronics,12/3/2010,35103.72
+Los Angeles,Furniture,12/3/2010,13061.56
+Los Angeles,Toys,12/3/2010,63800.16
+Los Angeles,Shoes,12/3/2010,27494.27
+Los Angeles,Clothing,12/3/2010,28660.87
+Los Angeles,Housewares,12/3/2010,66622.03
+Los Angeles,Outdoor,12/3/2010,8030.58
+Seattle,Outdoor,12/3/2010,6169.75
+Seattle,Jewelry,12/3/2010,52142.35
+Seattle,Clothing,12/3/2010,29452.49
+Seattle,Toys,12/3/2010,63653.75
+Seattle,Electronics,12/3/2010,51995.73
+Seattle,Shoes,12/3/2010,32274.55
+Seattle,Housewares,12/3/2010,82292.01
+Seattle,Furniture,12/3/2010,14321.78
+Buffalo,Furniture,12/11/2010,3534.32
+Buffalo,Housewares,12/11/2010,13929.33
+Buffalo,Outdoor,12/11/2010,2197.88
+Buffalo,Toys,12/11/2010,7707.11
+Buffalo,Jewelry,12/11/2010,7144.7
+Buffalo,Shoes,12/11/2010,6450.46
+Buffalo,Clothing,12/11/2010,5003.46
+Buffalo,Electronics,12/11/2010,9919.99
+Las Vegas,Toys,12/11/2010,35527.64
+Las Vegas,Jewelry,12/11/2010,35008.03
+Las Vegas,Outdoor,12/11/2010,4248.34
+Las Vegas,Housewares,12/11/2010,43194.49
+Las Vegas,Electronics,12/11/2010,23698.89
+Las Vegas,Clothing,12/11/2010,19549.39
+Las Vegas,Furniture,12/11/2010,9146.77
+Las Vegas,Shoes,12/11/2010,21019.7
+Los Angeles,Furniture,12/11/2010,11819.73
+Los Angeles,Toys,12/11/2010,58246.78
+Los Angeles,Outdoor,12/11/2010,5171.68
+Los Angeles,Jewelry,12/11/2010,46147.8
+Los Angeles,Electronics,12/11/2010,34141.84
+Los Angeles,Shoes,12/11/2010,42628.64
+Los Angeles,Clothing,12/11/2010,22794.09
+Los Angeles,Housewares,12/11/2010,62367.28
+Seattle,Furniture,12/11/2010,13343.92
+Seattle,Jewelry,12/11/2010,53983.21
+Seattle,Electronics,12/11/2010,47622.86
+Seattle,Clothing,12/11/2010,29630.5
+Seattle,Shoes,12/11/2010,45522.98
+Seattle,Toys,12/11/2010,63175.82
+Seattle,Housewares,12/11/2010,86753.2
+Seattle,Outdoor,12/11/2010,6792.45
+Buffalo,Jewelry,12/17/2010,7911.44
+Buffalo,Toys,12/17/2010,8428.94
+Buffalo,Housewares,12/17/2010,15027.83
+Buffalo,Clothing,12/17/2010,14138.92
+Buffalo,Electronics,12/17/2010,26719.89
+Buffalo,Outdoor,12/17/2010,4436.46
+Buffalo,Furniture,12/17/2010,4951.06
+Buffalo,Shoes,12/17/2010,34956.94
+Las Vegas,Furniture,12/17/2010,11986.84
+Las Vegas,Toys,12/17/2010,36961.11
+Las Vegas,Clothing,12/17/2010,44912.86
+Las Vegas,Housewares,12/17/2010,49303.28
+Las Vegas,Jewelry,12/17/2010,39154.41
+Las Vegas,Shoes,12/17/2010,96198.12
+Las Vegas,Electronics,12/17/2010,59589.48
+Las Vegas,Outdoor,12/17/2010,12078.11
+Los Angeles,Furniture,12/17/2010,18194.58
+Los Angeles,Shoes,12/17/2010,167617.55
+Los Angeles,Outdoor,12/17/2010,22968.91
+Los Angeles,Clothing,12/17/2010,64512.46
+Los Angeles,Housewares,12/17/2010,74559.82
+Los Angeles,Electronics,12/17/2010,90724.19
+Los Angeles,Jewelry,12/17/2010,50651.28
+Los Angeles,Toys,12/17/2010,65005.26
+Seattle,Jewelry,12/17/2010,59042.38
+Seattle,Outdoor,12/17/2010,29207.93
+Seattle,Electronics,12/17/2010,115322.43
+Seattle,Housewares,12/17/2010,100225.88
+Seattle,Furniture,12/17/2010,19505.27
+Seattle,Clothing,12/17/2010,74389.92
+Seattle,Toys,12/17/2010,68922.99
+Seattle,Shoes,12/17/2010,194187.36
+Buffalo,Clothing,12/24/2010,12351.12
+Buffalo,Toys,12/24/2010,8854.24
+Buffalo,Electronics,12/24/2010,35871.07
+Buffalo,Jewelry,12/24/2010,9602.35
+Buffalo,Furniture,12/24/2010,5107.51
+Buffalo,Shoes,12/24/2010,53832.37
+Buffalo,Housewares,12/24/2010,16877.14
+Buffalo,Outdoor,12/24/2010,7405.78
+Las Vegas,Outdoor,12/24/2010,28497.52
+Las Vegas,Shoes,12/24/2010,166697.72
+Las Vegas,Toys,12/24/2010,41864
+Las Vegas,Jewelry,12/24/2010,47893.23
+Las Vegas,Housewares,12/24/2010,59889.32
+Las Vegas,Electronics,12/24/2010,85676.09
+Las Vegas,Furniture,12/24/2010,12080.36
+Las Vegas,Clothing,12/24/2010,55931.23
+Los Angeles,Shoes,12/24/2010,264837.42
+Los Angeles,Electronics,12/24/2010,150343.42
+Los Angeles,Jewelry,12/24/2010,62586.93
+Los Angeles,Outdoor,12/24/2010,42885.88
+Los Angeles,Toys,12/24/2010,74917.03
+Los Angeles,Furniture,12/24/2010,21725.62
+Los Angeles,Clothing,12/24/2010,82523.73
+Los Angeles,Housewares,12/24/2010,91738.44
+Seattle,Electronics,12/24/2010,174922.53
+Seattle,Housewares,12/24/2010,116473.44
+Seattle,Furniture,12/24/2010,22182.14
+Seattle,Jewelry,12/24/2010,68696.66
+Seattle,Outdoor,12/24/2010,45600.79
+Seattle,Clothing,12/24/2010,91216.16
+Seattle,Shoes,12/24/2010,293835.78
+Seattle,Toys,12/24/2010,76078.03
+Buffalo,Clothing,12/31/2010,5375.83
+Buffalo,Jewelry,12/31/2010,9594.35
+Buffalo,Housewares,12/31/2010,13584.29
+Buffalo,Electronics,12/31/2010,11422.82
+Buffalo,Shoes,12/31/2010,13228.62
+Buffalo,Outdoor,12/31/2010,1797.26
+Buffalo,Furniture,12/31/2010,2771.75
+Buffalo,Toys,12/31/2010,8386.91
+Las Vegas,Furniture,12/31/2010,8266.14
+Las Vegas,Jewelry,12/31/2010,36913.8
+Las Vegas,Clothing,12/31/2010,19124.58
+Las Vegas,Housewares,12/31/2010,35819.83
+Las Vegas,Electronics,12/31/2010,32280.82
+Las Vegas,Outdoor,12/31/2010,5878.25
+Las Vegas,Shoes,12/31/2010,27433.06
+Las Vegas,Toys,12/31/2010,32751.73
+Los Angeles,Clothing,12/31/2010,28482.71
+Los Angeles,Furniture,12/31/2010,8846.2
+Los Angeles,Jewelry,12/31/2010,46856.39
+Los Angeles,Outdoor,12/31/2010,7570.19
+Los Angeles,Electronics,12/31/2010,38706.43
+Los Angeles,Housewares,12/31/2010,55375.52
+Los Angeles,Toys,12/31/2010,56660.17
+Los Angeles,Shoes,12/31/2010,37464.04
+Seattle,Jewelry,12/31/2010,53679.23
+Seattle,Housewares,12/31/2010,78283.52
+Seattle,Electronics,12/31/2010,56929.88
+Seattle,Toys,12/31/2010,61888.56
+Seattle,Furniture,12/31/2010,11997.9
+Seattle,Outdoor,12/31/2010,7384.72
+Seattle,Clothing,12/31/2010,28449.27
+Seattle,Shoes,12/31/2010,40327.46
+Buffalo,Electronics,1/4/2011,9155.98
+Buffalo,Furniture,1/4/2011,3324.23
+Buffalo,Jewelry,1/4/2011,6464.12
+Buffalo,Housewares,1/4/2011,14053.93
+Buffalo,Shoes,1/4/2011,6674.34
+Buffalo,Outdoor,1/4/2011,1073.3
+Buffalo,Clothing,1/4/2011,6389.96
+Buffalo,Toys,1/4/2011,7284.46
+Las Vegas,Toys,1/4/2011,35319.05
+Las Vegas,Furniture,1/4/2011,8734.19
+Las Vegas,Jewelry,1/4/2011,34451.9
+Las Vegas,Outdoor,1/4/2011,3249.27
+Las Vegas,Shoes,1/4/2011,20144.71
+Las Vegas,Housewares,1/4/2011,46991.58
+Las Vegas,Electronics,1/4/2011,23598.55
+Las Vegas,Clothing,1/4/2011,20398.09
+Los Angeles,Outdoor,1/4/2011,6312.02
+Los Angeles,Housewares,1/4/2011,65018.79
+Los Angeles,Electronics,1/4/2011,31811.68
+Los Angeles,Clothing,1/4/2011,24591.68
+Los Angeles,Toys,1/4/2011,57518.97
+Los Angeles,Jewelry,1/4/2011,42467.97
+Los Angeles,Shoes,1/4/2011,27458.9
+Los Angeles,Furniture,1/4/2011,10844.24
+Seattle,Electronics,1/4/2011,42995.57
+Seattle,Shoes,1/4/2011,35576.18
+Seattle,Clothing,1/4/2011,33809.56
+Seattle,Jewelry,1/4/2011,51382.98
+Seattle,Toys,1/4/2011,58162.65
+Seattle,Outdoor,1/4/2011,3392.98
+Seattle,Housewares,1/4/2011,87803.95
+Seattle,Furniture,1/4/2011,11476.27
+Buffalo,Shoes,1/7/2011,8816.35
+Buffalo,Jewelry,1/7/2011,8429.93
+Buffalo,Clothing,1/7/2011,5273.09
+Buffalo,Outdoor,1/7/2011,1940.78
+Buffalo,Furniture,1/7/2011,3077.4
+Buffalo,Toys,1/7/2011,8391.08
+Buffalo,Housewares,1/7/2011,17234.09
+Buffalo,Electronics,1/7/2011,9507.79
+Las Vegas,Furniture,1/7/2011,8070.64
+Las Vegas,Shoes,1/7/2011,23747.1
+Las Vegas,Housewares,1/7/2011,45247.74
+Las Vegas,Outdoor,1/7/2011,4047.92
+Las Vegas,Jewelry,1/7/2011,36451.71
+Las Vegas,Toys,1/7/2011,34063.23
+Las Vegas,Electronics,1/7/2011,19239.86
+Las Vegas,Clothing,1/7/2011,15363.5
+Los Angeles,Housewares,1/7/2011,64838.42
+Los Angeles,Electronics,1/7/2011,21354.28
+Los Angeles,Furniture,1/7/2011,10217.77
+Los Angeles,Clothing,1/7/2011,21706.59
+Los Angeles,Outdoor,1/7/2011,6078.89
+Los Angeles,Jewelry,1/7/2011,46307.86
+Los Angeles,Shoes,1/7/2011,39615.78
+Los Angeles,Toys,1/7/2011,58253.08
+Seattle,Housewares,1/7/2011,96552.99
+Seattle,Toys,1/7/2011,65670.52
+Seattle,Outdoor,1/7/2011,7664.63
+Seattle,Electronics,1/7/2011,38571.83
+Seattle,Furniture,1/7/2011,9256.08
+Seattle,Clothing,1/7/2011,25369.16
+Seattle,Jewelry,1/7/2011,57906.09
+Seattle,Shoes,1/7/2011,57908.72
+Buffalo,Jewelry,1/14/2011,8300.98
+Buffalo,Toys,1/14/2011,8493.31
+Buffalo,Clothing,1/14/2011,5938.37
+Buffalo,Furniture,1/14/2011,4556.46
+Buffalo,Housewares,1/14/2011,13797.81
+Buffalo,Electronics,1/14/2011,8675.61
+Buffalo,Outdoor,1/14/2011,1340.64
+Buffalo,Shoes,1/14/2011,5243.77
+Las Vegas,Electronics,1/14/2011,17445.37
+Las Vegas,Shoes,1/14/2011,10774.06
+Las Vegas,Jewelry,1/14/2011,34393.95
+Las Vegas,Clothing,1/14/2011,17359.7
+Las Vegas,Furniture,1/14/2011,13275.87
+Las Vegas,Outdoor,1/14/2011,2355.86
+Las Vegas,Toys,1/14/2011,34228.3
+Las Vegas,Housewares,1/14/2011,39857.4
+Los Angeles,Jewelry,1/14/2011,44945.65
+Los Angeles,Outdoor,1/14/2011,3481.18
+Los Angeles,Toys,1/14/2011,57356.16
+Los Angeles,Furniture,1/14/2011,12698.84
+Los Angeles,Shoes,1/14/2011,16796.38
+Los Angeles,Housewares,1/14/2011,56606.3
+Los Angeles,Electronics,1/14/2011,21445.52
+Los Angeles,Clothing,1/14/2011,22159.74
+Seattle,Electronics,1/14/2011,35733.27
+Seattle,Furniture,1/14/2011,16627.16
+Seattle,Shoes,1/14/2011,22220.95
+Seattle,Jewelry,1/14/2011,54969.55
+Seattle,Housewares,1/14/2011,88181.29
+Seattle,Toys,1/14/2011,64828.44
+Seattle,Outdoor,1/14/2011,6006.55
+Seattle,Clothing,1/14/2011,27985.62
+Buffalo,Housewares,1/21/2011,15655.73
+Buffalo,Toys,1/21/2011,8336.42
+Buffalo,Outdoor,1/21/2011,1110.24
+Buffalo,Furniture,1/21/2011,5060.19
+Buffalo,Jewelry,1/21/2011,8313.48
+Buffalo,Shoes,1/21/2011,6079.3
+Buffalo,Clothing,1/21/2011,5514.44
+Buffalo,Electronics,1/21/2011,7436.61
+Las Vegas,Housewares,1/21/2011,41596.99
+Las Vegas,Electronics,1/21/2011,18438.07
+Las Vegas,Clothing,1/21/2011,17341.47
+Las Vegas,Toys,1/21/2011,34547.4
+Las Vegas,Shoes,1/21/2011,12657.33
+Las Vegas,Outdoor,1/21/2011,2163.84
+Las Vegas,Furniture,1/21/2011,12532.94
+Las Vegas,Jewelry,1/21/2011,33735.58
+Los Angeles,Shoes,1/21/2011,21683.09
+Los Angeles,Outdoor,1/21/2011,4562.65
+Los Angeles,Jewelry,1/21/2011,45875.56
+Los Angeles,Electronics,1/21/2011,24014.1
+Los Angeles,Housewares,1/21/2011,62126.32
+Los Angeles,Clothing,1/21/2011,23088.16
+Los Angeles,Toys,1/21/2011,60375.69
+Los Angeles,Furniture,1/21/2011,17268.17
+Seattle,Outdoor,1/21/2011,4460.66
+Seattle,Toys,1/21/2011,65014.35
+Seattle,Furniture,1/21/2011,17979.8
+Seattle,Jewelry,1/21/2011,55157.31
+Seattle,Shoes,1/21/2011,26206.39
+Seattle,Electronics,1/21/2011,34124.65
+Seattle,Housewares,1/21/2011,90745.3
+Seattle,Clothing,1/21/2011,29835.26
+Buffalo,Furniture,1/28/2011,5401.52
+Buffalo,Housewares,1/28/2011,13876.17
+Buffalo,Clothing,1/28/2011,5934.7
+Buffalo,Outdoor,1/28/2011,2751.74
+Buffalo,Toys,1/28/2011,7722.54
+Buffalo,Jewelry,1/28/2011,7480.53
+Buffalo,Shoes,1/28/2011,6131.37
+Buffalo,Electronics,1/28/2011,11660.98
+Las Vegas,Toys,1/28/2011,35110.75
+Las Vegas,Housewares,1/28/2011,41651.01
+Las Vegas,Jewelry,1/28/2011,32905.88
+Las Vegas,Shoes,1/28/2011,13957.4
+Las Vegas,Furniture,1/28/2011,11983.34
+Las Vegas,Electronics,1/28/2011,22118.7
+Las Vegas,Clothing,1/28/2011,18461.18
+Las Vegas,Outdoor,1/28/2011,3200.68
+Los Angeles,Outdoor,1/28/2011,2995.8
+Los Angeles,Housewares,1/28/2011,59940.76
+Los Angeles,Electronics,1/28/2011,27754.2
+Los Angeles,Toys,1/28/2011,59611.03
+Los Angeles,Furniture,1/28/2011,13959.9
+Los Angeles,Clothing,1/28/2011,25461.57
+Los Angeles,Jewelry,1/28/2011,43907.78
+Los Angeles,Shoes,1/28/2011,19681.82
+Seattle,Clothing,1/28/2011,30977.96
+Seattle,Outdoor,1/28/2011,5337.34
+Seattle,Housewares,1/28/2011,84516.07
+Seattle,Toys,1/28/2011,62350.08
+Seattle,Shoes,1/28/2011,29911.25
+Seattle,Electronics,1/28/2011,40370.22
+Seattle,Jewelry,1/28/2011,51712.45
+Seattle,Furniture,1/28/2011,15595.81
+Buffalo,Jewelry,2/9/2011,8773.88
+Buffalo,Clothing,2/9/2011,5210.03
+Buffalo,Shoes,2/9/2011,7721.49
+Buffalo,Outdoor,2/9/2011,800.24
+Buffalo,Housewares,2/9/2011,18264.92
+Buffalo,Electronics,2/9/2011,8199.19
+Buffalo,Toys,2/9/2011,7552.68
+Buffalo,Furniture,2/9/2011,7457.63
+Las Vegas,Shoes,2/9/2011,14564.8
+Las Vegas,Jewelry,2/9/2011,36589.07
+Las Vegas,Housewares,2/9/2011,49419.75
+Las Vegas,Clothing,2/9/2011,15277.27
+Las Vegas,Electronics,2/9/2011,20432.91
+Las Vegas,Furniture,2/9/2011,19604.47
+Las Vegas,Outdoor,2/9/2011,3461.79
+Las Vegas,Toys,2/9/2011,34963.68
+Los Angeles,Shoes,2/9/2011,25244.28
+Los Angeles,Housewares,2/9/2011,66006.89
+Los Angeles,Electronics,2/9/2011,20155.06
+Los Angeles,Furniture,2/9/2011,28003.45
+Los Angeles,Clothing,2/9/2011,23645.73
+Los Angeles,Outdoor,2/9/2011,5331.25
+Los Angeles,Jewelry,2/9/2011,43831.31
+Los Angeles,Toys,2/9/2011,55692.84
+Seattle,Electronics,2/9/2011,35176.39
+Seattle,Housewares,2/9/2011,104098.12
+Seattle,Toys,2/9/2011,61627.1
+Seattle,Shoes,2/9/2011,39017.49
+Seattle,Jewelry,2/9/2011,58127.38
+Seattle,Clothing,2/9/2011,29247.78
+Seattle,Outdoor,2/9/2011,6567.39
+Seattle,Furniture,2/9/2011,26182.37
+Buffalo,Shoes,2/12/2011,15251.87
+Buffalo,Outdoor,2/12/2011,2327.44
+Buffalo,Electronics,2/12/2011,14506.34
+Buffalo,Clothing,2/12/2011,9251.4
+Buffalo,Toys,2/12/2011,7799.41
+Buffalo,Furniture,2/12/2011,4716.27
+Buffalo,Jewelry,2/12/2011,8875.33
+Buffalo,Housewares,2/12/2011,17134.48
+Las Vegas,Furniture,2/12/2011,10146.54
+Las Vegas,Shoes,2/12/2011,33118.33
+Las Vegas,Jewelry,2/12/2011,38489.63
+Las Vegas,Toys,2/12/2011,35886.92
+Las Vegas,Electronics,2/12/2011,32572.27
+Las Vegas,Clothing,2/12/2011,25293.49
+Las Vegas,Housewares,2/12/2011,45928.14
+Las Vegas,Outdoor,2/12/2011,5240.63
+Los Angeles,Toys,2/12/2011,56405.4
+Los Angeles,Outdoor,2/12/2011,7411
+Los Angeles,Electronics,2/12/2011,34868.24
+Los Angeles,Clothing,2/12/2011,29959.08
+Los Angeles,Housewares,2/12/2011,60333.21
+Los Angeles,Jewelry,2/12/2011,44295.08
+Los Angeles,Furniture,2/12/2011,15569.24
+Los Angeles,Shoes,2/12/2011,75221.22
+Seattle,Furniture,2/12/2011,13923.27
+Seattle,Electronics,2/12/2011,56474.65
+Seattle,Jewelry,2/12/2011,55582.51
+Seattle,Shoes,2/12/2011,80692.79
+Seattle,Housewares,2/12/2011,90896.84
+Seattle,Toys,2/12/2011,64584.56
+Seattle,Outdoor,2/12/2011,7950.12
+Seattle,Clothing,2/12/2011,41861
+Buffalo,Clothing,2/18/2011,15348.06
+Buffalo,Outdoor,2/18/2011,1696.12
+Buffalo,Housewares,2/18/2011,16948.62
+Buffalo,Electronics,2/18/2011,10249.06
+Buffalo,Furniture,2/18/2011,3964.01
+Buffalo,Shoes,2/18/2011,9013.14
+Buffalo,Jewelry,2/18/2011,8781.21
+Buffalo,Toys,2/18/2011,8028.69
+Las Vegas,Furniture,2/18/2011,11724.98
+Las Vegas,Electronics,2/18/2011,31092.62
+Las Vegas,Shoes,2/18/2011,24549.68
+Las Vegas,Clothing,2/18/2011,46845.87
+Las Vegas,Jewelry,2/18/2011,36479.25
+Las Vegas,Outdoor,2/18/2011,4033.43
+Las Vegas,Toys,2/18/2011,35386.72
+Las Vegas,Housewares,2/18/2011,49202.06
+Los Angeles,Shoes,2/18/2011,33235.49
+Los Angeles,Housewares,2/18/2011,69487.17
+Los Angeles,Jewelry,2/18/2011,45097.36
+Los Angeles,Outdoor,2/18/2011,8158.21
+Los Angeles,Toys,2/18/2011,59644.84
+Los Angeles,Furniture,2/18/2011,11999.17
+Los Angeles,Electronics,2/18/2011,35418.87
+Los Angeles,Clothing,2/18/2011,62706.27
+Seattle,Outdoor,2/18/2011,5073.02
+Seattle,Jewelry,2/18/2011,55175.48
+Seattle,Furniture,2/18/2011,15383.2
+Seattle,Shoes,2/18/2011,45109.7
+Seattle,Clothing,2/18/2011,62481.47
+Seattle,Electronics,2/18/2011,61238.29
+Seattle,Toys,2/18/2011,68019.7
+Seattle,Housewares,2/18/2011,99214.16
+Buffalo,Furniture,2/25/2011,3705.62
+Buffalo,Outdoor,2/25/2011,2083.54
+Buffalo,Clothing,2/25/2011,4896.15
+Buffalo,Jewelry,2/25/2011,8443.79
+Buffalo,Toys,2/25/2011,8289.54
+Buffalo,Housewares,2/25/2011,16219.96
+Buffalo,Electronics,2/25/2011,10739.29
+Buffalo,Shoes,2/25/2011,8518.09
+Las Vegas,Outdoor,2/25/2011,4203.87
+Las Vegas,Toys,2/25/2011,34195.37
+Las Vegas,Electronics,2/25/2011,23870.31
+Las Vegas,Housewares,2/25/2011,46165.25
+Las Vegas,Furniture,2/25/2011,10473.78
+Las Vegas,Shoes,2/25/2011,23811.23
+Las Vegas,Jewelry,2/25/2011,33677.18
+Las Vegas,Clothing,2/25/2011,19363.83
+Los Angeles,Furniture,2/25/2011,11936.79
+Los Angeles,Outdoor,2/25/2011,5827.75
+Los Angeles,Electronics,2/25/2011,31959.91
+Los Angeles,Clothing,2/25/2011,22631.87
+Los Angeles,Shoes,2/25/2011,31330.01
+Los Angeles,Toys,2/25/2011,57192.25
+Los Angeles,Jewelry,2/25/2011,43477.94
+Los Angeles,Housewares,2/25/2011,65829.84
+Seattle,Jewelry,2/25/2011,54743.92
+Seattle,Electronics,2/25/2011,52581.22
+Seattle,Shoes,2/25/2011,40788.66
+Seattle,Outdoor,2/25/2011,6165.8
+Seattle,Clothing,2/25/2011,26289.28
+Seattle,Housewares,2/25/2011,100464.89
+Seattle,Toys,2/25/2011,64907.86
+Seattle,Furniture,2/25/2011,13538.66
+Buffalo,Clothing,3/6/2011,4906.27
+Buffalo,Shoes,3/6/2011,13139.81
+Buffalo,Housewares,3/6/2011,18860.29
+Buffalo,Electronics,3/6/2011,9507.02
+Buffalo,Furniture,3/6/2011,4025.84
+Buffalo,Toys,3/6/2011,8291.35
+Buffalo,Jewelry,3/6/2011,9133.57
+Buffalo,Outdoor,3/6/2011,1522.76
+Las Vegas,Housewares,3/6/2011,47844.27
+Las Vegas,Furniture,3/6/2011,8853.89
+Las Vegas,Toys,3/6/2011,36767.22
+Las Vegas,Shoes,3/6/2011,38450.3
+Las Vegas,Jewelry,3/6/2011,42508.02
+Las Vegas,Clothing,3/6/2011,16434.15
+Las Vegas,Outdoor,3/6/2011,4021.54
+Las Vegas,Electronics,3/6/2011,16848.76
+Los Angeles,Clothing,3/6/2011,22174.12
+Los Angeles,Toys,3/6/2011,60911.56
+Los Angeles,Outdoor,3/6/2011,6485.78
+Los Angeles,Shoes,3/6/2011,56592.98
+Los Angeles,Electronics,3/6/2011,21997.1
+Los Angeles,Furniture,3/6/2011,11452.62
+Los Angeles,Jewelry,3/6/2011,46983.09
+Los Angeles,Housewares,3/6/2011,65848.98
+Seattle,Electronics,3/6/2011,34849.01
+Seattle,Housewares,3/6/2011,95548.42
+Seattle,Furniture,3/6/2011,9997.19
+Seattle,Jewelry,3/6/2011,57563.3
+Seattle,Toys,3/6/2011,63177.67
+Seattle,Outdoor,3/6/2011,6515.92
+Seattle,Clothing,3/6/2011,25401.86
+Seattle,Shoes,3/6/2011,64586.72
+Buffalo,Furniture,3/18/2011,2705.53
+Buffalo,Clothing,3/18/2011,5850.92
+Buffalo,Toys,3/18/2011,9158.75
+Buffalo,Shoes,3/18/2011,8473.33
+Buffalo,Jewelry,3/18/2011,8332.88
+Buffalo,Electronics,3/18/2011,10603.73
+Buffalo,Outdoor,3/18/2011,2259.99
+Buffalo,Housewares,3/18/2011,16740.65
+Las Vegas,Clothing,3/18/2011,20334.23
+Las Vegas,Housewares,3/18/2011,45222.3
+Las Vegas,Electronics,3/18/2011,22685.69
+Las Vegas,Shoes,3/18/2011,22751.59
+Las Vegas,Furniture,3/18/2011,8148.69
+Las Vegas,Outdoor,3/18/2011,2889.22
+Las Vegas,Toys,3/18/2011,33301.63
+Las Vegas,Jewelry,3/18/2011,34863.03
+Los Angeles,Toys,3/18/2011,56264.95
+Los Angeles,Jewelry,3/18/2011,43150.07
+Los Angeles,Furniture,3/18/2011,9122.49
+Los Angeles,Outdoor,3/18/2011,6379.76
+Los Angeles,Clothing,3/18/2011,25405.55
+Los Angeles,Electronics,3/18/2011,26901.54
+Los Angeles,Shoes,3/18/2011,36391.92
+Los Angeles,Housewares,3/18/2011,64567.4
+Seattle,Outdoor,3/18/2011,7998.02
+Seattle,Jewelry,3/18/2011,53451.38
+Seattle,Electronics,3/18/2011,41110.42
+Seattle,Shoes,3/18/2011,44476.92
+Seattle,Clothing,3/18/2011,32981.01
+Seattle,Furniture,3/18/2011,12287.31
+Seattle,Housewares,3/18/2011,97957.06
+Seattle,Toys,3/18/2011,64786.83
+Buffalo,Furniture,3/25/2011,4418.87
+Buffalo,Outdoor,3/25/2011,1391.34
+Buffalo,Housewares,3/25/2011,15263.73
+Buffalo,Clothing,3/25/2011,6692.63
+Buffalo,Jewelry,3/25/2011,7409.92
+Buffalo,Toys,3/25/2011,8100.33
+Buffalo,Shoes,3/25/2011,6424.58
+Buffalo,Electronics,3/25/2011,9291.43
+Las Vegas,Jewelry,3/25/2011,34813.12
+Las Vegas,Clothing,3/25/2011,20881.1
+Las Vegas,Toys,3/25/2011,32558.92
+Las Vegas,Electronics,3/25/2011,18719.22
+Las Vegas,Housewares,3/25/2011,44293.54
+Las Vegas,Outdoor,3/25/2011,4508.3
+Las Vegas,Shoes,3/25/2011,19958
+Las Vegas,Furniture,3/25/2011,9049.02
+Los Angeles,Housewares,3/25/2011,60715.5
+Los Angeles,Furniture,3/25/2011,10075.46
+Los Angeles,Outdoor,3/25/2011,5086.36
+Los Angeles,Clothing,3/25/2011,23880.58
+Los Angeles,Shoes,3/25/2011,28571.64
+Los Angeles,Toys,3/25/2011,51712.58
+Los Angeles,Jewelry,3/25/2011,40662.41
+Los Angeles,Electronics,3/25/2011,26443.53
+Seattle,Clothing,3/25/2011,32193.44
+Seattle,Shoes,3/25/2011,38610.69
+Seattle,Toys,3/25/2011,59404.77
+Seattle,Jewelry,3/25/2011,51338.37
+Seattle,Housewares,3/25/2011,90527.65
+Seattle,Outdoor,3/25/2011,5481.69
+Seattle,Electronics,3/25/2011,41751.57
+Seattle,Furniture,3/25/2011,10953.25
+Buffalo,Electronics,4/2/2011,18184.36
+Buffalo,Shoes,4/2/2011,10113.08
+Buffalo,Outdoor,4/2/2011,2303.1
+Buffalo,Toys,4/2/2011,9488.95
+Buffalo,Jewelry,4/2/2011,8826.31
+Buffalo,Clothing,4/2/2011,7522.25
+Buffalo,Housewares,4/2/2011,17746.76
+Buffalo,Furniture,4/2/2011,4159.78
+Las Vegas,Shoes,4/2/2011,17239.86
+Las Vegas,Electronics,4/2/2011,31280.62
+Las Vegas,Housewares,4/2/2011,46829.12
+Las Vegas,Toys,4/2/2011,39903.33
+Las Vegas,Furniture,4/2/2011,11012.52
+Las Vegas,Outdoor,4/2/2011,3324.96
+Las Vegas,Clothing,4/2/2011,21665.76
+Las Vegas,Jewelry,4/2/2011,35870.49
+Los Angeles,Clothing,4/2/2011,29606.98
+Los Angeles,Furniture,4/2/2011,12058.12
+Los Angeles,Jewelry,4/2/2011,46231.68
+Los Angeles,Toys,4/2/2011,61456.28
+Los Angeles,Outdoor,4/2/2011,5758.5
+Los Angeles,Housewares,4/2/2011,60069.23
+Los Angeles,Electronics,4/2/2011,38762.47
+Los Angeles,Shoes,4/2/2011,22120.83
+Seattle,Furniture,4/2/2011,14659.88
+Seattle,Shoes,4/2/2011,31963.41
+Seattle,Outdoor,4/2/2011,5900.65
+Seattle,Electronics,4/2/2011,52192.61
+Seattle,Jewelry,4/2/2011,56454.32
+Seattle,Toys,4/2/2011,70970.73
+Seattle,Housewares,4/2/2011,94201.14
+Seattle,Clothing,4/2/2011,34778.17
+Buffalo,Furniture,4/3/2011,3915.23
+Buffalo,Shoes,4/3/2011,7916.29
+Buffalo,Jewelry,4/3/2011,9100.03
+Buffalo,Electronics,4/3/2011,11156.58
+Buffalo,Housewares,4/3/2011,18932.19
+Buffalo,Outdoor,4/3/2011,2363.18
+Buffalo,Toys,4/3/2011,8383.64
+Buffalo,Clothing,4/3/2011,6673.83
+Las Vegas,Clothing,4/3/2011,20327.61
+Las Vegas,Shoes,4/3/2011,19607.4
+Las Vegas,Jewelry,4/3/2011,37943.96
+Las Vegas,Outdoor,4/3/2011,3882.86
+Las Vegas,Housewares,4/3/2011,53035.54
+Las Vegas,Toys,4/3/2011,36369.58
+Las Vegas,Furniture,4/3/2011,11039.12
+Las Vegas,Electronics,4/3/2011,28902.37
+Los Angeles,Electronics,4/3/2011,35432.41
+Los Angeles,Toys,4/3/2011,61222.4
+Los Angeles,Jewelry,4/3/2011,46965.84
+Los Angeles,Furniture,4/3/2011,12597.45
+Los Angeles,Clothing,4/3/2011,25562.33
+Los Angeles,Shoes,4/3/2011,30314.48
+Los Angeles,Outdoor,4/3/2011,8339.2
+Los Angeles,Housewares,4/3/2011,70042.14
+Seattle,Electronics,4/3/2011,56572.76
+Seattle,Jewelry,4/3/2011,57093.74
+Seattle,Clothing,4/3/2011,26562.46
+Seattle,Toys,4/3/2011,68859.26
+Seattle,Shoes,4/3/2011,39714.28
+Seattle,Outdoor,4/3/2011,6309.79
+Seattle,Furniture,4/3/2011,13059.12
+Seattle,Housewares,4/3/2011,99650
+Buffalo,Outdoor,4/11/2011,2811.2
+Buffalo,Electronics,4/11/2011,15049.51
+Buffalo,Shoes,4/11/2011,10044.79
+Buffalo,Housewares,4/11/2011,17299.41
+Buffalo,Clothing,4/11/2011,15836.73
+Buffalo,Toys,4/11/2011,8039.32
+Buffalo,Furniture,4/11/2011,4873.22
+Buffalo,Jewelry,4/11/2011,9919.93
+Las Vegas,Outdoor,4/11/2011,6223.03
+Las Vegas,Electronics,4/11/2011,31956.07
+Las Vegas,Jewelry,4/11/2011,39354.84
+Las Vegas,Shoes,4/11/2011,24182.96
+Las Vegas,Toys,4/11/2011,36959.48
+Las Vegas,Furniture,4/11/2011,9189.2
+Las Vegas,Clothing,4/11/2011,39886.06
+Las Vegas,Housewares,4/11/2011,47313.62
+Los Angeles,Shoes,4/11/2011,52930.19
+Los Angeles,Clothing,4/11/2011,55729.13
+Los Angeles,Furniture,4/11/2011,11071.88
+Los Angeles,Electronics,4/11/2011,37783.35
+Los Angeles,Housewares,4/11/2011,65483.49
+Los Angeles,Jewelry,4/11/2011,45378.96
+Los Angeles,Outdoor,4/11/2011,5323.9
+Los Angeles,Toys,4/11/2011,60676.06
+Seattle,Shoes,4/11/2011,55835.08
+Seattle,Jewelry,4/11/2011,62987.23
+Seattle,Clothing,4/11/2011,78489.3
+Seattle,Toys,4/11/2011,66422.81
+Seattle,Electronics,4/11/2011,51644.56
+Seattle,Furniture,4/11/2011,12904.12
+Seattle,Outdoor,4/11/2011,8720.59
+Seattle,Housewares,4/11/2011,96580.1
+Buffalo,Clothing,4/15/2011,9203.25
+Buffalo,Outdoor,4/15/2011,1497.08
+Buffalo,Shoes,4/15/2011,8102.31
+Buffalo,Housewares,4/15/2011,14468.88
+Buffalo,Furniture,4/15/2011,3740.3
+Buffalo,Jewelry,4/15/2011,6738.59
+Buffalo,Electronics,4/15/2011,8284.38
+Buffalo,Toys,4/15/2011,7351.74
+Las Vegas,Outdoor,4/15/2011,3798.07
+Las Vegas,Electronics,4/15/2011,22719.82
+Las Vegas,Jewelry,4/15/2011,33466.89
+Las Vegas,Toys,4/15/2011,32224.01
+Las Vegas,Housewares,4/15/2011,44464.74
+Las Vegas,Shoes,4/15/2011,19955.07
+Las Vegas,Clothing,4/15/2011,28762.37
+Las Vegas,Furniture,4/15/2011,8212.97
+Los Angeles,Electronics,4/15/2011,26829.78
+Los Angeles,Housewares,4/15/2011,62959.75
+Los Angeles,Shoes,4/15/2011,29259.78
+Los Angeles,Furniture,4/15/2011,11079.28
+Los Angeles,Clothing,4/15/2011,34644.85
+Los Angeles,Jewelry,4/15/2011,40774.05
+Los Angeles,Toys,4/15/2011,53845.47
+Los Angeles,Outdoor,4/15/2011,5048.72
+Seattle,Shoes,4/15/2011,37066.05
+Seattle,Housewares,4/15/2011,90248.83
+Seattle,Clothing,4/15/2011,44011.29
+Seattle,Jewelry,4/15/2011,51184.02
+Seattle,Outdoor,4/15/2011,4138.37
+Seattle,Toys,4/15/2011,57666.67
+Seattle,Electronics,4/15/2011,42418.64
+Seattle,Furniture,4/15/2011,11779.88
+Buffalo,Furniture,4/22/2011,3125.65
+Buffalo,Shoes,4/22/2011,9727.91
+Buffalo,Clothing,4/22/2011,15862.38
+Buffalo,Electronics,4/22/2011,8915.16
+Buffalo,Outdoor,4/22/2011,1317.31
+Buffalo,Jewelry,4/22/2011,7770.74
+Buffalo,Toys,4/22/2011,8766.3
+Buffalo,Housewares,4/22/2011,14481.21
+Las Vegas,Toys,4/22/2011,32832.06
+Las Vegas,Jewelry,4/22/2011,35132.7
+Las Vegas,Outdoor,4/22/2011,2995.07
+Las Vegas,Shoes,4/22/2011,24606.39
+Las Vegas,Electronics,4/22/2011,21786.16
+Las Vegas,Furniture,4/22/2011,8468.72
+Las Vegas,Clothing,4/22/2011,50510.31
+Las Vegas,Housewares,4/22/2011,46544.56
+Los Angeles,Clothing,4/22/2011,72065.08
+Los Angeles,Toys,4/22/2011,56457.56
+Los Angeles,Furniture,4/22/2011,11080.5
+Los Angeles,Outdoor,4/22/2011,7287.96
+Los Angeles,Jewelry,4/22/2011,43827.02
+Los Angeles,Shoes,4/22/2011,36955.68
+Los Angeles,Electronics,4/22/2011,29179.9
+Los Angeles,Housewares,4/22/2011,64738.13
+Seattle,Furniture,4/22/2011,12232.22
+Seattle,Jewelry,4/22/2011,55018.98
+Seattle,Toys,4/22/2011,61255.69
+Seattle,Clothing,4/22/2011,83445.89
+Seattle,Housewares,4/22/2011,103397.79
+Seattle,Shoes,4/22/2011,48673.38
+Seattle,Outdoor,4/22/2011,5677.05
+Seattle,Electronics,4/22/2011,40338.02
+Buffalo,Jewelry,4/29/2011,7937.53
+Buffalo,Clothing,4/29/2011,9410.55
+Buffalo,Shoes,4/29/2011,8782.66
+Buffalo,Electronics,4/29/2011,6648.26
+Buffalo,Furniture,4/29/2011,3421.34
+Buffalo,Housewares,4/29/2011,15180.97
+Buffalo,Toys,4/29/2011,7822.76
+Buffalo,Outdoor,4/29/2011,2053.7
+Las Vegas,Furniture,4/29/2011,8653.62
+Las Vegas,Shoes,4/29/2011,22934.42
+Las Vegas,Electronics,4/29/2011,17503.28
+Las Vegas,Toys,4/29/2011,32827.42
+Las Vegas,Housewares,4/29/2011,43682.41
+Las Vegas,Jewelry,4/29/2011,34528.56
+Las Vegas,Clothing,4/29/2011,41512.39
+Las Vegas,Outdoor,4/29/2011,4298.02
+Los Angeles,Clothing,4/29/2011,57905.55
+Los Angeles,Jewelry,4/29/2011,42103.64
+Los Angeles,Housewares,4/29/2011,62751.61
+Los Angeles,Electronics,4/29/2011,21277.66
+Los Angeles,Toys,4/29/2011,54000.05
+Los Angeles,Outdoor,4/29/2011,5138.55
+Los Angeles,Furniture,4/29/2011,10716.84
+Los Angeles,Shoes,4/29/2011,31594.23
+Seattle,Shoes,4/29/2011,40734.59
+Seattle,Toys,4/29/2011,57973.66
+Seattle,Outdoor,4/29/2011,5002.65
+Seattle,Clothing,4/29/2011,50759.95
+Seattle,Housewares,4/29/2011,85613.14
+Seattle,Electronics,4/29/2011,35052.81
+Seattle,Furniture,4/29/2011,10284.23
+Seattle,Jewelry,4/29/2011,50045.96
+Buffalo,Outdoor,5/8/2011,1192.18
+Buffalo,Toys,5/8/2011,7473.67
+Buffalo,Housewares,5/8/2011,17813.69
+Buffalo,Furniture,5/8/2011,13591.15
+Buffalo,Shoes,5/8/2011,7647.77
+Buffalo,Electronics,5/8/2011,9502.52
+Buffalo,Jewelry,5/8/2011,9321.12
+Buffalo,Clothing,5/8/2011,5285.83
+Las Vegas,Housewares,5/8/2011,49359.75
+Las Vegas,Furniture,5/8/2011,31248.98
+Las Vegas,Toys,5/8/2011,35484.32
+Las Vegas,Shoes,5/8/2011,17388.43
+Las Vegas,Jewelry,5/8/2011,39339.09
+Las Vegas,Clothing,5/8/2011,15295.55
+Las Vegas,Outdoor,5/8/2011,2864.27
+Las Vegas,Electronics,5/8/2011,21183.42
+Los Angeles,Jewelry,5/8/2011,46332.58
+Los Angeles,Housewares,5/8/2011,67755.05
+Los Angeles,Shoes,5/8/2011,25814.41
+Los Angeles,Toys,5/8/2011,56995.96
+Los Angeles,Electronics,5/8/2011,24415.55
+Los Angeles,Furniture,5/8/2011,41720.49
+Los Angeles,Clothing,5/8/2011,20875.73
+Los Angeles,Outdoor,5/8/2011,4509.9
+Seattle,Toys,5/8/2011,63685.15
+Seattle,Jewelry,5/8/2011,61683.39
+Seattle,Outdoor,5/8/2011,4814.5
+Seattle,Clothing,5/8/2011,26374.86
+Seattle,Housewares,5/8/2011,104133.38
+Seattle,Electronics,5/8/2011,38464.04
+Seattle,Furniture,5/8/2011,52105.38
+Seattle,Shoes,5/8/2011,39150.88
+Buffalo,Shoes,5/13/2011,10807.06
+Buffalo,Furniture,5/13/2011,3609.7
+Buffalo,Clothing,5/13/2011,4660.39
+Buffalo,Outdoor,5/13/2011,2555.49
+Buffalo,Toys,5/13/2011,7185.99
+Buffalo,Electronics,5/13/2011,6504.96
+Buffalo,Jewelry,5/13/2011,7429.21
+Buffalo,Housewares,5/13/2011,15045.29
+Las Vegas,Housewares,5/13/2011,44274.15
+Las Vegas,Clothing,5/13/2011,17235.15
+Las Vegas,Toys,5/13/2011,34727.2
+Las Vegas,Furniture,5/13/2011,8732.46
+Las Vegas,Electronics,5/13/2011,15587.78
+Las Vegas,Jewelry,5/13/2011,33471.81
+Las Vegas,Outdoor,5/13/2011,4162.52
+Las Vegas,Shoes,5/13/2011,21344.39
+Los Angeles,Outdoor,5/13/2011,8296.14
+Los Angeles,Housewares,5/13/2011,62941.61
+Los Angeles,Jewelry,5/13/2011,41947.23
+Los Angeles,Clothing,5/13/2011,22484.33
+Los Angeles,Toys,5/13/2011,54463.47
+Los Angeles,Shoes,5/13/2011,31771.61
+Los Angeles,Electronics,5/13/2011,19321.39
+Los Angeles,Furniture,5/13/2011,11231.21
+Seattle,Toys,5/13/2011,60980.07
+Seattle,Furniture,5/13/2011,11018.97
+Seattle,Outdoor,5/13/2011,10251.13
+Seattle,Jewelry,5/13/2011,51468.7
+Seattle,Shoes,5/13/2011,45843.55
+Seattle,Electronics,5/13/2011,31842.48
+Seattle,Clothing,5/13/2011,27189.7
+Seattle,Housewares,5/13/2011,89627.89
+Buffalo,Shoes,5/20/2011,8456.29
+Buffalo,Housewares,5/20/2011,16165.1
+Buffalo,Electronics,5/20/2011,8413.6
+Buffalo,Clothing,5/20/2011,5142.22
+Buffalo,Outdoor,5/20/2011,2005.77
+Buffalo,Furniture,5/20/2011,4361.71
+Buffalo,Toys,5/20/2011,8732.04
+Buffalo,Jewelry,5/20/2011,7944.55
+Las Vegas,Housewares,5/20/2011,44302.11
+Las Vegas,Jewelry,5/20/2011,34137.41
+Las Vegas,Outdoor,5/20/2011,4640.76
+Las Vegas,Shoes,5/20/2011,18787.41
+Las Vegas,Clothing,5/20/2011,15136.78
+Las Vegas,Electronics,5/20/2011,15575.25
+Las Vegas,Toys,5/20/2011,35631.59
+Las Vegas,Furniture,5/20/2011,7939.01
+Los Angeles,Furniture,5/20/2011,10788
+Los Angeles,Toys,5/20/2011,56896.87
+Los Angeles,Electronics,5/20/2011,17777.31
+Los Angeles,Shoes,5/20/2011,29980.1
+Los Angeles,Housewares,5/20/2011,61960.83
+Los Angeles,Clothing,5/20/2011,21590.53
+Los Angeles,Jewelry,5/20/2011,41425.37
+Los Angeles,Outdoor,5/20/2011,4742.86
+Seattle,Clothing,5/20/2011,25198.4
+Seattle,Toys,5/20/2011,61061.1
+Seattle,Jewelry,5/20/2011,58171.41
+Seattle,Shoes,5/20/2011,42328.23
+Seattle,Electronics,5/20/2011,34115.25
+Seattle,Furniture,5/20/2011,11724.92
+Seattle,Housewares,5/20/2011,94545.1
+Seattle,Outdoor,5/20/2011,10576.79
+Buffalo,Clothing,5/27/2011,5194.21
+Buffalo,Outdoor,5/27/2011,1735.51
+Buffalo,Electronics,5/27/2011,6653.54
+Buffalo,Shoes,5/27/2011,8694.8
+Buffalo,Jewelry,5/27/2011,7766.26
+Buffalo,Toys,5/27/2011,8057.86
+Buffalo,Furniture,5/27/2011,2995.51
+Buffalo,Housewares,5/27/2011,16396.82
+Las Vegas,Toys,5/27/2011,35972.12
+Las Vegas,Housewares,5/27/2011,45072.11
+Las Vegas,Jewelry,5/27/2011,36790.72
+Las Vegas,Outdoor,5/27/2011,5572.35
+Las Vegas,Clothing,5/27/2011,15741.6
+Las Vegas,Electronics,5/27/2011,16613.98
+Las Vegas,Shoes,5/27/2011,26736.85
+Las Vegas,Furniture,5/27/2011,8120.7
+Los Angeles,Outdoor,5/27/2011,7862.77
+Los Angeles,Shoes,5/27/2011,35636.31
+Los Angeles,Furniture,5/27/2011,10729.48
+Los Angeles,Clothing,5/27/2011,21334.34
+Los Angeles,Toys,5/27/2011,60066.88
+Los Angeles,Jewelry,5/27/2011,44543.25
+Los Angeles,Electronics,5/27/2011,21387.42
+Los Angeles,Housewares,5/27/2011,64755.07
+Seattle,Electronics,5/27/2011,36373.69
+Seattle,Furniture,5/27/2011,10382.71
+Seattle,Housewares,5/27/2011,93786.26
+Seattle,Shoes,5/27/2011,54519.93
+Seattle,Jewelry,5/27/2011,52931.36
+Seattle,Outdoor,5/27/2011,8209.71
+Seattle,Clothing,5/27/2011,25035.61
+Seattle,Toys,5/27/2011,62368.7
+Buffalo,Housewares,6/5/2011,17081.58
+Buffalo,Outdoor,6/5/2011,1653.76
+Buffalo,Electronics,6/5/2011,7029.25
+Buffalo,Toys,6/5/2011,9413.97
+Buffalo,Jewelry,6/5/2011,9148.49
+Buffalo,Furniture,6/5/2011,4053.3
+Buffalo,Shoes,6/5/2011,8611.39
+Buffalo,Clothing,6/5/2011,5941.28
+Las Vegas,Clothing,6/5/2011,20138.19
+Las Vegas,Jewelry,6/5/2011,37827.69
+Las Vegas,Housewares,6/5/2011,50139.92
+Las Vegas,Outdoor,6/5/2011,7213.53
+Las Vegas,Electronics,6/5/2011,16195.54
+Las Vegas,Toys,6/5/2011,37360.03
+Las Vegas,Shoes,6/5/2011,19394
+Las Vegas,Furniture,6/5/2011,10420.92
+Los Angeles,Outdoor,6/5/2011,7046.4
+Los Angeles,Furniture,6/5/2011,12299.04
+Los Angeles,Electronics,6/5/2011,21543.95
+Los Angeles,Housewares,6/5/2011,63235.76
+Los Angeles,Jewelry,6/5/2011,43952.85
+Los Angeles,Toys,6/5/2011,58734.39
+Los Angeles,Shoes,6/5/2011,27586.97
+Los Angeles,Clothing,6/5/2011,24658.53
+Seattle,Toys,6/5/2011,66226.12
+Seattle,Shoes,6/5/2011,39785.35
+Seattle,Housewares,6/5/2011,96111.37
+Seattle,Outdoor,6/5/2011,8967.08
+Seattle,Clothing,6/5/2011,25494.77
+Seattle,Jewelry,6/5/2011,59039.42
+Seattle,Furniture,6/5/2011,11851.83
+Seattle,Electronics,6/5/2011,34262.48
+Buffalo,Furniture,6/17/2011,3661.25
+Buffalo,Outdoor,6/17/2011,2063.23
+Buffalo,Electronics,6/17/2011,10359.68
+Buffalo,Jewelry,6/17/2011,7870.95
+Buffalo,Shoes,6/17/2011,12831.06
+Buffalo,Housewares,6/17/2011,16598.43
+Buffalo,Toys,6/17/2011,8711.74
+Buffalo,Clothing,6/17/2011,5738.3
+Las Vegas,Shoes,6/17/2011,31439.02
+Las Vegas,Electronics,6/17/2011,17861.56
+Las Vegas,Jewelry,6/17/2011,35523.17
+Las Vegas,Housewares,6/17/2011,42939.63
+Las Vegas,Outdoor,6/17/2011,3004.81
+Las Vegas,Toys,6/17/2011,34338.33
+Las Vegas,Clothing,6/17/2011,14978.09
+Las Vegas,Furniture,6/17/2011,7658.75
+Los Angeles,Toys,6/17/2011,58372.71
+Los Angeles,Outdoor,6/17/2011,6968.89
+Los Angeles,Clothing,6/17/2011,22431.56
+Los Angeles,Shoes,6/17/2011,40861.1
+Los Angeles,Furniture,6/17/2011,10714.53
+Los Angeles,Electronics,6/17/2011,25785.19
+Los Angeles,Jewelry,6/17/2011,43157.75
+Los Angeles,Housewares,6/17/2011,66648.26
+Seattle,Shoes,6/17/2011,58892.12
+Seattle,Electronics,6/17/2011,42448.45
+Seattle,Furniture,6/17/2011,10353.82
+Seattle,Clothing,6/17/2011,27152.27
+Seattle,Outdoor,6/17/2011,6135.85
+Seattle,Jewelry,6/17/2011,54818.18
+Seattle,Toys,6/17/2011,60673.72
+Seattle,Housewares,6/17/2011,96510.39
+Buffalo,Toys,6/24/2011,7709.6
+Buffalo,Clothing,6/24/2011,4484.47
+Buffalo,Electronics,6/24/2011,8454.46
+Buffalo,Furniture,6/24/2011,3310.79
+Buffalo,Shoes,6/24/2011,9531.8
+Buffalo,Jewelry,6/24/2011,7670.66
+Buffalo,Outdoor,6/24/2011,1078.84
+Buffalo,Housewares,6/24/2011,16371.62
+Las Vegas,Clothing,6/24/2011,15682.81
+Las Vegas,Toys,6/24/2011,34014.16
+Las Vegas,Furniture,6/24/2011,6165.73
+Las Vegas,Housewares,6/24/2011,42415.81
+Las Vegas,Electronics,6/24/2011,21695.24
+Las Vegas,Jewelry,6/24/2011,35062.02
+Las Vegas,Shoes,6/24/2011,23791.78
+Las Vegas,Outdoor,6/24/2011,3020.07
+Los Angeles,Jewelry,6/24/2011,41438.81
+Los Angeles,Electronics,6/24/2011,23619.99
+Los Angeles,Toys,6/24/2011,56254.65
+Los Angeles,Outdoor,6/24/2011,5908.48
+Los Angeles,Clothing,6/24/2011,21426.72
+Los Angeles,Housewares,6/24/2011,61507.28
+Los Angeles,Furniture,6/24/2011,10950.77
+Los Angeles,Shoes,6/24/2011,33210.32
+Seattle,Housewares,6/24/2011,90050.58
+Seattle,Toys,6/24/2011,59938.96
+Seattle,Jewelry,6/24/2011,52377.67
+Seattle,Outdoor,6/24/2011,6332.45
+Seattle,Furniture,6/24/2011,11145.17
+Seattle,Electronics,6/24/2011,43673.85
+Seattle,Shoes,6/24/2011,49978.24
+Seattle,Clothing,6/24/2011,26859.67
+Buffalo,Housewares,7/1/2011,15543.04
+Buffalo,Electronics,7/1/2011,9676.66
+Buffalo,Outdoor,7/1/2011,1067.98
+Buffalo,Jewelry,7/1/2011,9060.68
+Buffalo,Furniture,7/1/2011,5598.68
+Buffalo,Toys,7/1/2011,7891.78
+Buffalo,Shoes,7/1/2011,5777.7
+Buffalo,Clothing,7/1/2011,4150.96
+Las Vegas,Clothing,7/1/2011,15984.24
+Las Vegas,Shoes,7/1/2011,17516.16
+Las Vegas,Furniture,7/1/2011,15808.15
+Las Vegas,Outdoor,7/1/2011,1376.15
+Las Vegas,Electronics,7/1/2011,22699.69
+Las Vegas,Housewares,7/1/2011,43202.29
+Las Vegas,Toys,7/1/2011,36599.46
+Las Vegas,Jewelry,7/1/2011,37947.8
+Los Angeles,Toys,7/1/2011,60626.1
+Los Angeles,Clothing,7/1/2011,19092.94
+Los Angeles,Jewelry,7/1/2011,46972.35
+Los Angeles,Electronics,7/1/2011,25042.94
+Los Angeles,Outdoor,7/1/2011,2969.62
+Los Angeles,Furniture,7/1/2011,14936.37
+Los Angeles,Shoes,7/1/2011,22101.64
+Los Angeles,Housewares,7/1/2011,62974.44
+Seattle,Furniture,7/1/2011,17665.39
+Seattle,Toys,7/1/2011,64561.77
+Seattle,Jewelry,7/1/2011,56671.32
+Seattle,Shoes,7/1/2011,27176.08
+Seattle,Electronics,7/1/2011,43516.56
+Seattle,Outdoor,7/1/2011,4760.8
+Seattle,Housewares,7/1/2011,90467.13
+Seattle,Clothing,7/1/2011,25293.64
+Buffalo,Housewares,7/10/2011,18304.81
+Buffalo,Electronics,7/10/2011,16021.72
+Buffalo,Furniture,7/10/2011,4583.2
+Buffalo,Jewelry,7/10/2011,8720.98
+Buffalo,Outdoor,7/10/2011,1644.02
+Buffalo,Clothing,7/10/2011,7897.72
+Buffalo,Toys,7/10/2011,8217.03
+Buffalo,Shoes,7/10/2011,7480.33
+Las Vegas,Outdoor,7/10/2011,4733.74
+Las Vegas,Electronics,7/10/2011,30352.06
+Las Vegas,Clothing,7/10/2011,20797.58
+Las Vegas,Shoes,7/10/2011,12758.28
+Las Vegas,Housewares,7/10/2011,49880.69
+Las Vegas,Toys,7/10/2011,36759.96
+Las Vegas,Jewelry,7/10/2011,37397.63
+Las Vegas,Furniture,7/10/2011,9977.96
+Los Angeles,Housewares,7/10/2011,64978.04
+Los Angeles,Toys,7/10/2011,56024.76
+Los Angeles,Clothing,7/10/2011,28071.56
+Los Angeles,Electronics,7/10/2011,29890.6
+Los Angeles,Shoes,7/10/2011,25582.86
+Los Angeles,Furniture,7/10/2011,13716.81
+Los Angeles,Jewelry,7/10/2011,45904.51
+Los Angeles,Outdoor,7/10/2011,5234.84
+Seattle,Jewelry,7/10/2011,61589.77
+Seattle,Shoes,7/10/2011,39751.24
+Seattle,Toys,7/10/2011,64457.83
+Seattle,Furniture,7/10/2011,12630.1
+Seattle,Electronics,7/10/2011,51826.73
+Seattle,Outdoor,7/10/2011,5526.53
+Seattle,Housewares,7/10/2011,105441.07
+Seattle,Clothing,7/10/2011,41743.66
+Buffalo,Electronics,7/15/2011,11397.72
+Buffalo,Shoes,7/15/2011,8283.95
+Buffalo,Jewelry,7/15/2011,7904.65
+Buffalo,Housewares,7/15/2011,17280.79
+Buffalo,Furniture,7/15/2011,5610.38
+Buffalo,Clothing,7/15/2011,4985.82
+Buffalo,Toys,7/15/2011,7659.03
+Buffalo,Outdoor,7/15/2011,1721.32
+Las Vegas,Housewares,7/15/2011,43260.96
+Las Vegas,Outdoor,7/15/2011,3154.33
+Las Vegas,Toys,7/15/2011,33336.29
+Las Vegas,Clothing,7/15/2011,15654.85
+Las Vegas,Furniture,7/15/2011,11578.11
+Las Vegas,Shoes,7/15/2011,14805.42
+Las Vegas,Jewelry,7/15/2011,33930.8
+Las Vegas,Electronics,7/15/2011,18444.8
+Los Angeles,Shoes,7/15/2011,28481.88
+Los Angeles,Housewares,7/15/2011,63850.33
+Los Angeles,Jewelry,7/15/2011,41935.9
+Los Angeles,Toys,7/15/2011,53335.72
+Los Angeles,Electronics,7/15/2011,21756.13
+Los Angeles,Outdoor,7/15/2011,4818.73
+Los Angeles,Furniture,7/15/2011,20035.43
+Los Angeles,Clothing,7/15/2011,20810.61
+Seattle,Clothing,7/15/2011,27552.72
+Seattle,Jewelry,7/15/2011,53134.96
+Seattle,Electronics,7/15/2011,35340.53
+Seattle,Outdoor,7/15/2011,8046.17
+Seattle,Shoes,7/15/2011,41846.85
+Seattle,Housewares,7/15/2011,96183.71
+Seattle,Toys,7/15/2011,58879.34
+Seattle,Furniture,7/15/2011,26076.14
+Buffalo,Outdoor,7/22/2011,1611.87
+Buffalo,Shoes,7/22/2011,6888.87
+Buffalo,Clothing,7/22/2011,5176.73
+Buffalo,Housewares,7/22/2011,16943.33
+Buffalo,Toys,7/22/2011,7967.45
+Buffalo,Furniture,7/22/2011,7727.86
+Buffalo,Electronics,7/22/2011,9583.34
+Buffalo,Jewelry,7/22/2011,7795.79
+Las Vegas,Clothing,7/22/2011,15766.6
+Las Vegas,Furniture,7/22/2011,16069.5
+Las Vegas,Jewelry,7/22/2011,34630.02
+Las Vegas,Outdoor,7/22/2011,3665.52
+Las Vegas,Shoes,7/22/2011,16002.3
+Las Vegas,Electronics,7/22/2011,19331.53
+Las Vegas,Toys,7/22/2011,34006.29
+Las Vegas,Housewares,7/22/2011,45113.56
+Los Angeles,Outdoor,7/22/2011,4393.13
+Los Angeles,Clothing,7/22/2011,20456.83
+Los Angeles,Shoes,7/22/2011,25548.72
+Los Angeles,Furniture,7/22/2011,26963.83
+Los Angeles,Electronics,7/22/2011,21350.63
+Los Angeles,Housewares,7/22/2011,64188.7
+Los Angeles,Jewelry,7/22/2011,42379.14
+Los Angeles,Toys,7/22/2011,52197.62
+Seattle,Jewelry,7/22/2011,54790.01
+Seattle,Toys,7/22/2011,59683.29
+Seattle,Housewares,7/22/2011,98684.69
+Seattle,Outdoor,7/22/2011,9966.3
+Seattle,Electronics,7/22/2011,35656.09
+Seattle,Shoes,7/22/2011,38137.45
+Seattle,Furniture,7/22/2011,38070.32
+Seattle,Clothing,7/22/2011,26282.08
+Buffalo,Electronics,7/29/2011,7605.68
+Buffalo,Outdoor,7/29/2011,1410.32
+Buffalo,Toys,7/29/2011,7629.45
+Buffalo,Furniture,7/29/2011,9363
+Buffalo,Clothing,7/29/2011,4645.99
+Buffalo,Housewares,7/29/2011,15522.52
+Buffalo,Shoes,7/29/2011,6441.95
+Buffalo,Jewelry,7/29/2011,7668.11
+Las Vegas,Outdoor,7/29/2011,2839.92
+Las Vegas,Housewares,7/29/2011,43191.02
+Las Vegas,Jewelry,7/29/2011,35555.5
+Las Vegas,Clothing,7/29/2011,15922.41
+Las Vegas,Electronics,7/29/2011,17406.68
+Las Vegas,Furniture,7/29/2011,21331.51
+Las Vegas,Shoes,7/29/2011,16061.11
+Las Vegas,Toys,7/29/2011,31981.72
+Los Angeles,Outdoor,7/29/2011,5036.44
+Los Angeles,Shoes,7/29/2011,24296.94
+Los Angeles,Housewares,7/29/2011,62022.55
+Los Angeles,Clothing,7/29/2011,20783.05
+Los Angeles,Electronics,7/29/2011,19561.58
+Los Angeles,Jewelry,7/29/2011,42761.1
+Los Angeles,Toys,7/29/2011,54339.28
+Los Angeles,Furniture,7/29/2011,31299.26
+Seattle,Housewares,7/29/2011,94034.84
+Seattle,Electronics,7/29/2011,32980.44
+Seattle,Toys,7/29/2011,57131.07
+Seattle,Shoes,7/29/2011,36373.8
+Seattle,Jewelry,7/29/2011,53113.87
+Seattle,Outdoor,7/29/2011,6647.42
+Seattle,Furniture,7/29/2011,42996.48
+Seattle,Clothing,7/29/2011,27285.06
+Buffalo,Shoes,8/4/2011,8937.51
+Buffalo,Jewelry,8/4/2011,7652.89
+Buffalo,Toys,8/4/2011,8032.62
+Buffalo,Housewares,8/4/2011,15993.94
+Buffalo,Electronics,8/4/2011,7922.02
+Buffalo,Furniture,8/4/2011,3921.45
+Buffalo,Outdoor,8/4/2011,1375.14
+Buffalo,Clothing,8/4/2011,6885.58
+Las Vegas,Furniture,8/4/2011,10417.33
+Las Vegas,Toys,8/4/2011,34442.29
+Las Vegas,Clothing,8/4/2011,23873.79
+Las Vegas,Outdoor,8/4/2011,3340.31
+Las Vegas,Housewares,8/4/2011,48501.79
+Las Vegas,Jewelry,8/4/2011,36514.43
+Las Vegas,Shoes,8/4/2011,21617.85
+Las Vegas,Electronics,8/4/2011,22393.09
+Los Angeles,Furniture,8/4/2011,11858.62
+Los Angeles,Electronics,8/4/2011,28905.88
+Los Angeles,Housewares,8/4/2011,61878.07
+Los Angeles,Jewelry,8/4/2011,42165
+Los Angeles,Outdoor,8/4/2011,6322.48
+Los Angeles,Shoes,8/4/2011,30127.42
+Los Angeles,Clothing,8/4/2011,28223.45
+Los Angeles,Toys,8/4/2011,56757.01
+Seattle,Clothing,8/4/2011,36416.8
+Seattle,Furniture,8/4/2011,12121.67
+Seattle,Housewares,8/4/2011,92681.28
+Seattle,Toys,8/4/2011,61918.54
+Seattle,Jewelry,8/4/2011,54500.33
+Seattle,Outdoor,8/4/2011,3711.63
+Seattle,Electronics,8/4/2011,44480.53
+Seattle,Shoes,8/4/2011,41452.87
+Buffalo,Toys,8/7/2011,8339.91
+Buffalo,Outdoor,8/7/2011,1728.31
+Buffalo,Shoes,8/7/2011,10100.08
+Buffalo,Clothing,8/7/2011,4324.95
+Buffalo,Housewares,8/7/2011,18142.08
+Buffalo,Furniture,8/7/2011,3704.76
+Buffalo,Jewelry,8/7/2011,8485.9
+Buffalo,Electronics,8/7/2011,8171.98
+Las Vegas,Outdoor,8/7/2011,3412.08
+Las Vegas,Toys,8/7/2011,35582.39
+Las Vegas,Jewelry,8/7/2011,39149.99
+Las Vegas,Furniture,8/7/2011,7366.5
+Las Vegas,Housewares,8/7/2011,44623.23
+Las Vegas,Clothing,8/7/2011,16148.87
+Las Vegas,Electronics,8/7/2011,17989.45
+Las Vegas,Shoes,8/7/2011,20691.6
+Los Angeles,Furniture,8/7/2011,11795.66
+Los Angeles,Shoes,8/7/2011,31485.13
+Los Angeles,Outdoor,8/7/2011,5876.01
+Los Angeles,Housewares,8/7/2011,64206.49
+Los Angeles,Electronics,8/7/2011,19500.87
+Los Angeles,Toys,8/7/2011,55797.41
+Los Angeles,Clothing,8/7/2011,21037.47
+Los Angeles,Jewelry,8/7/2011,44431.5
+Seattle,Furniture,8/7/2011,14645.46
+Seattle,Jewelry,8/7/2011,54777.21
+Seattle,Electronics,8/7/2011,35154.32
+Seattle,Clothing,8/7/2011,25268.24
+Seattle,Toys,8/7/2011,61372.97
+Seattle,Shoes,8/7/2011,42833.23
+Seattle,Housewares,8/7/2011,92967.82
+Seattle,Outdoor,8/7/2011,8051.04
+Buffalo,Jewelry,8/19/2011,9303.5
+Buffalo,Toys,8/19/2011,7388.69
+Buffalo,Furniture,8/19/2011,17710.48
+Buffalo,Clothing,8/19/2011,4808.68
+Buffalo,Shoes,8/19/2011,8172.55
+Buffalo,Outdoor,8/19/2011,1217.04
+Buffalo,Housewares,8/19/2011,16711.34
+Buffalo,Electronics,8/19/2011,10721.28
+Las Vegas,Shoes,8/19/2011,13413.8
+Las Vegas,Furniture,8/19/2011,41603.11
+Las Vegas,Outdoor,8/19/2011,3717.28
+Las Vegas,Jewelry,8/19/2011,39148.87
+Las Vegas,Electronics,8/19/2011,18643.51
+Las Vegas,Clothing,8/19/2011,14689.24
+Las Vegas,Housewares,8/19/2011,46391.12
+Las Vegas,Toys,8/19/2011,32707.8
+Los Angeles,Jewelry,8/19/2011,48759.46
+Los Angeles,Housewares,8/19/2011,67360.35
+Los Angeles,Electronics,8/19/2011,19877.34
+Los Angeles,Toys,8/19/2011,52018.66
+Los Angeles,Shoes,8/19/2011,22054.58
+Los Angeles,Outdoor,8/19/2011,3791.28
+Los Angeles,Furniture,8/19/2011,68674.69
+Los Angeles,Clothing,8/19/2011,21324.65
+Seattle,Jewelry,8/19/2011,63239.08
+Seattle,Outdoor,8/19/2011,3758.12
+Seattle,Electronics,8/19/2011,32724.09
+Seattle,Toys,8/19/2011,60312.08
+Seattle,Clothing,8/19/2011,28222.27
+Seattle,Shoes,8/19/2011,29304.64
+Seattle,Housewares,8/19/2011,107974.78
+Seattle,Furniture,8/19/2011,84831.2
+Buffalo,Toys,8/26/2011,6925.02
+Buffalo,Housewares,8/26/2011,17076.63
+Buffalo,Clothing,8/26/2011,5625.99
+Buffalo,Furniture,8/26/2011,16958.55
+Buffalo,Outdoor,8/26/2011,1056.3
+Buffalo,Jewelry,8/26/2011,8137.15
+Buffalo,Electronics,8/26/2011,8061.9
+Buffalo,Shoes,8/26/2011,6345.93
+Las Vegas,Toys,8/26/2011,32668.5
+Las Vegas,Electronics,8/26/2011,15478.26
+Las Vegas,Outdoor,8/26/2011,3296.22
+Las Vegas,Furniture,8/26/2011,49775.52
+Las Vegas,Clothing,8/26/2011,14537.37
+Las Vegas,Housewares,8/26/2011,47659.93
+Las Vegas,Shoes,8/26/2011,12116.03
+Las Vegas,Jewelry,8/26/2011,37495.2
+Los Angeles,Electronics,8/26/2011,19545.59
+Los Angeles,Toys,8/26/2011,53115.76
+Los Angeles,Clothing,8/26/2011,21642.33
+Los Angeles,Outdoor,8/26/2011,4230.17
+Los Angeles,Jewelry,8/26/2011,44929.7
+Los Angeles,Furniture,8/26/2011,62742.35
+Los Angeles,Shoes,8/26/2011,22683.49
+Los Angeles,Housewares,8/26/2011,69418.62
+Seattle,Furniture,8/26/2011,43075.55
+Seattle,Electronics,8/26/2011,33804.19
+Seattle,Housewares,8/26/2011,96329.83
+Seattle,Jewelry,8/26/2011,55027.47
+Seattle,Outdoor,8/26/2011,4159.72
+Seattle,Shoes,8/26/2011,33811.61
+Seattle,Toys,8/26/2011,57193.32
+Seattle,Clothing,8/26/2011,24753.73
+Buffalo,Toys,9/9/2011,7775.31
+Buffalo,Outdoor,9/9/2011,2055.98
+Buffalo,Electronics,9/9/2011,7546.22
+Buffalo,Clothing,9/9/2011,5210.02
+Buffalo,Housewares,9/9/2011,18239.57
+Buffalo,Jewelry,9/9/2011,7496.08
+Buffalo,Furniture,9/9/2011,5107.23
+Buffalo,Shoes,9/9/2011,8778.4
+Las Vegas,Jewelry,9/9/2011,35105.96
+Las Vegas,Housewares,9/9/2011,43315.85
+Las Vegas,Electronics,9/9/2011,19075.78
+Las Vegas,Shoes,9/9/2011,13370.82
+Las Vegas,Toys,9/9/2011,34246.67
+Las Vegas,Outdoor,9/9/2011,6147.43
+Las Vegas,Clothing,9/9/2011,17746.68
+Las Vegas,Furniture,9/9/2011,12778.28
+Los Angeles,Toys,9/9/2011,52356.03
+Los Angeles,Shoes,9/9/2011,25256.58
+Los Angeles,Outdoor,9/9/2011,5082.27
+Los Angeles,Clothing,9/9/2011,22549.64
+Los Angeles,Jewelry,9/9/2011,43054.31
+Los Angeles,Housewares,9/9/2011,60703.72
+Los Angeles,Electronics,9/9/2011,20122.27
+Los Angeles,Furniture,9/9/2011,15159.24
+Seattle,Jewelry,9/9/2011,57708.24
+Seattle,Shoes,9/9/2011,41722.37
+Seattle,Clothing,9/9/2011,34792.14
+Seattle,Furniture,9/9/2011,18329.92
+Seattle,Outdoor,9/9/2011,5843.24
+Seattle,Housewares,9/9/2011,96952.19
+Seattle,Electronics,9/9/2011,35563.18
+Seattle,Toys,9/9/2011,61749.78
+Buffalo,Toys,9/12/2011,9012.48
+Buffalo,Furniture,9/12/2011,5108.42
+Buffalo,Clothing,9/12/2011,10485.08
+Buffalo,Outdoor,9/12/2011,2227.41
+Buffalo,Shoes,9/12/2011,16775.89
+Buffalo,Jewelry,9/12/2011,8642.55
+Buffalo,Housewares,9/12/2011,17374.19
+Buffalo,Electronics,9/12/2011,19897.92
+Las Vegas,Toys,9/12/2011,38226.32
+Las Vegas,Furniture,9/12/2011,12955.55
+Las Vegas,Clothing,9/12/2011,33305.92
+Las Vegas,Shoes,9/12/2011,47751.41
+Las Vegas,Jewelry,9/12/2011,38729.31
+Las Vegas,Housewares,9/12/2011,49357.43
+Las Vegas,Outdoor,9/12/2011,6714.41
+Las Vegas,Electronics,9/12/2011,41782.13
+Los Angeles,Jewelry,9/12/2011,44697.01
+Los Angeles,Outdoor,9/12/2011,10249.8
+Los Angeles,Furniture,9/12/2011,16138.7
+Los Angeles,Toys,9/12/2011,60262.21
+Los Angeles,Housewares,9/12/2011,66160.47
+Los Angeles,Electronics,9/12/2011,51509.07
+Los Angeles,Clothing,9/12/2011,43639.97
+Los Angeles,Shoes,9/12/2011,105859.41
+Seattle,Housewares,9/12/2011,96307.24
+Seattle,Outdoor,9/12/2011,10687.17
+Seattle,Shoes,9/12/2011,115006.75
+Seattle,Toys,9/12/2011,66574.47
+Seattle,Clothing,9/12/2011,52520.88
+Seattle,Furniture,9/12/2011,16193.25
+Seattle,Jewelry,9/12/2011,57074.29
+Seattle,Electronics,9/12/2011,79275.42
+Buffalo,Shoes,9/16/2011,7439.68
+Buffalo,Housewares,9/16/2011,16869.08
+Buffalo,Electronics,9/16/2011,8448.8
+Buffalo,Toys,9/16/2011,7410.77
+Buffalo,Clothing,9/16/2011,6041.07
+Buffalo,Furniture,9/16/2011,4587.47
+Buffalo,Outdoor,9/16/2011,1950.55
+Buffalo,Jewelry,9/16/2011,7885.29
+Las Vegas,Electronics,9/16/2011,19386.23
+Las Vegas,Shoes,9/16/2011,14948.27
+Las Vegas,Housewares,9/16/2011,42963.96
+Las Vegas,Clothing,9/16/2011,18535.48
+Las Vegas,Jewelry,9/16/2011,34108.12
+Las Vegas,Outdoor,9/16/2011,3806.5
+Las Vegas,Furniture,9/16/2011,10412.88
+Las Vegas,Toys,9/16/2011,35018.8
+Los Angeles,Clothing,9/16/2011,23973.86
+Los Angeles,Outdoor,9/16/2011,4381.1
+Los Angeles,Jewelry,9/16/2011,42110.79
+Los Angeles,Furniture,9/16/2011,13413.93
+Los Angeles,Shoes,9/16/2011,23412.76
+Los Angeles,Toys,9/16/2011,52273.31
+Los Angeles,Electronics,9/16/2011,22894.86
+Los Angeles,Housewares,9/16/2011,59135.08
+Seattle,Electronics,9/16/2011,37455.41
+Seattle,Housewares,9/16/2011,96937.39
+Seattle,Outdoor,9/16/2011,5422.44
+Seattle,Toys,9/16/2011,59392.79
+Seattle,Shoes,9/16/2011,39829.34
+Seattle,Jewelry,9/16/2011,57221.26
+Seattle,Clothing,9/16/2011,35859.06
+Seattle,Furniture,9/16/2011,13999.25
+Buffalo,Jewelry,9/23/2011,7975.07
+Buffalo,Electronics,9/23/2011,8349.1
+Buffalo,Outdoor,9/23/2011,1676.34
+Buffalo,Shoes,9/23/2011,8109.64
+Buffalo,Furniture,9/23/2011,4640.47
+Buffalo,Clothing,9/23/2011,7151.93
+Buffalo,Housewares,9/23/2011,16903.48
+Buffalo,Toys,9/23/2011,7760.48
+Las Vegas,Outdoor,9/23/2011,4718.28
+Las Vegas,Clothing,9/23/2011,17859.3
+Las Vegas,Electronics,9/23/2011,20562.37
+Las Vegas,Jewelry,9/23/2011,32655.07
+Las Vegas,Shoes,9/23/2011,14836.91
+Las Vegas,Housewares,9/23/2011,43390.94
+Las Vegas,Toys,9/23/2011,33157.11
+Las Vegas,Furniture,9/23/2011,9755.56
+Los Angeles,Shoes,9/23/2011,23498.8
+Los Angeles,Jewelry,9/23/2011,41290.33
+Los Angeles,Furniture,9/23/2011,12265.92
+Los Angeles,Clothing,9/23/2011,24204.22
+Los Angeles,Housewares,9/23/2011,61107.02
+Los Angeles,Toys,9/23/2011,53564.08
+Los Angeles,Electronics,9/23/2011,23579.5
+Los Angeles,Outdoor,9/23/2011,3995.48
+Seattle,Shoes,9/23/2011,37392.34
+Seattle,Electronics,9/23/2011,43322.16
+Seattle,Furniture,9/23/2011,13330.09
+Seattle,Housewares,9/23/2011,96778.13
+Seattle,Toys,9/23/2011,58897.54
+Seattle,Jewelry,9/23/2011,56423.47
+Seattle,Outdoor,9/23/2011,6038.67
+Seattle,Clothing,9/23/2011,35276.78
+Buffalo,Furniture,9/30/2011,4318.6
+Buffalo,Electronics,9/30/2011,9712.4
+Buffalo,Housewares,9/30/2011,16265.53
+Buffalo,Jewelry,9/30/2011,7776.41
+Buffalo,Shoes,9/30/2011,7903.1
+Buffalo,Outdoor,9/30/2011,2030.68
+Buffalo,Toys,9/30/2011,7751.97
+Buffalo,Clothing,9/30/2011,6251.24
+Las Vegas,Jewelry,9/30/2011,32830.81
+Las Vegas,Toys,9/30/2011,34173.84
+Las Vegas,Shoes,9/30/2011,13908.4
+Las Vegas,Outdoor,9/30/2011,3489.24
+Las Vegas,Housewares,9/30/2011,46045.09
+Las Vegas,Electronics,9/30/2011,16385.37
+Las Vegas,Furniture,9/30/2011,10434.83
+Las Vegas,Clothing,9/30/2011,18337.68
+Los Angeles,Jewelry,9/30/2011,42514.19
+Los Angeles,Furniture,9/30/2011,12315.2
+Los Angeles,Shoes,9/30/2011,23724.17
+Los Angeles,Clothing,9/30/2011,24949.42
+Los Angeles,Housewares,9/30/2011,61698.6
+Los Angeles,Toys,9/30/2011,56021.27
+Los Angeles,Outdoor,9/30/2011,3725.45
+Los Angeles,Electronics,9/30/2011,23170.82
+Seattle,Shoes,9/30/2011,35090.31
+Seattle,Housewares,9/30/2011,94264.32
+Seattle,Outdoor,9/30/2011,5702.75
+Seattle,Electronics,9/30/2011,37753.3
+Seattle,Toys,9/30/2011,58750.26
+Seattle,Clothing,9/30/2011,34714.78
+Seattle,Jewelry,9/30/2011,53790.29
+Seattle,Furniture,9/30/2011,11929.64
+Buffalo,Electronics,10/6/2011,10544.82
+Buffalo,Clothing,10/6/2011,4790.03
+Buffalo,Shoes,10/6/2011,8822.03
+Buffalo,Outdoor,10/6/2011,1611.26
+Buffalo,Housewares,10/6/2011,17134.57
+Buffalo,Jewelry,10/6/2011,8286.39
+Buffalo,Toys,10/6/2011,8432.89
+Buffalo,Furniture,10/6/2011,5148.98
+Las Vegas,Shoes,10/6/2011,38569.49
+Las Vegas,Toys,10/6/2011,36099.62
+Las Vegas,Electronics,10/6/2011,18648.73
+Las Vegas,Clothing,10/6/2011,15883.52
+Las Vegas,Outdoor,10/6/2011,3079.94
+Las Vegas,Jewelry,10/6/2011,35376.06
+Las Vegas,Furniture,10/6/2011,7508.71
+Las Vegas,Housewares,10/6/2011,46363.93
+Los Angeles,Furniture,10/6/2011,10424.01
+Los Angeles,Toys,10/6/2011,58382.4
+Los Angeles,Clothing,10/6/2011,21554.22
+Los Angeles,Shoes,10/6/2011,48319.84
+Los Angeles,Housewares,10/6/2011,66831.49
+Los Angeles,Jewelry,10/6/2011,43837.33
+Los Angeles,Outdoor,10/6/2011,6808.89
+Los Angeles,Electronics,10/6/2011,25711.63
+Seattle,Housewares,10/6/2011,93516.12
+Seattle,Clothing,10/6/2011,24726.22
+Seattle,Furniture,10/6/2011,10684.44
+Seattle,Shoes,10/6/2011,56210.27
+Seattle,Electronics,10/6/2011,37715.31
+Seattle,Jewelry,10/6/2011,54395.37
+Seattle,Toys,10/6/2011,60206.42
+Seattle,Outdoor,10/6/2011,5964.64
+Buffalo,Toys,10/14/2011,7335.38
+Buffalo,Clothing,10/14/2011,7205.82
+Buffalo,Shoes,10/14/2011,6255.14
+Buffalo,Outdoor,10/14/2011,2567.58
+Buffalo,Jewelry,10/14/2011,8549.32
+Buffalo,Housewares,10/14/2011,16641.16
+Buffalo,Furniture,10/14/2011,3901.89
+Buffalo,Electronics,10/14/2011,14477.35
+Las Vegas,Clothing,10/14/2011,23077.55
+Las Vegas,Furniture,10/14/2011,9870.22
+Las Vegas,Electronics,10/14/2011,22917.89
+Las Vegas,Jewelry,10/14/2011,35000.3
+Las Vegas,Toys,10/14/2011,34131.81
+Las Vegas,Outdoor,10/14/2011,4248.69
+Las Vegas,Shoes,10/14/2011,13900.54
+Las Vegas,Housewares,10/14/2011,43306.38
+Los Angeles,Electronics,10/14/2011,25263.69
+Los Angeles,Jewelry,10/14/2011,41842.76
+Los Angeles,Clothing,10/14/2011,29264.62
+Los Angeles,Toys,10/14/2011,52291.79
+Los Angeles,Housewares,10/14/2011,62476.91
+Los Angeles,Outdoor,10/14/2011,5904.4
+Los Angeles,Furniture,10/14/2011,12920.6
+Los Angeles,Shoes,10/14/2011,27161.4
+Seattle,Toys,10/14/2011,60515.72
+Seattle,Outdoor,10/14/2011,5534.98
+Seattle,Clothing,10/14/2011,44776.55
+Seattle,Electronics,10/14/2011,49606.26
+Seattle,Housewares,10/14/2011,94631.83
+Seattle,Furniture,10/14/2011,10996.44
+Seattle,Jewelry,10/14/2011,56211.57
+Seattle,Shoes,10/14/2011,38040.95
+Buffalo,Electronics,10/21/2011,14531.63
+Buffalo,Housewares,10/21/2011,17254
+Buffalo,Jewelry,10/21/2011,7355.44
+Buffalo,Furniture,10/21/2011,4195.47
+Buffalo,Toys,10/21/2011,7741.12
+Buffalo,Outdoor,10/21/2011,2608.58
+Buffalo,Shoes,10/21/2011,10029.81
+Buffalo,Clothing,10/21/2011,9257.97
+Las Vegas,Clothing,10/21/2011,23351.8
+Las Vegas,Electronics,10/21/2011,32700.34
+Las Vegas,Housewares,10/21/2011,42487.67
+Las Vegas,Outdoor,10/21/2011,5111.85
+Las Vegas,Toys,10/21/2011,32631.25
+Las Vegas,Shoes,10/21/2011,24664.06
+Las Vegas,Furniture,10/21/2011,10136.78
+Las Vegas,Jewelry,10/21/2011,33954.55
+Los Angeles,Electronics,10/21/2011,37684.18
+Los Angeles,Toys,10/21/2011,55898.8
+Los Angeles,Clothing,10/21/2011,33205.32
+Los Angeles,Housewares,10/21/2011,60669.07
+Los Angeles,Shoes,10/21/2011,49488.55
+Los Angeles,Furniture,10/21/2011,11464.09
+Los Angeles,Outdoor,10/21/2011,7434.31
+Los Angeles,Jewelry,10/21/2011,41549.8
+Seattle,Electronics,10/21/2011,54631.87
+Seattle,Clothing,10/21/2011,45777.26
+Seattle,Shoes,10/21/2011,49930.58
+Seattle,Toys,10/21/2011,63001.6
+Seattle,Furniture,10/21/2011,12600.81
+Seattle,Housewares,10/21/2011,97077.45
+Seattle,Outdoor,10/21/2011,8031.09
+Seattle,Jewelry,10/21/2011,57379.59
+Buffalo,Furniture,10/28/2011,4439.84
+Buffalo,Toys,10/28/2011,7818.45
+Buffalo,Clothing,10/28/2011,11932.26
+Buffalo,Electronics,10/28/2011,10946.62
+Buffalo,Outdoor,10/28/2011,2600.86
+Buffalo,Housewares,10/28/2011,15181.86
+Buffalo,Jewelry,10/28/2011,7682.47
+Buffalo,Shoes,10/28/2011,9205.61
+Las Vegas,Clothing,10/28/2011,31579.9
+Las Vegas,Toys,10/28/2011,34429.75
+Las Vegas,Housewares,10/28/2011,41682.4
+Las Vegas,Furniture,10/28/2011,9421.2
+Las Vegas,Outdoor,10/28/2011,6227.43
+Las Vegas,Electronics,10/28/2011,26391.79
+Las Vegas,Jewelry,10/28/2011,34247.26
+Las Vegas,Shoes,10/28/2011,26827.51
+Los Angeles,Jewelry,10/28/2011,41105.97
+Los Angeles,Clothing,10/28/2011,43490.95
+Los Angeles,Furniture,10/28/2011,10871.46
+Los Angeles,Electronics,10/28/2011,33234.62
+Los Angeles,Outdoor,10/28/2011,4765.93
+Los Angeles,Shoes,10/28/2011,41236.08
+Los Angeles,Toys,10/28/2011,53561.04
+Los Angeles,Housewares,10/28/2011,59276.11
+Seattle,Outdoor,10/28/2011,9138.29
+Seattle,Housewares,10/28/2011,89021.14
+Seattle,Toys,10/28/2011,60906.48
+Seattle,Furniture,10/28/2011,11502.68
+Seattle,Shoes,10/28/2011,58326.85
+Seattle,Clothing,10/28/2011,64829.37
+Seattle,Jewelry,10/28/2011,55849.32
+Seattle,Electronics,10/28/2011,48125.31
+Buffalo,Outdoor,11/2/2011,3340.4
+Buffalo,Clothing,11/2/2011,11283.98
+Buffalo,Furniture,11/2/2011,4151.55
+Buffalo,Shoes,11/2/2011,10060.57
+Buffalo,Jewelry,11/2/2011,8899.61
+Buffalo,Toys,11/2/2011,7590.46
+Buffalo,Housewares,11/2/2011,16535.49
+Buffalo,Electronics,11/2/2011,15155.69
+Las Vegas,Toys,11/2/2011,36011.09
+Las Vegas,Outdoor,11/2/2011,4542.8
+Las Vegas,Clothing,11/2/2011,37887.17
+Las Vegas,Jewelry,11/2/2011,37373.33
+Las Vegas,Housewares,11/2/2011,47595.35
+Las Vegas,Furniture,11/2/2011,11428.25
+Las Vegas,Electronics,11/2/2011,36667.65
+Las Vegas,Shoes,11/2/2011,21169.06
+Los Angeles,Outdoor,11/2/2011,4841.18
+Los Angeles,Shoes,11/2/2011,28913.34
+Los Angeles,Housewares,11/2/2011,70619.64
+Los Angeles,Electronics,11/2/2011,40400.46
+Los Angeles,Jewelry,11/2/2011,50238.23
+Los Angeles,Furniture,11/2/2011,12593.04
+Los Angeles,Clothing,11/2/2011,51382.63
+Los Angeles,Toys,11/2/2011,64270.54
+Seattle,Housewares,11/2/2011,95467.6
+Seattle,Toys,11/2/2011,65100.15
+Seattle,Furniture,11/2/2011,15606.17
+Seattle,Clothing,11/2/2011,57504.1
+Seattle,Electronics,11/2/2011,56939.28
+Seattle,Shoes,11/2/2011,32817.64
+Seattle,Outdoor,11/2/2011,6584.56
+Seattle,Jewelry,11/2/2011,55747.3
+Buffalo,Jewelry,11/3/2011,7857.41
+Buffalo,Clothing,11/3/2011,6440.67
+Buffalo,Furniture,11/3/2011,4078.53
+Buffalo,Outdoor,11/3/2011,3124.92
+Buffalo,Toys,11/3/2011,8502.1
+Buffalo,Shoes,11/3/2011,6762.47
+Buffalo,Housewares,11/3/2011,16948.55
+Buffalo,Electronics,11/3/2011,9186.32
+Las Vegas,Jewelry,11/3/2011,35229.12
+Las Vegas,Clothing,11/3/2011,21280.4
+Las Vegas,Electronics,11/3/2011,23704.37
+Las Vegas,Furniture,11/3/2011,10689.97
+Las Vegas,Outdoor,11/3/2011,3928.8
+Las Vegas,Shoes,11/3/2011,20304.74
+Las Vegas,Toys,11/3/2011,34415.39
+Las Vegas,Housewares,11/3/2011,48465.72
+Los Angeles,Electronics,11/3/2011,28332.99
+Los Angeles,Clothing,11/3/2011,26025.39
+Los Angeles,Outdoor,11/3/2011,7108.21
+Los Angeles,Jewelry,11/3/2011,44569.04
+Los Angeles,Toys,11/3/2011,57030.11
+Los Angeles,Shoes,11/3/2011,26636.69
+Los Angeles,Furniture,11/3/2011,11247.41
+Los Angeles,Housewares,11/3/2011,67898.82
+Seattle,Clothing,11/3/2011,31284.95
+Seattle,Outdoor,11/3/2011,5193.32
+Seattle,Shoes,11/3/2011,36419.1
+Seattle,Toys,11/3/2011,64646.22
+Seattle,Furniture,11/3/2011,12490.16
+Seattle,Jewelry,11/3/2011,53029.03
+Seattle,Housewares,11/3/2011,90576.52
+Seattle,Electronics,11/3/2011,44414.44
+Buffalo,Toys,11/11/2011,8420.92
+Buffalo,Jewelry,11/11/2011,8223.47
+Buffalo,Electronics,11/11/2011,14194.63
+Buffalo,Housewares,11/11/2011,16030.5
+Buffalo,Outdoor,11/11/2011,1850.92
+Buffalo,Clothing,11/11/2011,6525.18
+Buffalo,Shoes,11/11/2011,9878.95
+Buffalo,Furniture,11/11/2011,4611.85
+Las Vegas,Electronics,11/11/2011,31002.65
+Las Vegas,Outdoor,11/11/2011,3527.62
+Las Vegas,Shoes,11/11/2011,25942.35
+Las Vegas,Furniture,11/11/2011,9959.64
+Las Vegas,Jewelry,11/11/2011,36826.52
+Las Vegas,Housewares,11/11/2011,44936.47
+Las Vegas,Toys,11/11/2011,34003.52
+Las Vegas,Clothing,11/11/2011,18689.54
+Los Angeles,Housewares,11/11/2011,61463.38
+Los Angeles,Furniture,11/11/2011,11931.19
+Los Angeles,Clothing,11/11/2011,23151.55
+Los Angeles,Outdoor,11/11/2011,4351.43
+Los Angeles,Toys,11/11/2011,56815.87
+Los Angeles,Electronics,11/11/2011,42089.25
+Los Angeles,Jewelry,11/11/2011,44380.53
+Los Angeles,Shoes,11/11/2011,50781.91
+Seattle,Furniture,11/11/2011,13102.61
+Seattle,Jewelry,11/11/2011,60106.04
+Seattle,Housewares,11/11/2011,95843.73
+Seattle,Toys,11/11/2011,63988.98
+Seattle,Outdoor,11/11/2011,4264.31
+Seattle,Clothing,11/11/2011,36681.61
+Seattle,Shoes,11/11/2011,57751.03
+Seattle,Electronics,11/11/2011,57867.43
+Buffalo,Toys,11/18/2011,8218.34
+Buffalo,Furniture,11/18/2011,4038.32
+Buffalo,Outdoor,11/18/2011,2410.22
+Buffalo,Shoes,11/18/2011,8920.61
+Buffalo,Clothing,11/18/2011,7350.22
+Buffalo,Housewares,11/18/2011,16717.85
+Buffalo,Electronics,11/18/2011,14290.28
+Buffalo,Jewelry,11/18/2011,9427.86
+Las Vegas,Furniture,11/18/2011,10104.36
+Las Vegas,Clothing,11/18/2011,19050.66
+Las Vegas,Outdoor,11/18/2011,2640.98
+Las Vegas,Housewares,11/18/2011,43997.78
+Las Vegas,Jewelry,11/18/2011,37656.58
+Las Vegas,Electronics,11/18/2011,27339.37
+Las Vegas,Toys,11/18/2011,33169.55
+Las Vegas,Shoes,11/18/2011,21953.16
+Los Angeles,Jewelry,11/18/2011,47936.9
+Los Angeles,Electronics,11/18/2011,33040.97
+Los Angeles,Outdoor,11/18/2011,4374.24
+Los Angeles,Toys,11/18/2011,53574.12
+Los Angeles,Shoes,11/18/2011,53880.94
+Los Angeles,Housewares,11/18/2011,61442.83
+Los Angeles,Clothing,11/18/2011,23923.11
+Los Angeles,Furniture,11/18/2011,11235.57
+Seattle,Clothing,11/18/2011,32494.43
+Seattle,Housewares,11/18/2011,96244.02
+Seattle,Toys,11/18/2011,63458.15
+Seattle,Outdoor,11/18/2011,7324.41
+Seattle,Electronics,11/18/2011,50696.62
+Seattle,Jewelry,11/18/2011,62697.49
+Seattle,Furniture,11/18/2011,13001.62
+Seattle,Shoes,11/18/2011,62505.04
+Buffalo,Outdoor,11/25/2011,7217.97
+Buffalo,Toys,11/25/2011,7415.18
+Buffalo,Shoes,11/25/2011,35201.16
+Buffalo,Furniture,11/25/2011,4382.01
+Buffalo,Clothing,11/25/2011,6912.38
+Buffalo,Housewares,11/25/2011,14641.28
+Buffalo,Jewelry,11/25/2011,9109.1
+Buffalo,Electronics,11/25/2011,44129.09
+Las Vegas,Housewares,11/25/2011,44259.59
+Las Vegas,Electronics,11/25/2011,79340.15
+Las Vegas,Jewelry,11/25/2011,46564.14
+Las Vegas,Furniture,11/25/2011,9317.56
+Las Vegas,Clothing,11/25/2011,20911.25
+Las Vegas,Shoes,11/25/2011,71151.34
+Las Vegas,Toys,11/25/2011,33243.85
+Las Vegas,Outdoor,11/25/2011,18629.83
+Los Angeles,Toys,11/25/2011,56437.28
+Los Angeles,Clothing,11/25/2011,25542.74
+Los Angeles,Outdoor,11/25/2011,21410.28
+Los Angeles,Shoes,11/25/2011,125080.78
+Los Angeles,Jewelry,11/25/2011,60792.11
+Los Angeles,Electronics,11/25/2011,102614.71
+Los Angeles,Furniture,11/25/2011,12113.22
+Los Angeles,Housewares,11/25/2011,64808.41
+Seattle,Outdoor,11/25/2011,31353.43
+Seattle,Jewelry,11/25/2011,72179.92
+Seattle,Shoes,11/25/2011,146170.45
+Seattle,Electronics,11/25/2011,125098.69
+Seattle,Housewares,11/25/2011,92337.97
+Seattle,Clothing,11/25/2011,33800.16
+Seattle,Furniture,11/25/2011,14464.15
+Seattle,Toys,11/25/2011,62029.03
+Buffalo,Furniture,12/8/2011,14256.56
+Buffalo,Jewelry,12/8/2011,8659.67
+Buffalo,Shoes,12/8/2011,7367.83
+Buffalo,Electronics,12/8/2011,9235.1
+Buffalo,Clothing,12/8/2011,4799.63
+Buffalo,Toys,12/8/2011,6970.9
+Buffalo,Outdoor,12/8/2011,1368.2
+Buffalo,Housewares,12/8/2011,15778.28
+Las Vegas,Housewares,12/8/2011,45341.92
+Las Vegas,Clothing,12/8/2011,14539.79
+Las Vegas,Furniture,12/8/2011,32148.93
+Las Vegas,Shoes,12/8/2011,14088.28
+Las Vegas,Electronics,12/8/2011,21320.93
+Las Vegas,Outdoor,12/8/2011,3124.83
+Las Vegas,Toys,12/8/2011,31061.21
+Las Vegas,Jewelry,12/8/2011,37449.94
+Los Angeles,Clothing,12/8/2011,20580.3
+Los Angeles,Toys,12/8/2011,52087.46
+Los Angeles,Jewelry,12/8/2011,45898.36
+Los Angeles,Shoes,12/8/2011,26449.07
+Los Angeles,Furniture,12/8/2011,49828.06
+Los Angeles,Electronics,12/8/2011,20501.22
+Los Angeles,Housewares,12/8/2011,66849.04
+Los Angeles,Outdoor,12/8/2011,3353.52
+Seattle,Toys,12/8/2011,55951.73
+Seattle,Clothing,12/8/2011,25209.84
+Seattle,Electronics,12/8/2011,34882.76
+Seattle,Shoes,12/8/2011,29545.41
+Seattle,Furniture,12/8/2011,63988.51
+Seattle,Jewelry,12/8/2011,56617.69
+Seattle,Housewares,12/8/2011,95162.69
+Seattle,Outdoor,12/8/2011,5080.31
+Buffalo,Jewelry,12/16/2011,8205.31
+Buffalo,Electronics,12/16/2011,21185.76
+Buffalo,Shoes,12/16/2011,31971.93
+Buffalo,Housewares,12/16/2011,19193.83
+Buffalo,Outdoor,12/16/2011,2493.12
+Buffalo,Clothing,12/16/2011,15210.07
+Buffalo,Toys,12/16/2011,8632.35
+Buffalo,Furniture,12/16/2011,5356.95
+Las Vegas,Electronics,12/16/2011,43479.7
+Las Vegas,Outdoor,12/16/2011,10022.4
+Las Vegas,Housewares,12/16/2011,51137.42
+Las Vegas,Furniture,12/16/2011,13180.05
+Las Vegas,Toys,12/16/2011,37149.3
+Las Vegas,Clothing,12/16/2011,45773.03
+Las Vegas,Shoes,12/16/2011,69511.06
+Las Vegas,Jewelry,12/16/2011,38266.47
+Los Angeles,Jewelry,12/16/2011,47834.96
+Los Angeles,Clothing,12/16/2011,63109.72
+Los Angeles,Outdoor,12/16/2011,10377.16
+Los Angeles,Shoes,12/16/2011,138188.63
+Los Angeles,Housewares,12/16/2011,73364.19
+Los Angeles,Toys,12/16/2011,61554.57
+Los Angeles,Electronics,12/16/2011,65588.98
+Los Angeles,Furniture,12/16/2011,18683.18
+Seattle,Electronics,12/16/2011,109399.55
+Seattle,Jewelry,12/16/2011,58822.75
+Seattle,Toys,12/16/2011,66708.87
+Seattle,Shoes,12/16/2011,187664.88
+Seattle,Furniture,12/16/2011,19065.25
+Seattle,Housewares,12/16/2011,104945.49
+Seattle,Outdoor,12/16/2011,21645.9
+Seattle,Clothing,12/16/2011,73671.92
+Buffalo,Furniture,12/23/2011,5732.92
+Buffalo,Electronics,12/23/2011,25110.26
+Buffalo,Clothing,12/23/2011,12332.52
+Buffalo,Housewares,12/23/2011,20953.59
+Buffalo,Toys,12/23/2011,9377
+Buffalo,Jewelry,12/23/2011,9974.55
+Buffalo,Shoes,12/23/2011,39806.41
+Buffalo,Outdoor,12/23/2011,4955.91
+Las Vegas,Outdoor,12/23/2011,18931.11
+Las Vegas,Toys,12/23/2011,41062.58
+Las Vegas,Electronics,12/23/2011,61483.82
+Las Vegas,Jewelry,12/23/2011,47785.93
+Las Vegas,Shoes,12/23/2011,119302.15
+Las Vegas,Housewares,12/23/2011,65615.36
+Las Vegas,Furniture,12/23/2011,13667.88
+Las Vegas,Clothing,12/23/2011,46788.75
+Los Angeles,Housewares,12/23/2011,93511.03
+Los Angeles,Electronics,12/23/2011,106536.9
+Los Angeles,Clothing,12/23/2011,75779.45
+Los Angeles,Jewelry,12/23/2011,59678.11
+Los Angeles,Shoes,12/23/2011,214118.51
+Los Angeles,Toys,12/23/2011,72976.78
+Los Angeles,Outdoor,12/23/2011,22902.42
+Los Angeles,Furniture,12/23/2011,21480.34
+Seattle,Toys,12/23/2011,75216.3
+Seattle,Housewares,12/23/2011,123735.98
+Seattle,Jewelry,12/23/2011,72048.55
+Seattle,Electronics,12/23/2011,140165.76
+Seattle,Furniture,12/23/2011,20869.58
+Seattle,Shoes,12/23/2011,318422.01
+Seattle,Clothing,12/23/2011,91965.85
+Seattle,Outdoor,12/23/2011,36094.15
+Buffalo,Outdoor,12/30/2011,3355.4
+Buffalo,Clothing,12/30/2011,7793.74
+Buffalo,Furniture,12/30/2011,3936.63
+Buffalo,Housewares,12/30/2011,16996.31
+Buffalo,Toys,12/30/2011,8783
+Buffalo,Shoes,12/30/2011,17501.29
+Buffalo,Jewelry,12/30/2011,9354.29
+Buffalo,Electronics,12/30/2011,17638.62
+Las Vegas,Furniture,12/30/2011,8848.44
+Las Vegas,Outdoor,12/30/2011,6629.6
+Las Vegas,Housewares,12/30/2011,43539.94
+Las Vegas,Clothing,12/30/2011,23350.88
+Las Vegas,Electronics,12/30/2011,34981.76
+Las Vegas,Toys,12/30/2011,32419.78
+Las Vegas,Shoes,12/30/2011,38216.01
+Las Vegas,Jewelry,12/30/2011,37371.22
+Los Angeles,Electronics,12/30/2011,39314.47
+Los Angeles,Clothing,12/30/2011,31246.27
+Los Angeles,Toys,12/30/2011,54508.17
+Los Angeles,Jewelry,12/30/2011,45254.3
+Los Angeles,Outdoor,12/30/2011,9467.77
+Los Angeles,Housewares,12/30/2011,57846.27
+Los Angeles,Furniture,12/30/2011,11918.71
+Los Angeles,Shoes,12/30/2011,56063.19
+Seattle,Shoes,12/30/2011,76234.73
+Seattle,Jewelry,12/30/2011,56145.68
+Seattle,Housewares,12/30/2011,81744.17
+Seattle,Clothing,12/30/2011,36490.94
+Seattle,Outdoor,12/30/2011,9758.79
+Seattle,Electronics,12/30/2011,50821.94
+Seattle,Toys,12/30/2011,57135.68
+Seattle,Furniture,12/30/2011,12107.32
+Buffalo,Toys,1/6/2012,9497.63
+Buffalo,Housewares,1/6/2012,20482.8
+Buffalo,Outdoor,1/6/2012,2129.04
+Buffalo,Jewelry,1/6/2012,9785.43
+Buffalo,Clothing,1/6/2012,6755.83
+Buffalo,Shoes,1/6/2012,12479.49
+Buffalo,Electronics,1/6/2012,12038.1
+Buffalo,Furniture,1/6/2012,4592.38
+Las Vegas,Housewares,1/6/2012,47425.29
+Las Vegas,Toys,1/6/2012,41039.74
+Las Vegas,Jewelry,1/6/2012,41566.55
+Las Vegas,Clothing,1/6/2012,16065.49
+Las Vegas,Furniture,1/6/2012,7175.77
+Las Vegas,Outdoor,1/6/2012,3249.75
+Las Vegas,Shoes,1/6/2012,31568.92
+Las Vegas,Electronics,1/6/2012,17233.25
+Los Angeles,Shoes,1/6/2012,56434.48
+Los Angeles,Toys,1/6/2012,60451.26
+Los Angeles,Outdoor,1/6/2012,5385.61
+Los Angeles,Clothing,1/6/2012,23076.47
+Los Angeles,Housewares,1/6/2012,64912.65
+Los Angeles,Furniture,1/6/2012,10794.48
+Los Angeles,Electronics,1/6/2012,18540.63
+Los Angeles,Jewelry,1/6/2012,47662.59
+Seattle,Toys,1/6/2012,64565.12
+Seattle,Jewelry,1/6/2012,62758.52
+Seattle,Electronics,1/6/2012,29025.63
+Seattle,Housewares,1/6/2012,102405.35
+Seattle,Furniture,1/6/2012,11451.75
+Seattle,Outdoor,1/6/2012,6184.33
+Seattle,Clothing,1/6/2012,27095.99
+Seattle,Shoes,1/6/2012,76274.69
+Buffalo,Electronics,1/13/2012,11165.57
+Buffalo,Outdoor,1/13/2012,927.47
+Buffalo,Furniture,1/13/2012,5489.87
+Buffalo,Housewares,1/13/2012,15991.42
+Buffalo,Jewelry,1/13/2012,8150.86
+Buffalo,Toys,1/13/2012,8487.53
+Buffalo,Clothing,1/13/2012,7544.97
+Buffalo,Shoes,1/13/2012,5908.69
+Las Vegas,Clothing,1/13/2012,16894.4
+Las Vegas,Jewelry,1/13/2012,36582.36
+Las Vegas,Outdoor,1/13/2012,2460.92
+Las Vegas,Furniture,1/13/2012,13822.49
+Las Vegas,Shoes,1/13/2012,9194.61
+Las Vegas,Electronics,1/13/2012,19281.61
+Las Vegas,Housewares,1/13/2012,43353.09
+Las Vegas,Toys,1/13/2012,34033.89
+Los Angeles,Furniture,1/13/2012,15678.49
+Los Angeles,Clothing,1/13/2012,21569.9
+Los Angeles,Outdoor,1/13/2012,2705.52
+Los Angeles,Shoes,1/13/2012,17919.42
+Los Angeles,Toys,1/13/2012,54965.78
+Los Angeles,Housewares,1/13/2012,62505.79
+Los Angeles,Electronics,1/13/2012,21581.64
+Los Angeles,Jewelry,1/13/2012,43649.89
+Seattle,Electronics,1/13/2012,39222.9
+Seattle,Furniture,1/13/2012,16662.55
+Seattle,Jewelry,1/13/2012,57283.05
+Seattle,Shoes,1/13/2012,24761.41
+Seattle,Outdoor,1/13/2012,3533.89
+Seattle,Clothing,1/13/2012,29525.51
+Seattle,Housewares,1/13/2012,88422.58
+Seattle,Toys,1/13/2012,60235.35
+Buffalo,Furniture,1/20/2012,5682.45
+Buffalo,Jewelry,1/20/2012,8988.8
+Buffalo,Electronics,1/20/2012,11220.5
+Buffalo,Outdoor,1/20/2012,1578.18
+Buffalo,Clothing,1/20/2012,7461.43
+Buffalo,Toys,1/20/2012,8152.57
+Buffalo,Housewares,1/20/2012,16779.65
+Buffalo,Shoes,1/20/2012,6792.71
+Las Vegas,Electronics,1/20/2012,19298.42
+Las Vegas,Housewares,1/20/2012,43753.43
+Las Vegas,Toys,1/20/2012,35356.12
+Las Vegas,Clothing,1/20/2012,18365.1
+Las Vegas,Jewelry,1/20/2012,33780.2
+Las Vegas,Furniture,1/20/2012,11702.08
+Las Vegas,Shoes,1/20/2012,10189.61
+Las Vegas,Outdoor,1/20/2012,2427.46
+Los Angeles,Electronics,1/20/2012,24258.35
+Los Angeles,Jewelry,1/20/2012,43199.76
+Los Angeles,Shoes,1/20/2012,19496.87
+Los Angeles,Furniture,1/20/2012,17817.46
+Los Angeles,Toys,1/20/2012,56866.59
+Los Angeles,Housewares,1/20/2012,61438.15
+Los Angeles,Clothing,1/20/2012,23397.02
+Los Angeles,Outdoor,1/20/2012,3471.01
+Seattle,Jewelry,1/20/2012,56040.88
+Seattle,Outdoor,1/20/2012,4606.7
+Seattle,Furniture,1/20/2012,19130
+Seattle,Electronics,1/20/2012,39327.85
+Seattle,Toys,1/20/2012,61835.98
+Seattle,Shoes,1/20/2012,28056.5
+Seattle,Clothing,1/20/2012,32267.18
+Seattle,Housewares,1/20/2012,91454.16
+Buffalo,Toys,1/27/2012,7781.61
+Buffalo,Clothing,1/27/2012,8381.18
+Buffalo,Housewares,1/27/2012,16162.75
+Buffalo,Furniture,1/27/2012,5292.39
+Buffalo,Jewelry,1/27/2012,8146.3
+Buffalo,Shoes,1/27/2012,7535.97
+Buffalo,Electronics,1/27/2012,10875.52
+Buffalo,Outdoor,1/27/2012,991.46
+Las Vegas,Clothing,1/27/2012,18378.16
+Las Vegas,Housewares,1/27/2012,41556.23
+Las Vegas,Electronics,1/27/2012,21376.42
+Las Vegas,Shoes,1/27/2012,11228.15
+Las Vegas,Outdoor,1/27/2012,1649.4
+Las Vegas,Toys,1/27/2012,34644.25
+Las Vegas,Jewelry,1/27/2012,33613.91
+Las Vegas,Furniture,1/27/2012,10613.17
+Los Angeles,Electronics,1/27/2012,25254.46
+Los Angeles,Jewelry,1/27/2012,40933.71
+Los Angeles,Furniture,1/27/2012,15066.45
+Los Angeles,Housewares,1/27/2012,58151.34
+Los Angeles,Shoes,1/27/2012,18248.43
+Los Angeles,Outdoor,1/27/2012,5038.36
+Los Angeles,Toys,1/27/2012,55483.3
+Los Angeles,Clothing,1/27/2012,22833.08
+Seattle,Toys,1/27/2012,59773.23
+Seattle,Clothing,1/27/2012,31549.81
+Seattle,Outdoor,1/27/2012,3572.06
+Seattle,Jewelry,1/27/2012,57041.93
+Seattle,Housewares,1/27/2012,90813.61
+Seattle,Shoes,1/27/2012,28409.3
+Seattle,Electronics,1/27/2012,37089.67
+Seattle,Furniture,1/27/2012,16699.5
+Buffalo,Clothing,2/3/2012,8067.85
+Buffalo,Outdoor,2/3/2012,1306.34
+Buffalo,Toys,2/3/2012,9639.75
+Buffalo,Furniture,2/3/2012,4926.13
+Buffalo,Housewares,2/3/2012,22222.09
+Buffalo,Shoes,2/3/2012,9369.01
+Buffalo,Jewelry,2/3/2012,9886.61
+Buffalo,Electronics,2/3/2012,17098.45
+Las Vegas,Clothing,2/3/2012,20113.03
+Las Vegas,Toys,2/3/2012,40307.19
+Las Vegas,Outdoor,2/3/2012,6464.52
+Las Vegas,Shoes,2/3/2012,16473.91
+Las Vegas,Housewares,2/3/2012,52608.51
+Las Vegas,Jewelry,2/3/2012,38459.98
+Las Vegas,Electronics,2/3/2012,30642.53
+Las Vegas,Furniture,2/3/2012,11387.31
+Los Angeles,Furniture,2/3/2012,13030.26
+Los Angeles,Jewelry,2/3/2012,45833.82
+Los Angeles,Clothing,2/3/2012,25556.15
+Los Angeles,Toys,2/3/2012,61957.12
+Los Angeles,Housewares,2/3/2012,70768.55
+Los Angeles,Electronics,2/3/2012,32307.69
+Los Angeles,Outdoor,2/3/2012,4330.77
+Los Angeles,Shoes,2/3/2012,29143.18
+Seattle,Electronics,2/3/2012,57072.94
+Seattle,Outdoor,2/3/2012,5895.27
+Seattle,Shoes,2/3/2012,35145
+Seattle,Toys,2/3/2012,67382.01
+Seattle,Jewelry,2/3/2012,61829.76
+Seattle,Housewares,2/3/2012,106758.96
+Seattle,Furniture,2/3/2012,15516.49
+Seattle,Clothing,2/3/2012,32036.11
+Buffalo,Outdoor,2/17/2012,2673.8
+Buffalo,Housewares,2/17/2012,19546.6
+Buffalo,Toys,2/17/2012,9500.23
+Buffalo,Furniture,2/17/2012,5632.15
+Buffalo,Shoes,2/17/2012,9803.68
+Buffalo,Clothing,2/17/2012,18407.08
+Buffalo,Jewelry,2/17/2012,9201.77
+Buffalo,Electronics,2/17/2012,20262.94
+Las Vegas,Furniture,2/17/2012,10237.78
+Las Vegas,Electronics,2/17/2012,46219.96
+Las Vegas,Shoes,2/17/2012,16849.62
+Las Vegas,Jewelry,2/17/2012,36550.46
+Las Vegas,Clothing,2/17/2012,54060.1
+Las Vegas,Housewares,2/17/2012,46085.47
+Las Vegas,Toys,2/17/2012,37244.73
+Las Vegas,Outdoor,2/17/2012,4223.42
+Los Angeles,Toys,2/17/2012,60268.87
+Los Angeles,Housewares,2/17/2012,70027.01
+Los Angeles,Electronics,2/17/2012,52735.59
+Los Angeles,Outdoor,2/17/2012,6707.71
+Los Angeles,Jewelry,2/17/2012,44344.22
+Los Angeles,Clothing,2/17/2012,77394.09
+Los Angeles,Furniture,2/17/2012,15257.84
+Los Angeles,Shoes,2/17/2012,27611.91
+Seattle,Furniture,2/17/2012,14907.64
+Seattle,Clothing,2/17/2012,76195.06
+Seattle,Jewelry,2/17/2012,60409.08
+Seattle,Outdoor,2/17/2012,6944.89
+Seattle,Toys,2/17/2012,68305.24
+Seattle,Electronics,2/17/2012,81340.16
+Seattle,Housewares,2/17/2012,101605.74
+Seattle,Shoes,2/17/2012,39668.96
+Buffalo,Furniture,2/24/2012,5209.51
+Buffalo,Jewelry,2/24/2012,8054.05
+Buffalo,Outdoor,2/24/2012,1703.24
+Buffalo,Shoes,2/24/2012,8120.44
+Buffalo,Clothing,2/24/2012,7714.8
+Buffalo,Toys,2/24/2012,8875.76
+Buffalo,Housewares,2/24/2012,18270.09
+Buffalo,Electronics,2/24/2012,15974.73
+Las Vegas,Toys,2/24/2012,37204.72
+Las Vegas,Shoes,2/24/2012,15956.87
+Las Vegas,Clothing,2/24/2012,20124.22
+Las Vegas,Outdoor,2/24/2012,3784.06
+Las Vegas,Jewelry,2/24/2012,34953.85
+Las Vegas,Housewares,2/24/2012,47080.12
+Las Vegas,Electronics,2/24/2012,30797.88
+Las Vegas,Furniture,2/24/2012,10502.4
+Los Angeles,Jewelry,2/24/2012,42748.2
+Los Angeles,Electronics,2/24/2012,34626.9
+Los Angeles,Furniture,2/24/2012,13625.47
+Los Angeles,Outdoor,2/24/2012,5014.34
+Los Angeles,Shoes,2/24/2012,26766.88
+Los Angeles,Housewares,2/24/2012,66451.66
+Los Angeles,Toys,2/24/2012,60357.05
+Los Angeles,Clothing,2/24/2012,25613.67
+Seattle,Toys,2/24/2012,65972.43
+Seattle,Furniture,2/24/2012,15516.28
+Seattle,Outdoor,2/24/2012,9162.26
+Seattle,Housewares,2/24/2012,106364.4
+Seattle,Clothing,2/24/2012,31670.04
+Seattle,Jewelry,2/24/2012,60971.46
+Seattle,Shoes,2/24/2012,36916.11
+Seattle,Electronics,2/24/2012,54268.43
+Buffalo,Jewelry,3/2/2012,10169.59
+Buffalo,Housewares,3/2/2012,20418.72
+Buffalo,Shoes,3/2/2012,9054.03
+Buffalo,Outdoor,3/2/2012,1393.1
+Buffalo,Furniture,3/2/2012,5541.12
+Buffalo,Electronics,3/2/2012,16221.04
+Buffalo,Clothing,3/2/2012,8925.18
+Buffalo,Toys,3/2/2012,8920.87
+Las Vegas,Jewelry,3/2/2012,40274.83
+Las Vegas,Outdoor,3/2/2012,3981.09
+Las Vegas,Shoes,3/2/2012,16556.71
+Las Vegas,Toys,3/2/2012,40069.47
+Las Vegas,Furniture,3/2/2012,12485.78
+Las Vegas,Clothing,3/2/2012,23510.49
+Las Vegas,Electronics,3/2/2012,28307.43
+Las Vegas,Housewares,3/2/2012,54322.24
+Los Angeles,Outdoor,3/2/2012,5239.88
+Los Angeles,Clothing,3/2/2012,28813.06
+Los Angeles,Toys,3/2/2012,62315.55
+Los Angeles,Housewares,3/2/2012,71322.01
+Los Angeles,Shoes,3/2/2012,22087.93
+Los Angeles,Jewelry,3/2/2012,45476.69
+Los Angeles,Furniture,3/2/2012,14335.61
+Los Angeles,Electronics,3/2/2012,35533.52
+Seattle,Furniture,3/2/2012,17288.22
+Seattle,Housewares,3/2/2012,101578.47
+Seattle,Shoes,3/2/2012,32007.65
+Seattle,Toys,3/2/2012,66493.24
+Seattle,Outdoor,3/2/2012,5564.47
+Seattle,Clothing,3/2/2012,40680.72
+Seattle,Electronics,3/2/2012,45931.01
+Seattle,Jewelry,3/2/2012,60366.8
+Buffalo,Shoes,3/8/2012,7775.12
+Buffalo,Clothing,3/8/2012,7268.86
+Buffalo,Electronics,3/8/2012,12592.2
+Buffalo,Furniture,3/8/2012,12993.29
+Buffalo,Toys,3/8/2012,8484.77
+Buffalo,Housewares,3/8/2012,21064.43
+Buffalo,Jewelry,3/8/2012,10436.56
+Buffalo,Outdoor,3/8/2012,614.94
+Las Vegas,Housewares,3/8/2012,49424.06
+Las Vegas,Toys,3/8/2012,40098.84
+Las Vegas,Clothing,3/8/2012,16628.31
+Las Vegas,Shoes,3/8/2012,16916.29
+Las Vegas,Furniture,3/8/2012,30331.69
+Las Vegas,Electronics,3/8/2012,17615.28
+Las Vegas,Jewelry,3/8/2012,41305.39
+Las Vegas,Outdoor,3/8/2012,3412.58
+Los Angeles,Shoes,3/8/2012,27606.23
+Los Angeles,Toys,3/8/2012,62664.95
+Los Angeles,Electronics,3/8/2012,18214.94
+Los Angeles,Furniture,3/8/2012,36066
+Los Angeles,Clothing,3/8/2012,22851.99
+Los Angeles,Outdoor,3/8/2012,4460.42
+Los Angeles,Jewelry,3/8/2012,48595.26
+Los Angeles,Housewares,3/8/2012,69431.69
+Seattle,Toys,3/8/2012,64940.59
+Seattle,Housewares,3/8/2012,101872.8
+Seattle,Outdoor,3/8/2012,7772.52
+Seattle,Furniture,3/8/2012,53930.14
+Seattle,Shoes,3/8/2012,39887.76
+Seattle,Clothing,3/8/2012,28716.36
+Seattle,Jewelry,3/8/2012,59778.53
+Seattle,Electronics,3/8/2012,27945.08
+Buffalo,Outdoor,3/16/2012,2285.1
+Buffalo,Furniture,3/16/2012,3849.02
+Buffalo,Electronics,3/16/2012,13357.4
+Buffalo,Housewares,3/16/2012,18206.82
+Buffalo,Toys,3/16/2012,8091.63
+Buffalo,Shoes,3/16/2012,9398.96
+Buffalo,Jewelry,3/16/2012,8791.92
+Buffalo,Clothing,3/16/2012,7613.23
+Las Vegas,Jewelry,3/16/2012,38125.32
+Las Vegas,Toys,3/16/2012,36141.27
+Las Vegas,Clothing,3/16/2012,22366.88
+Las Vegas,Shoes,3/16/2012,20690.01
+Las Vegas,Outdoor,3/16/2012,3905.72
+Las Vegas,Housewares,3/16/2012,47346.32
+Las Vegas,Furniture,3/16/2012,8845.73
+Las Vegas,Electronics,3/16/2012,29345.72
+Los Angeles,Shoes,3/16/2012,31696.46
+Los Angeles,Furniture,3/16/2012,10209.02
+Los Angeles,Clothing,3/16/2012,27320.08
+Los Angeles,Electronics,3/16/2012,32855.76
+Los Angeles,Toys,3/16/2012,56255.58
+Los Angeles,Jewelry,3/16/2012,44531.12
+Los Angeles,Outdoor,3/16/2012,5449.41
+Los Angeles,Housewares,3/16/2012,68851.41
+Seattle,Furniture,3/16/2012,11152.02
+Seattle,Jewelry,3/16/2012,58109.29
+Seattle,Housewares,3/16/2012,101053.81
+Seattle,Electronics,3/16/2012,50302.08
+Seattle,Clothing,3/16/2012,34859.57
+Seattle,Outdoor,3/16/2012,8218.87
+Seattle,Toys,3/16/2012,66261.75
+Seattle,Shoes,3/16/2012,48726.63
+Buffalo,Jewelry,3/23/2012,8545.2
+Buffalo,Clothing,3/23/2012,9390.09
+Buffalo,Toys,3/23/2012,9529.9
+Buffalo,Shoes,3/23/2012,8402.42
+Buffalo,Electronics,3/23/2012,13996.16
+Buffalo,Outdoor,3/23/2012,1358.3
+Buffalo,Housewares,3/23/2012,17341.51
+Buffalo,Furniture,3/23/2012,4686.12
+Las Vegas,Housewares,3/23/2012,44796.03
+Las Vegas,Outdoor,3/23/2012,2856.83
+Las Vegas,Electronics,3/23/2012,25442.13
+Las Vegas,Furniture,3/23/2012,7910.22
+Las Vegas,Shoes,3/23/2012,15628.59
+Las Vegas,Clothing,3/23/2012,22107.7
+Las Vegas,Toys,3/23/2012,33758.45
+Las Vegas,Jewelry,3/23/2012,36586.52
+Los Angeles,Electronics,3/23/2012,23991.99
+Los Angeles,Furniture,3/23/2012,9597.16
+Los Angeles,Outdoor,3/23/2012,3521.51
+Los Angeles,Jewelry,3/23/2012,42582.69
+Los Angeles,Shoes,3/23/2012,27478.65
+Los Angeles,Toys,3/23/2012,57199.46
+Los Angeles,Housewares,3/23/2012,63447.81
+Los Angeles,Clothing,3/23/2012,29868.82
+Seattle,Clothing,3/23/2012,37148.64
+Seattle,Outdoor,3/23/2012,5269.37
+Seattle,Housewares,3/23/2012,94894.85
+Seattle,Jewelry,3/23/2012,53921.9
+Seattle,Toys,3/23/2012,61407.04
+Seattle,Furniture,3/23/2012,11416.47
+Seattle,Shoes,3/23/2012,36847.99
+Seattle,Electronics,3/23/2012,43779.18
+Buffalo,Electronics,3/30/2012,14568.56
+Buffalo,Outdoor,3/30/2012,1938.04
+Buffalo,Furniture,3/30/2012,4205.16
+Buffalo,Clothing,3/30/2012,12259.62
+Buffalo,Toys,3/30/2012,9229.23
+Buffalo,Housewares,3/30/2012,18609.02
+Buffalo,Shoes,3/30/2012,8268.9
+Buffalo,Jewelry,3/30/2012,8547.71
+Las Vegas,Clothing,3/30/2012,28952.86
+Las Vegas,Electronics,3/30/2012,22392.09
+Las Vegas,Toys,3/30/2012,37745.71
+Las Vegas,Outdoor,3/30/2012,4540.27
+Las Vegas,Shoes,3/30/2012,18684
+Las Vegas,Furniture,3/30/2012,9129.23
+Las Vegas,Jewelry,3/30/2012,37718.51
+Las Vegas,Housewares,3/30/2012,46529.68
+Los Angeles,Housewares,3/30/2012,63778.8
+Los Angeles,Electronics,3/30/2012,23440.64
+Los Angeles,Jewelry,3/30/2012,42958.64
+Los Angeles,Furniture,3/30/2012,11410.07
+Los Angeles,Toys,3/30/2012,57878.11
+Los Angeles,Shoes,3/30/2012,32676.16
+Los Angeles,Outdoor,3/30/2012,3186.37
+Los Angeles,Clothing,3/30/2012,37052.68
+Seattle,Outdoor,3/30/2012,7145.1
+Seattle,Electronics,3/30/2012,43979.44
+Seattle,Furniture,3/30/2012,11635.97
+Seattle,Shoes,3/30/2012,44196.53
+Seattle,Jewelry,3/30/2012,55633.17
+Seattle,Clothing,3/30/2012,44590.27
+Seattle,Housewares,3/30/2012,95111.76
+Seattle,Toys,3/30/2012,59418.79
+Buffalo,Clothing,4/5/2012,6635.58
+Buffalo,Toys,4/5/2012,10187.95
+Buffalo,Furniture,4/5/2012,5182.24
+Buffalo,Outdoor,4/5/2012,1776.08
+Buffalo,Shoes,4/5/2012,8641.35
+Buffalo,Jewelry,4/5/2012,10428.56
+Buffalo,Housewares,4/5/2012,20638.49
+Buffalo,Electronics,4/5/2012,13121.78
+Las Vegas,Furniture,4/5/2012,10655.35
+Las Vegas,Toys,4/5/2012,41589.1
+Las Vegas,Housewares,4/5/2012,50501.3
+Las Vegas,Shoes,4/5/2012,22956.83
+Las Vegas,Jewelry,4/5/2012,41897.55
+Las Vegas,Clothing,4/5/2012,17147.44
+Las Vegas,Outdoor,4/5/2012,4658.18
+Las Vegas,Electronics,4/5/2012,18953.07
+Los Angeles,Electronics,4/5/2012,20351.43
+Los Angeles,Jewelry,4/5/2012,46298.93
+Los Angeles,Outdoor,4/5/2012,4512.07
+Los Angeles,Shoes,4/5/2012,38179.14
+Los Angeles,Housewares,4/5/2012,67046.93
+Los Angeles,Clothing,4/5/2012,22711.04
+Los Angeles,Furniture,4/5/2012,11844.62
+Los Angeles,Toys,4/5/2012,63212.42
+Seattle,Furniture,4/5/2012,11440.23
+Seattle,Toys,4/5/2012,63656.22
+Seattle,Electronics,4/5/2012,32214.63
+Seattle,Jewelry,4/5/2012,60576.41
+Seattle,Shoes,4/5/2012,52949.81
+Seattle,Housewares,4/5/2012,102425.54
+Seattle,Clothing,4/5/2012,27487.23
+Seattle,Outdoor,4/5/2012,5211.85
+Buffalo,Outdoor,4/13/2012,1535.96
+Buffalo,Jewelry,4/13/2012,8665.81
+Buffalo,Furniture,4/13/2012,4250.93
+Buffalo,Shoes,4/13/2012,9665.61
+Buffalo,Toys,4/13/2012,8355.6
+Buffalo,Clothing,4/13/2012,9961.51
+Buffalo,Housewares,4/13/2012,18101.45
+Buffalo,Electronics,4/13/2012,11871.96
+Las Vegas,Furniture,4/13/2012,7927.73
+Las Vegas,Toys,4/13/2012,37295.29
+Las Vegas,Outdoor,4/13/2012,4500.12
+Las Vegas,Electronics,4/13/2012,18458.33
+Las Vegas,Housewares,4/13/2012,43991.18
+Las Vegas,Jewelry,4/13/2012,37449.26
+Las Vegas,Shoes,4/13/2012,21302.3
+Las Vegas,Clothing,4/13/2012,34684.21
+Los Angeles,Toys,4/13/2012,58538.71
+Los Angeles,Jewelry,4/13/2012,45239.6
+Los Angeles,Housewares,4/13/2012,61390.48
+Los Angeles,Shoes,4/13/2012,33272.51
+Los Angeles,Outdoor,4/13/2012,5379.77
+Los Angeles,Furniture,4/13/2012,10047.71
+Los Angeles,Clothing,4/13/2012,56093.13
+Los Angeles,Electronics,4/13/2012,23202.76
+Seattle,Toys,4/13/2012,60602.85
+Seattle,Shoes,4/13/2012,48984.51
+Seattle,Outdoor,4/13/2012,7436.28
+Seattle,Jewelry,4/13/2012,55376.94
+Seattle,Housewares,4/13/2012,90747.71
+Seattle,Electronics,4/13/2012,36499.59
+Seattle,Furniture,4/13/2012,11737.98
+Seattle,Clothing,4/13/2012,50108.12
+Buffalo,Jewelry,4/20/2012,8902.68
+Buffalo,Shoes,4/20/2012,8351.88
+Buffalo,Electronics,4/20/2012,9543.7
+Buffalo,Toys,4/20/2012,8620.42
+Buffalo,Clothing,4/20/2012,8131.34
+Buffalo,Furniture,4/20/2012,4965.38
+Buffalo,Outdoor,4/20/2012,999.92
+Buffalo,Housewares,4/20/2012,18816.49
+Las Vegas,Jewelry,4/20/2012,36350.03
+Las Vegas,Electronics,4/20/2012,16645.01
+Las Vegas,Shoes,4/20/2012,19056.92
+Las Vegas,Housewares,4/20/2012,45561.85
+Las Vegas,Outdoor,4/20/2012,2988.96
+Las Vegas,Toys,4/20/2012,36930.94
+Las Vegas,Furniture,4/20/2012,8647.36
+Las Vegas,Clothing,4/20/2012,16976.19
+Los Angeles,Clothing,4/20/2012,22568.57
+Los Angeles,Toys,4/20/2012,62770.47
+Los Angeles,Furniture,4/20/2012,11178.49
+Los Angeles,Shoes,4/20/2012,29118.14
+Los Angeles,Jewelry,4/20/2012,45655.92
+Los Angeles,Electronics,4/20/2012,19918.98
+Los Angeles,Housewares,4/20/2012,67363.12
+Los Angeles,Outdoor,4/20/2012,4898.1
+Seattle,Outdoor,4/20/2012,6963.55
+Seattle,Shoes,4/20/2012,47855.67
+Seattle,Jewelry,4/20/2012,60090.83
+Seattle,Clothing,4/20/2012,26161.45
+Seattle,Furniture,4/20/2012,11946.86
+Seattle,Housewares,4/20/2012,102204.4
+Seattle,Electronics,4/20/2012,34604.47
+Seattle,Toys,4/20/2012,63907.79
+Buffalo,Outdoor,4/27/2012,2405.98
+Buffalo,Furniture,4/27/2012,4991.19
+Buffalo,Housewares,4/27/2012,19008.6
+Buffalo,Electronics,4/27/2012,11369.21
+Buffalo,Shoes,4/27/2012,9057.12
+Buffalo,Jewelry,4/27/2012,8659.56
+Buffalo,Toys,4/27/2012,8844.08
+Buffalo,Clothing,4/27/2012,7145.2
+Las Vegas,Furniture,4/27/2012,8635.62
+Las Vegas,Toys,4/27/2012,38531.76
+Las Vegas,Housewares,4/27/2012,45456.23
+Las Vegas,Shoes,4/27/2012,18704.53
+Las Vegas,Electronics,4/27/2012,17170.39
+Las Vegas,Clothing,4/27/2012,16347.6
+Las Vegas,Outdoor,4/27/2012,3319.32
+Las Vegas,Jewelry,4/27/2012,36894.54
+Los Angeles,Clothing,4/27/2012,22414.38
+Los Angeles,Outdoor,4/27/2012,3515.14
+Los Angeles,Shoes,4/27/2012,30778.46
+Los Angeles,Electronics,4/27/2012,16528.64
+Los Angeles,Toys,4/27/2012,59764.81
+Los Angeles,Jewelry,4/27/2012,42459.29
+Los Angeles,Furniture,4/27/2012,10419.11
+Los Angeles,Housewares,4/27/2012,61562.95
+Seattle,Electronics,4/27/2012,31209.5
+Seattle,Toys,4/27/2012,61032.35
+Seattle,Furniture,4/27/2012,10915.11
+Seattle,Jewelry,4/27/2012,57200.35
+Seattle,Clothing,4/27/2012,26812.03
+Seattle,Outdoor,4/27/2012,5823.1
+Seattle,Shoes,4/27/2012,49286.5
+Seattle,Housewares,4/27/2012,94450.19
+Buffalo,Outdoor,5/10/2012,2486.76
+Buffalo,Toys,5/10/2012,8983.76
+Buffalo,Shoes,5/10/2012,12806.16
+Buffalo,Furniture,5/10/2012,5609.73
+Buffalo,Jewelry,5/10/2012,10434.33
+Buffalo,Housewares,5/10/2012,20517.77
+Buffalo,Electronics,5/10/2012,17859.58
+Buffalo,Clothing,5/10/2012,9750.12
+Las Vegas,Shoes,5/10/2012,22071.39
+Las Vegas,Jewelry,5/10/2012,39311.93
+Las Vegas,Housewares,5/10/2012,48577.08
+Las Vegas,Outdoor,5/10/2012,3843.29
+Las Vegas,Furniture,5/10/2012,11676.98
+Las Vegas,Electronics,5/10/2012,25508.81
+Las Vegas,Clothing,5/10/2012,21904.47
+Las Vegas,Toys,5/10/2012,42663.75
+Los Angeles,Furniture,5/10/2012,12011.64
+Los Angeles,Toys,5/10/2012,62955.51
+Los Angeles,Outdoor,5/10/2012,4503.69
+Los Angeles,Housewares,5/10/2012,67497.08
+Los Angeles,Clothing,5/10/2012,30789.27
+Los Angeles,Electronics,5/10/2012,29039.55
+Los Angeles,Jewelry,5/10/2012,47631.56
+Los Angeles,Shoes,5/10/2012,34141.39
+Seattle,Clothing,5/10/2012,41292.92
+Seattle,Shoes,5/10/2012,50293.51
+Seattle,Electronics,5/10/2012,44162.22
+Seattle,Outdoor,5/10/2012,7030.7
+Seattle,Toys,5/10/2012,64347.41
+Seattle,Jewelry,5/10/2012,62267.45
+Seattle,Furniture,5/10/2012,12733.27
+Seattle,Housewares,5/10/2012,101963.71
+Buffalo,Jewelry,5/18/2012,9279.44
+Buffalo,Furniture,5/18/2012,5623.07
+Buffalo,Clothing,5/18/2012,6121.23
+Buffalo,Electronics,5/18/2012,12214.38
+Buffalo,Toys,5/18/2012,9501.08
+Buffalo,Housewares,5/18/2012,19237.79
+Buffalo,Shoes,5/18/2012,7929.56
+Buffalo,Outdoor,5/18/2012,1675.63
+Las Vegas,Outdoor,5/18/2012,6030.81
+Las Vegas,Jewelry,5/18/2012,34536.29
+Las Vegas,Clothing,5/18/2012,18517.79
+Las Vegas,Toys,5/18/2012,37817.25
+Las Vegas,Shoes,5/18/2012,19180.11
+Las Vegas,Electronics,5/18/2012,17955.73
+Las Vegas,Furniture,5/18/2012,8609.82
+Las Vegas,Housewares,5/18/2012,44411.23
+Los Angeles,Toys,5/18/2012,62084.91
+Los Angeles,Shoes,5/18/2012,41954.87
+Los Angeles,Jewelry,5/18/2012,46008.96
+Los Angeles,Clothing,5/18/2012,25982.7
+Los Angeles,Housewares,5/18/2012,63948.19
+Los Angeles,Outdoor,5/18/2012,7974.1
+Los Angeles,Electronics,5/18/2012,19415.92
+Los Angeles,Furniture,5/18/2012,10591.94
+Seattle,Toys,5/18/2012,65436.2
+Seattle,Shoes,5/18/2012,48638.75
+Seattle,Electronics,5/18/2012,32861.4
+Seattle,Housewares,5/18/2012,99759.73
+Seattle,Clothing,5/18/2012,28663.44
+Seattle,Outdoor,5/18/2012,12459.63
+Seattle,Furniture,5/18/2012,12231.59
+Seattle,Jewelry,5/18/2012,60832.91
+Buffalo,Shoes,5/25/2012,8781.26
+Buffalo,Outdoor,5/25/2012,2320.4
+Buffalo,Toys,5/25/2012,8868.51
+Buffalo,Electronics,5/25/2012,9738.9
+Buffalo,Jewelry,5/25/2012,8873.67
+Buffalo,Furniture,5/25/2012,5435.82
+Buffalo,Clothing,5/25/2012,6715.54
+Buffalo,Housewares,5/25/2012,18005.1
+Las Vegas,Shoes,5/25/2012,28671.98
+Las Vegas,Furniture,5/25/2012,8345.33
+Las Vegas,Toys,5/25/2012,39067
+Las Vegas,Clothing,5/25/2012,16963.55
+Las Vegas,Outdoor,5/25/2012,5131.26
+Las Vegas,Jewelry,5/25/2012,38270.34
+Las Vegas,Housewares,5/25/2012,45817.07
+Las Vegas,Electronics,5/25/2012,18625.67
+Los Angeles,Shoes,5/25/2012,49836.42
+Los Angeles,Outdoor,5/25/2012,6241.53
+Los Angeles,Housewares,5/25/2012,66419.23
+Los Angeles,Clothing,5/25/2012,23561.25
+Los Angeles,Furniture,5/25/2012,10441.51
+Los Angeles,Jewelry,5/25/2012,47627.29
+Los Angeles,Toys,5/25/2012,61029.66
+Los Angeles,Electronics,5/25/2012,20657.98
+Seattle,Electronics,5/25/2012,33721.8
+Seattle,Jewelry,5/25/2012,57781.87
+Seattle,Furniture,5/25/2012,11110.28
+Seattle,Housewares,5/25/2012,102223.65
+Seattle,Shoes,5/25/2012,63050.03
+Seattle,Clothing,5/25/2012,27820.39
+Seattle,Outdoor,5/25/2012,10600.8
+Seattle,Toys,5/25/2012,61952.95
+Buffalo,Toys,6/1/2012,8420.64
+Buffalo,Furniture,6/1/2012,5745.49
+Buffalo,Outdoor,6/1/2012,1062.64
+Buffalo,Clothing,6/1/2012,6361.95
+Buffalo,Electronics,6/1/2012,11924.58
+Buffalo,Housewares,6/1/2012,16860.86
+Buffalo,Jewelry,6/1/2012,10107.34
+Buffalo,Shoes,6/1/2012,6268.5
+Las Vegas,Shoes,6/1/2012,12377.76
+Las Vegas,Jewelry,6/1/2012,40925.76
+Las Vegas,Clothing,6/1/2012,16567.69
+Las Vegas,Furniture,6/1/2012,13926.04
+Las Vegas,Electronics,6/1/2012,23105.81
+Las Vegas,Outdoor,6/1/2012,3665.25
+Las Vegas,Housewares,6/1/2012,44481.38
+Las Vegas,Toys,6/1/2012,36797
+Los Angeles,Jewelry,6/1/2012,49377.61
+Los Angeles,Electronics,6/1/2012,24429.4
+Los Angeles,Outdoor,6/1/2012,3468.68
+Los Angeles,Shoes,6/1/2012,19058.99
+Los Angeles,Toys,6/1/2012,58398.02
+Los Angeles,Clothing,6/1/2012,20481.45
+Los Angeles,Furniture,6/1/2012,15893.39
+Los Angeles,Housewares,6/1/2012,64877.05
+Seattle,Electronics,6/1/2012,41183.69
+Seattle,Furniture,6/1/2012,17947.87
+Seattle,Toys,6/1/2012,64831.25
+Seattle,Outdoor,6/1/2012,4751.57
+Seattle,Jewelry,6/1/2012,63913.83
+Seattle,Housewares,6/1/2012,94469.77
+Seattle,Clothing,6/1/2012,28952.16
+Seattle,Shoes,6/1/2012,34402.78
+Buffalo,Furniture,6/4/2012,4028.38
+Buffalo,Toys,6/4/2012,9911.54
+Buffalo,Outdoor,6/4/2012,1540.84
+Buffalo,Shoes,6/4/2012,12238.76
+Buffalo,Jewelry,6/4/2012,9767.34
+Buffalo,Electronics,6/4/2012,13031.86
+Buffalo,Housewares,6/4/2012,19899.97
+Buffalo,Clothing,6/4/2012,18969.05
+Las Vegas,Housewares,6/4/2012,51805.88
+Las Vegas,Electronics,6/4/2012,28386.81
+Las Vegas,Outdoor,6/4/2012,4764.43
+Las Vegas,Jewelry,6/4/2012,42060.21
+Las Vegas,Toys,6/4/2012,41917.56
+Las Vegas,Furniture,6/4/2012,9335.24
+Las Vegas,Shoes,6/4/2012,27171.41
+Las Vegas,Clothing,6/4/2012,57592.12
+Los Angeles,Furniture,6/4/2012,11303
+Los Angeles,Outdoor,6/4/2012,4546.61
+Los Angeles,Jewelry,6/4/2012,48565.55
+Los Angeles,Shoes,6/4/2012,44709.09
+Los Angeles,Housewares,6/4/2012,70382.23
+Los Angeles,Clothing,6/4/2012,75970.97
+Los Angeles,Toys,6/4/2012,61294.26
+Los Angeles,Electronics,6/4/2012,29379.66
+Seattle,Electronics,6/4/2012,52309.26
+Seattle,Jewelry,6/4/2012,64551.09
+Seattle,Shoes,6/4/2012,60350.24
+Seattle,Housewares,6/4/2012,104332.33
+Seattle,Toys,6/4/2012,66790.02
+Seattle,Outdoor,6/4/2012,4896.25
+Seattle,Furniture,6/4/2012,12334.33
+Seattle,Clothing,6/4/2012,85839.78
+Buffalo,Housewares,6/7/2012,20826.61
+Buffalo,Jewelry,6/7/2012,9918.68
+Buffalo,Shoes,6/7/2012,11458.59
+Buffalo,Outdoor,6/7/2012,1709.52
+Buffalo,Clothing,6/7/2012,6711.19
+Buffalo,Electronics,6/7/2012,11884.36
+Buffalo,Furniture,6/7/2012,4606.06
+Buffalo,Toys,6/7/2012,9232.4
+Las Vegas,Clothing,6/7/2012,17823.37
+Las Vegas,Outdoor,6/7/2012,2828.03
+Las Vegas,Toys,6/7/2012,41524.67
+Las Vegas,Electronics,6/7/2012,19684.48
+Las Vegas,Shoes,6/7/2012,27364.96
+Las Vegas,Furniture,6/7/2012,8473.71
+Las Vegas,Housewares,6/7/2012,49771.92
+Las Vegas,Jewelry,6/7/2012,44936.96
+Los Angeles,Housewares,6/7/2012,70409.25
+Los Angeles,Toys,6/7/2012,62976.13
+Los Angeles,Furniture,6/7/2012,12846.88
+Los Angeles,Jewelry,6/7/2012,51526.65
+Los Angeles,Outdoor,6/7/2012,6004.84
+Los Angeles,Electronics,6/7/2012,20850.59
+Los Angeles,Shoes,6/7/2012,42776.06
+Los Angeles,Clothing,6/7/2012,24052.7
+Seattle,Outdoor,6/7/2012,8163.7
+Seattle,Clothing,6/7/2012,28160.76
+Seattle,Jewelry,6/7/2012,62171.92
+Seattle,Housewares,6/7/2012,104872.78
+Seattle,Toys,6/7/2012,64176.47
+Seattle,Shoes,6/7/2012,53098.23
+Seattle,Furniture,6/7/2012,13486.07
+Seattle,Electronics,6/7/2012,34164.27
+Buffalo,Outdoor,6/15/2012,2357.86
+Buffalo,Shoes,6/15/2012,11588.54
+Buffalo,Furniture,6/15/2012,5194.13
+Buffalo,Housewares,6/15/2012,19719.88
+Buffalo,Jewelry,6/15/2012,9651.64
+Buffalo,Clothing,6/15/2012,6966.06
+Buffalo,Electronics,6/15/2012,15249.39
+Buffalo,Toys,6/15/2012,9139.79
+Las Vegas,Clothing,6/15/2012,17558.82
+Las Vegas,Furniture,6/15/2012,8016.26
+Las Vegas,Jewelry,6/15/2012,39019.74
+Las Vegas,Shoes,6/15/2012,26249.22
+Las Vegas,Outdoor,6/15/2012,4087.58
+Las Vegas,Toys,6/15/2012,38163.76
+Las Vegas,Housewares,6/15/2012,46637.48
+Las Vegas,Electronics,6/15/2012,21376.63
+Los Angeles,Shoes,6/15/2012,39037.84
+Los Angeles,Jewelry,6/15/2012,44776.31
+Los Angeles,Furniture,6/15/2012,11664.56
+Los Angeles,Clothing,6/15/2012,24016.43
+Los Angeles,Toys,6/15/2012,62535.67
+Los Angeles,Electronics,6/15/2012,26047.39
+Los Angeles,Outdoor,6/15/2012,5635.87
+Los Angeles,Housewares,6/15/2012,66904.1
+Seattle,Clothing,6/15/2012,30679.71
+Seattle,Furniture,6/15/2012,10545.93
+Seattle,Jewelry,6/15/2012,58239.57
+Seattle,Electronics,6/15/2012,40878.56
+Seattle,Housewares,6/15/2012,99532.65
+Seattle,Shoes,6/15/2012,54156.73
+Seattle,Toys,6/15/2012,62574.96
+Seattle,Outdoor,6/15/2012,8352.1
+Buffalo,Furniture,6/22/2012,5887.41
+Buffalo,Clothing,6/22/2012,6926.88
+Buffalo,Electronics,6/22/2012,13510.16
+Buffalo,Outdoor,6/22/2012,1196.06
+Buffalo,Toys,6/22/2012,8558.37
+Buffalo,Housewares,6/22/2012,19549.19
+Buffalo,Shoes,6/22/2012,12783.61
+Buffalo,Jewelry,6/22/2012,8508.55
+Las Vegas,Shoes,6/22/2012,24777.12
+Las Vegas,Furniture,6/22/2012,7301.41
+Las Vegas,Housewares,6/22/2012,46075
+Las Vegas,Electronics,6/22/2012,24337.24
+Las Vegas,Toys,6/22/2012,37693.88
+Las Vegas,Clothing,6/22/2012,16633.41
+Las Vegas,Jewelry,6/22/2012,37400.31
+Las Vegas,Outdoor,6/22/2012,4870.31
+Los Angeles,Electronics,6/22/2012,24467.72
+Los Angeles,Furniture,6/22/2012,10858.12
+Los Angeles,Jewelry,6/22/2012,45355.82
+Los Angeles,Outdoor,6/22/2012,4125.62
+Los Angeles,Shoes,6/22/2012,37024.98
+Los Angeles,Housewares,6/22/2012,68915.17
+Los Angeles,Toys,6/22/2012,61053.52
+Los Angeles,Clothing,6/22/2012,24155.67
+Seattle,Shoes,6/22/2012,52466.82
+Seattle,Clothing,6/22/2012,28806.8
+Seattle,Jewelry,6/22/2012,56738.69
+Seattle,Furniture,6/22/2012,10635.71
+Seattle,Toys,6/22/2012,61001.51
+Seattle,Electronics,6/22/2012,37946.59
+Seattle,Housewares,6/22/2012,100073.71
+Seattle,Outdoor,6/22/2012,8119.58
+Buffalo,Shoes,6/29/2012,12572.39
+Buffalo,Outdoor,6/29/2012,2566.4
+Buffalo,Clothing,6/29/2012,6932.65
+Buffalo,Electronics,6/29/2012,15920.6
+Buffalo,Jewelry,6/29/2012,9120.68
+Buffalo,Toys,6/29/2012,8821.53
+Buffalo,Housewares,6/29/2012,19623.29
+Buffalo,Furniture,6/29/2012,3393.15
+Las Vegas,Toys,6/29/2012,37647.44
+Las Vegas,Clothing,6/29/2012,15722.82
+Las Vegas,Furniture,6/29/2012,7577.59
+Las Vegas,Housewares,6/29/2012,47629.14
+Las Vegas,Shoes,6/29/2012,24077.39
+Las Vegas,Outdoor,6/29/2012,4774.5
+Las Vegas,Jewelry,6/29/2012,39758.77
+Las Vegas,Electronics,6/29/2012,20233.9
+Los Angeles,Furniture,6/29/2012,10099.07
+Los Angeles,Housewares,6/29/2012,66611.66
+Los Angeles,Shoes,6/29/2012,41946.63
+Los Angeles,Outdoor,6/29/2012,4644.03
+Los Angeles,Jewelry,6/29/2012,46315.63
+Los Angeles,Clothing,6/29/2012,23580.74
+Los Angeles,Electronics,6/29/2012,22011.26
+Los Angeles,Toys,6/29/2012,62530.78
+Seattle,Jewelry,6/29/2012,58876.65
+Seattle,Furniture,6/29/2012,10635.66
+Seattle,Electronics,6/29/2012,35328.8
+Seattle,Housewares,6/29/2012,100415.52
+Seattle,Shoes,6/29/2012,52355.23
+Seattle,Toys,6/29/2012,60680.46
+Seattle,Clothing,6/29/2012,29604.1
+Seattle,Outdoor,6/29/2012,5654.53
+Buffalo,Clothing,7/9/2012,8118.58
+Buffalo,Electronics,7/9/2012,13606.6
+Buffalo,Furniture,7/9/2012,6750.69
+Buffalo,Jewelry,7/9/2012,9651.79
+Buffalo,Outdoor,7/9/2012,1427.34
+Buffalo,Shoes,7/9/2012,8814.91
+Buffalo,Toys,7/9/2012,8279.51
+Buffalo,Housewares,7/9/2012,19681.7
+Las Vegas,Furniture,7/9/2012,18368.51
+Las Vegas,Outdoor,7/9/2012,2576.64
+Las Vegas,Electronics,7/9/2012,18236.15
+Las Vegas,Toys,7/9/2012,38666.21
+Las Vegas,Housewares,7/9/2012,47344.5
+Las Vegas,Jewelry,7/9/2012,39549.27
+Las Vegas,Shoes,7/9/2012,16941.42
+Las Vegas,Clothing,7/9/2012,18322.37
+Los Angeles,Jewelry,7/9/2012,46049.92
+Los Angeles,Outdoor,7/9/2012,4129.51
+Los Angeles,Housewares,7/9/2012,66273.96
+Los Angeles,Furniture,7/9/2012,23422
+Los Angeles,Toys,7/9/2012,59936.16
+Los Angeles,Electronics,7/9/2012,18819.51
+Los Angeles,Shoes,7/9/2012,27534.81
+Los Angeles,Clothing,7/9/2012,25270.06
+Seattle,Furniture,7/9/2012,18714.18
+Seattle,Toys,7/9/2012,59222.12
+Seattle,Housewares,7/9/2012,100312.06
+Seattle,Clothing,7/9/2012,33724.46
+Seattle,Outdoor,7/9/2012,5586.5
+Seattle,Jewelry,7/9/2012,61720.96
+Seattle,Electronics,7/9/2012,35199.92
+Seattle,Shoes,7/9/2012,42650.69
+Buffalo,Outdoor,7/13/2012,1705.06
+Buffalo,Furniture,7/13/2012,8907.95
+Buffalo,Jewelry,7/13/2012,9472.05
+Buffalo,Shoes,7/13/2012,9553.9
+Buffalo,Electronics,7/13/2012,12204.74
+Buffalo,Housewares,7/13/2012,19257.58
+Buffalo,Toys,7/13/2012,8741.96
+Buffalo,Clothing,7/13/2012,5991.01
+Las Vegas,Clothing,7/13/2012,16566.18
+Las Vegas,Electronics,7/13/2012,18089.61
+Las Vegas,Toys,7/13/2012,36130.01
+Las Vegas,Shoes,7/13/2012,18427.17
+Las Vegas,Furniture,7/13/2012,13126.15
+Las Vegas,Housewares,7/13/2012,44411.95
+Las Vegas,Outdoor,7/13/2012,2776.97
+Las Vegas,Jewelry,7/13/2012,38073.91
+Los Angeles,Electronics,7/13/2012,20668.27
+Los Angeles,Outdoor,7/13/2012,3807.46
+Los Angeles,Furniture,7/13/2012,20595.14
+Los Angeles,Jewelry,7/13/2012,44568.55
+Los Angeles,Housewares,7/13/2012,65225.27
+Los Angeles,Clothing,7/13/2012,23148.57
+Los Angeles,Toys,7/13/2012,58201.61
+Los Angeles,Shoes,7/13/2012,31459.95
+Seattle,Electronics,7/13/2012,31553.73
+Seattle,Outdoor,7/13/2012,7999.16
+Seattle,Shoes,7/13/2012,47206.67
+Seattle,Toys,7/13/2012,59340.87
+Seattle,Jewelry,7/13/2012,57219.1
+Seattle,Furniture,7/13/2012,25190.07
+Seattle,Clothing,7/13/2012,29606.6
+Seattle,Housewares,7/13/2012,98915.31
+Buffalo,Jewelry,7/20/2012,9038.25
+Buffalo,Toys,7/20/2012,8909.86
+Buffalo,Shoes,7/20/2012,8297.27
+Buffalo,Housewares,7/20/2012,18253.09
+Buffalo,Clothing,7/20/2012,6856.63
+Buffalo,Electronics,7/20/2012,14873.1
+Buffalo,Outdoor,7/20/2012,2044.96
+Buffalo,Furniture,7/20/2012,9937.9
+Las Vegas,Jewelry,7/20/2012,38080.05
+Las Vegas,Clothing,7/20/2012,16348.06
+Las Vegas,Outdoor,7/20/2012,3496.53
+Las Vegas,Furniture,7/20/2012,20126.95
+Las Vegas,Electronics,7/20/2012,17896.46
+Las Vegas,Housewares,7/20/2012,45108.22
+Las Vegas,Toys,7/20/2012,37797.31
+Las Vegas,Shoes,7/20/2012,16528.1
+Los Angeles,Housewares,7/20/2012,65537.3
+Los Angeles,Clothing,7/20/2012,23813.13
+Los Angeles,Shoes,7/20/2012,30088.37
+Los Angeles,Outdoor,7/20/2012,4656.31
+Los Angeles,Electronics,7/20/2012,19608
+Los Angeles,Furniture,7/20/2012,26353.05
+Los Angeles,Jewelry,7/20/2012,45996.72
+Los Angeles,Toys,7/20/2012,57299.45
+Seattle,Toys,7/20/2012,61588.78
+Seattle,Electronics,7/20/2012,31396.96
+Seattle,Furniture,7/20/2012,43033.44
+Seattle,Outdoor,7/20/2012,5667.06
+Seattle,Clothing,7/20/2012,29345.26
+Seattle,Shoes,7/20/2012,48925.34
+Seattle,Housewares,7/20/2012,101996.56
+Seattle,Jewelry,7/20/2012,58839.19
+Buffalo,Toys,7/27/2012,9151.44
+Buffalo,Clothing,7/27/2012,7834.4
+Buffalo,Housewares,7/27/2012,18915.8
+Buffalo,Shoes,7/27/2012,8087.37
+Buffalo,Furniture,7/27/2012,9333.53
+Buffalo,Electronics,7/27/2012,12060.24
+Buffalo,Outdoor,7/27/2012,1424.28
+Buffalo,Jewelry,7/27/2012,9046.04
+Las Vegas,Furniture,7/27/2012,22716.7
+Las Vegas,Shoes,7/27/2012,17171.35
+Las Vegas,Clothing,7/27/2012,15731.18
+Las Vegas,Toys,7/27/2012,36981.9
+Las Vegas,Outdoor,7/27/2012,2545.65
+Las Vegas,Housewares,7/27/2012,45008.22
+Las Vegas,Jewelry,7/27/2012,35197.59
+Las Vegas,Electronics,7/27/2012,14105.4
+Los Angeles,Jewelry,7/27/2012,43538.73
+Los Angeles,Toys,7/27/2012,58155.92
+Los Angeles,Electronics,7/27/2012,17403.45
+Los Angeles,Outdoor,7/27/2012,3425.84
+Los Angeles,Clothing,7/27/2012,23025.51
+Los Angeles,Housewares,7/27/2012,66605.41
+Los Angeles,Shoes,7/27/2012,28162.44
+Los Angeles,Furniture,7/27/2012,27903.18
+Seattle,Clothing,7/27/2012,28044.01
+Seattle,Housewares,7/27/2012,98674.89
+Seattle,Outdoor,7/27/2012,6919.68
+Seattle,Electronics,7/27/2012,30001.91
+Seattle,Furniture,7/27/2012,46341.14
+Seattle,Shoes,7/27/2012,42318.94
+Seattle,Toys,7/27/2012,59545.08
+Seattle,Jewelry,7/27/2012,55759.21
+Buffalo,Outdoor,8/6/2012,1286.63
+Buffalo,Electronics,8/6/2012,15901.72
+Buffalo,Clothing,8/6/2012,7390.4
+Buffalo,Furniture,8/6/2012,5094.72
+Buffalo,Shoes,8/6/2012,14090.81
+Buffalo,Jewelry,8/6/2012,10076.05
+Buffalo,Housewares,8/6/2012,20543.8
+Buffalo,Toys,8/6/2012,9751.5
+Las Vegas,Toys,8/6/2012,40236.23
+Las Vegas,Shoes,8/6/2012,30052.56
+Las Vegas,Electronics,8/6/2012,24752.99
+Las Vegas,Housewares,8/6/2012,49439.58
+Las Vegas,Furniture,8/6/2012,8614.64
+Las Vegas,Outdoor,8/6/2012,4888.46
+Las Vegas,Clothing,8/6/2012,17666
+Las Vegas,Jewelry,8/6/2012,41124.27
+Los Angeles,Toys,8/6/2012,63464.67
+Los Angeles,Furniture,8/6/2012,11372.41
+Los Angeles,Electronics,8/6/2012,27297.35
+Los Angeles,Outdoor,8/6/2012,4731.09
+Los Angeles,Jewelry,8/6/2012,48621.95
+Los Angeles,Shoes,8/6/2012,45828.75
+Los Angeles,Housewares,8/6/2012,70841.55
+Los Angeles,Clothing,8/6/2012,24826.25
+Seattle,Jewelry,8/6/2012,62740.7
+Seattle,Housewares,8/6/2012,102099.34
+Seattle,Shoes,8/6/2012,64510.09
+Seattle,Toys,8/6/2012,62173
+Seattle,Outdoor,8/6/2012,5735.63
+Seattle,Clothing,8/6/2012,28423.52
+Seattle,Furniture,8/6/2012,11442.09
+Seattle,Electronics,8/6/2012,39187.63
+Buffalo,Toys,8/17/2012,7878.4
+Buffalo,Electronics,8/17/2012,9465.5
+Buffalo,Jewelry,8/17/2012,9746.96
+Buffalo,Housewares,8/17/2012,19013.37
+Buffalo,Clothing,8/17/2012,6762.8
+Buffalo,Outdoor,8/17/2012,1038.17
+Buffalo,Shoes,8/17/2012,9199.3
+Buffalo,Furniture,8/17/2012,13093.59
+Las Vegas,Clothing,8/17/2012,17330.7
+Las Vegas,Jewelry,8/17/2012,38105.9
+Las Vegas,Outdoor,8/17/2012,2725.3
+Las Vegas,Electronics,8/17/2012,15440.65
+Las Vegas,Shoes,8/17/2012,16256.91
+Las Vegas,Furniture,8/17/2012,31905.97
+Las Vegas,Housewares,8/17/2012,46350.97
+Las Vegas,Toys,8/17/2012,36294.18
+Los Angeles,Jewelry,8/17/2012,47210.3
+Los Angeles,Housewares,8/17/2012,68857.79
+Los Angeles,Furniture,8/17/2012,50717.3
+Los Angeles,Toys,8/17/2012,56043
+Los Angeles,Shoes,8/17/2012,26030.66
+Los Angeles,Electronics,8/17/2012,20644.15
+Los Angeles,Outdoor,8/17/2012,4601.36
+Los Angeles,Clothing,8/17/2012,24793.54
+Seattle,Housewares,8/17/2012,112674.99
+Seattle,Outdoor,8/17/2012,7069.97
+Seattle,Toys,8/17/2012,57167.63
+Seattle,Shoes,8/17/2012,36696.19
+Seattle,Clothing,8/17/2012,27670.98
+Seattle,Jewelry,8/17/2012,64240.7
+Seattle,Electronics,8/17/2012,29590.8
+Seattle,Furniture,8/17/2012,103193.89
+Buffalo,Clothing,8/24/2012,6991.31
+Buffalo,Outdoor,8/24/2012,1236.38
+Buffalo,Housewares,8/24/2012,18145.98
+Buffalo,Jewelry,8/24/2012,9407.82
+Buffalo,Toys,8/24/2012,8345.17
+Buffalo,Shoes,8/24/2012,8358.21
+Buffalo,Furniture,8/24/2012,16200.07
+Buffalo,Electronics,8/24/2012,12432.06
+Las Vegas,Shoes,8/24/2012,15159.94
+Las Vegas,Jewelry,8/24/2012,36674.67
+Las Vegas,Clothing,8/24/2012,16286.4
+Las Vegas,Toys,8/24/2012,33855.28
+Las Vegas,Outdoor,8/24/2012,2626.5
+Las Vegas,Electronics,8/24/2012,22446.23
+Las Vegas,Housewares,8/24/2012,44972.52
+Las Vegas,Furniture,8/24/2012,43712.78
+Los Angeles,Jewelry,8/24/2012,46393.79
+Los Angeles,Electronics,8/24/2012,28013.73
+Los Angeles,Shoes,8/24/2012,26622.8
+Los Angeles,Furniture,8/24/2012,66388.36
+Los Angeles,Outdoor,8/24/2012,3514.91
+Los Angeles,Clothing,8/24/2012,22839.77
+Los Angeles,Housewares,8/24/2012,68175.69
+Los Angeles,Toys,8/24/2012,58219.65
+Seattle,Jewelry,8/24/2012,57761.17
+Seattle,Shoes,8/24/2012,39219.35
+Seattle,Toys,8/24/2012,60205.79
+Seattle,Electronics,8/24/2012,40981.28
+Seattle,Outdoor,8/24/2012,3623.96
+Seattle,Furniture,8/24/2012,52365.07
+Seattle,Clothing,8/24/2012,29877.12
+Seattle,Housewares,8/24/2012,101654.79
+Buffalo,Outdoor,8/31/2012,2491.88
+Buffalo,Shoes,8/31/2012,7447.39
+Buffalo,Electronics,8/31/2012,12087.08
+Buffalo,Toys,8/31/2012,7997.62
+Buffalo,Jewelry,8/31/2012,9454.64
+Buffalo,Housewares,8/31/2012,20118.38
+Buffalo,Furniture,8/31/2012,18159.86
+Buffalo,Clothing,8/31/2012,6943.91
+Las Vegas,Shoes,8/31/2012,15802.09
+Las Vegas,Electronics,8/31/2012,18615.76
+Las Vegas,Clothing,8/31/2012,16680.24
+Las Vegas,Toys,8/31/2012,37666.92
+Las Vegas,Outdoor,8/31/2012,2987.07
+Las Vegas,Jewelry,8/31/2012,37802.97
+Las Vegas,Furniture,8/31/2012,50701.3
+Las Vegas,Housewares,8/31/2012,50995.5
+Los Angeles,Furniture,8/31/2012,59695.45
+Los Angeles,Outdoor,8/31/2012,5204.33
+Los Angeles,Housewares,8/31/2012,72899.98
+Los Angeles,Shoes,8/31/2012,23292.25
+Los Angeles,Clothing,8/31/2012,25343.45
+Los Angeles,Toys,8/31/2012,60093.88
+Los Angeles,Jewelry,8/31/2012,48887.63
+Los Angeles,Electronics,8/31/2012,25320.02
+Seattle,Furniture,8/31/2012,27826.14
+Seattle,Housewares,8/31/2012,101495.5
+Seattle,Shoes,8/31/2012,43287.47
+Seattle,Electronics,8/31/2012,38738.2
+Seattle,Jewelry,8/31/2012,58424.08
+Seattle,Toys,8/31/2012,60518.71
+Seattle,Outdoor,8/31/2012,4427.54
+Seattle,Clothing,8/31/2012,29547.48
+Buffalo,Shoes,9/3/2012,8396.01
+Buffalo,Toys,9/3/2012,9669.6
+Buffalo,Furniture,9/3/2012,5038.46
+Buffalo,Jewelry,9/3/2012,9217.05
+Buffalo,Electronics,9/3/2012,15005.94
+Buffalo,Housewares,9/3/2012,19256.13
+Buffalo,Clothing,9/3/2012,8192.77
+Buffalo,Outdoor,9/3/2012,2124.56
+Las Vegas,Furniture,9/3/2012,11925.71
+Las Vegas,Outdoor,9/3/2012,4183.3
+Las Vegas,Jewelry,9/3/2012,38934.77
+Las Vegas,Clothing,9/3/2012,21140.07
+Las Vegas,Housewares,9/3/2012,48563.69
+Las Vegas,Shoes,9/3/2012,17500.24
+Las Vegas,Toys,9/3/2012,36553.82
+Las Vegas,Electronics,9/3/2012,25492.21
+Los Angeles,Furniture,9/3/2012,12444.21
+Los Angeles,Housewares,9/3/2012,66870.9
+Los Angeles,Clothing,9/3/2012,26173.93
+Los Angeles,Shoes,9/3/2012,27863.43
+Los Angeles,Jewelry,9/3/2012,45363.57
+Los Angeles,Electronics,9/3/2012,28448.89
+Los Angeles,Toys,9/3/2012,59860.21
+Los Angeles,Outdoor,9/3/2012,5163.51
+Seattle,Shoes,9/3/2012,36368.5
+Seattle,Toys,9/3/2012,66269.71
+Seattle,Electronics,9/3/2012,57101.32
+Seattle,Housewares,9/3/2012,105045.44
+Seattle,Furniture,9/3/2012,14486.64
+Seattle,Jewelry,9/3/2012,59014.98
+Seattle,Clothing,9/3/2012,31564.55
+Seattle,Outdoor,9/3/2012,7404.28
+Buffalo,Clothing,9/14/2012,8712.1
+Buffalo,Outdoor,9/14/2012,2556.04
+Buffalo,Furniture,9/14/2012,6019.94
+Buffalo,Toys,9/14/2012,8508.34
+Buffalo,Housewares,9/14/2012,18532.1
+Buffalo,Shoes,9/14/2012,8006.34
+Buffalo,Jewelry,9/14/2012,9200.13
+Buffalo,Electronics,9/14/2012,14518.5
+Las Vegas,Toys,9/14/2012,37346.83
+Las Vegas,Housewares,9/14/2012,44493.61
+Las Vegas,Electronics,9/14/2012,19369.52
+Las Vegas,Shoes,9/14/2012,15525.82
+Las Vegas,Outdoor,9/14/2012,3073.31
+Las Vegas,Furniture,9/14/2012,14288.22
+Las Vegas,Jewelry,9/14/2012,35044.06
+Las Vegas,Clothing,9/14/2012,19616.22
+Los Angeles,Jewelry,9/14/2012,42250.04
+Los Angeles,Housewares,9/14/2012,63984.36
+Los Angeles,Toys,9/14/2012,59095.81
+Los Angeles,Furniture,9/14/2012,15121.83
+Los Angeles,Electronics,9/14/2012,22075.36
+Los Angeles,Outdoor,9/14/2012,5524.04
+Los Angeles,Clothing,9/14/2012,26435.2
+Los Angeles,Shoes,9/14/2012,33616.53
+Seattle,Clothing,9/14/2012,37140.15
+Seattle,Furniture,9/14/2012,15791.25
+Seattle,Electronics,9/14/2012,36270.1
+Seattle,Outdoor,9/14/2012,5055.06
+Seattle,Housewares,9/14/2012,96606.57
+Seattle,Jewelry,9/14/2012,59052.36
+Seattle,Shoes,9/14/2012,41865.99
+Seattle,Toys,9/14/2012,60246.22
+Buffalo,Shoes,9/21/2012,11761.9
+Buffalo,Clothing,9/21/2012,9218.35
+Buffalo,Furniture,9/21/2012,5151.64
+Buffalo,Housewares,9/21/2012,18270.56
+Buffalo,Jewelry,9/21/2012,8853.35
+Buffalo,Toys,9/21/2012,7795.66
+Buffalo,Electronics,9/21/2012,15793.37
+Buffalo,Outdoor,9/21/2012,1357.94
+Las Vegas,Outdoor,9/21/2012,4159.51
+Las Vegas,Jewelry,9/21/2012,34507.34
+Las Vegas,Electronics,9/21/2012,25798.78
+Las Vegas,Clothing,9/21/2012,19251.5
+Las Vegas,Furniture,9/21/2012,13403.63
+Las Vegas,Housewares,9/21/2012,43541.07
+Las Vegas,Shoes,9/21/2012,22542.44
+Las Vegas,Toys,9/21/2012,36404.63
+Los Angeles,Jewelry,9/21/2012,43268.67
+Los Angeles,Shoes,9/21/2012,43132.5
+Los Angeles,Housewares,9/21/2012,66350.75
+Los Angeles,Electronics,9/21/2012,26693.63
+Los Angeles,Clothing,9/21/2012,26303.04
+Los Angeles,Outdoor,9/21/2012,6288.61
+Los Angeles,Furniture,9/21/2012,12237.04
+Los Angeles,Toys,9/21/2012,58275.75
+Seattle,Housewares,9/21/2012,95291.41
+Seattle,Jewelry,9/21/2012,57105.21
+Seattle,Toys,9/21/2012,60258.64
+Seattle,Electronics,9/21/2012,40347.24
+Seattle,Furniture,9/21/2012,13301.79
+Seattle,Shoes,9/21/2012,51044.21
+Seattle,Clothing,9/21/2012,38189.91
+Seattle,Outdoor,9/21/2012,8246.7
+Buffalo,Electronics,9/28/2012,15258.94
+Buffalo,Jewelry,9/28/2012,8022.81
+Buffalo,Shoes,9/28/2012,9150.78
+Buffalo,Outdoor,9/28/2012,2228.98
+Buffalo,Toys,9/28/2012,8648.24
+Buffalo,Housewares,9/28/2012,17986.75
+Buffalo,Furniture,9/28/2012,4826.56
+Buffalo,Clothing,9/28/2012,8762.39
+Las Vegas,Housewares,9/28/2012,45784.76
+Las Vegas,Electronics,9/28/2012,22560.39
+Las Vegas,Toys,9/28/2012,37254.84
+Las Vegas,Shoes,9/28/2012,22343.24
+Las Vegas,Furniture,9/28/2012,13085.95
+Las Vegas,Outdoor,9/28/2012,3168.68
+Las Vegas,Jewelry,9/28/2012,34647.33
+Las Vegas,Clothing,9/28/2012,18947.81
+Los Angeles,Housewares,9/28/2012,61500.04
+Los Angeles,Furniture,9/28/2012,12693.54
+Los Angeles,Outdoor,9/28/2012,5130.01
+Los Angeles,Electronics,9/28/2012,31205.06
+Los Angeles,Jewelry,9/28/2012,42846.96
+Los Angeles,Toys,9/28/2012,57424
+Los Angeles,Clothing,9/28/2012,27159.07
+Los Angeles,Shoes,9/28/2012,39330.13
+Seattle,Jewelry,9/28/2012,54969.27
+Seattle,Shoes,9/28/2012,50983.79
+Seattle,Electronics,9/28/2012,49255.4
+Seattle,Outdoor,9/28/2012,5245.97
+Seattle,Toys,9/28/2012,60371.65
+Seattle,Furniture,9/28/2012,11600.42
+Seattle,Clothing,9/28/2012,36574.4
+Seattle,Housewares,9/28/2012,94947.88
+Buffalo,Outdoor,10/2/2012,2288.78
+Buffalo,Electronics,10/2/2012,19760.41
+Buffalo,Housewares,10/2/2012,20754.94
+Buffalo,Jewelry,10/2/2012,9462.19
+Buffalo,Furniture,10/2/2012,5482.49
+Buffalo,Toys,10/2/2012,9194.54
+Buffalo,Shoes,10/2/2012,10680.87
+Buffalo,Clothing,10/2/2012,11343.41
+Las Vegas,Electronics,10/2/2012,38096.04
+Las Vegas,Shoes,10/2/2012,21619.05
+Las Vegas,Housewares,10/2/2012,50581.06
+Las Vegas,Outdoor,10/2/2012,7338.85
+Las Vegas,Jewelry,10/2/2012,39305.13
+Las Vegas,Furniture,10/2/2012,12388.85
+Las Vegas,Toys,10/2/2012,38317.89
+Las Vegas,Clothing,10/2/2012,36988.49
+Los Angeles,Clothing,10/2/2012,41247.02
+Los Angeles,Outdoor,10/2/2012,5301.57
+Los Angeles,Shoes,10/2/2012,31318.06
+Los Angeles,Electronics,10/2/2012,39231.34
+Los Angeles,Jewelry,10/2/2012,46926.71
+Los Angeles,Furniture,10/2/2012,15069.79
+Los Angeles,Toys,10/2/2012,61533.8
+Los Angeles,Housewares,10/2/2012,69165.6
+Seattle,Toys,10/2/2012,64301.1
+Seattle,Jewelry,10/2/2012,60459.16
+Seattle,Clothing,10/2/2012,56486.03
+Seattle,Furniture,10/2/2012,16910.88
+Seattle,Outdoor,10/2/2012,4826
+Seattle,Electronics,10/2/2012,54394.63
+Seattle,Housewares,10/2/2012,105498.09
+Seattle,Shoes,10/2/2012,35719.36
+Buffalo,Clothing,10/8/2012,5853.88
+Buffalo,Outdoor,10/8/2012,1525.96
+Buffalo,Electronics,10/8/2012,11543.31
+Buffalo,Shoes,10/8/2012,7507.23
+Buffalo,Furniture,10/8/2012,13719.23
+Buffalo,Jewelry,10/8/2012,9778.18
+Buffalo,Housewares,10/8/2012,19509.85
+Buffalo,Toys,10/8/2012,8572.51
+Las Vegas,Electronics,10/8/2012,18232.46
+Las Vegas,Housewares,10/8/2012,46729.91
+Las Vegas,Shoes,10/8/2012,16552.49
+Las Vegas,Furniture,10/8/2012,28257.3
+Las Vegas,Toys,10/8/2012,37269.92
+Las Vegas,Clothing,10/8/2012,16119.92
+Las Vegas,Outdoor,10/8/2012,-139.65
+Las Vegas,Jewelry,10/8/2012,40343.83
+Los Angeles,Furniture,10/8/2012,40642.61
+Los Angeles,Electronics,10/8/2012,21574.47
+Los Angeles,Outdoor,10/8/2012,3394.06
+Los Angeles,Toys,10/8/2012,55758.16
+Los Angeles,Jewelry,10/8/2012,46654.19
+Los Angeles,Shoes,10/8/2012,28129.31
+Los Angeles,Housewares,10/8/2012,67146.39
+Los Angeles,Clothing,10/8/2012,23261.95
+Seattle,Housewares,10/8/2012,96870
+Seattle,Jewelry,10/8/2012,59613.49
+Seattle,Toys,10/8/2012,58854.51
+Seattle,Shoes,10/8/2012,35885.16
+Seattle,Furniture,10/8/2012,72222.01
+Seattle,Outdoor,10/8/2012,6090.94
+Seattle,Electronics,10/8/2012,29309.07
+Seattle,Clothing,10/8/2012,28705.5
+Buffalo,Shoes,10/19/2012,10888.71
+Buffalo,Furniture,10/19/2012,5005.44
+Buffalo,Electronics,10/19/2012,14397.08
+Buffalo,Toys,10/19/2012,8441.96
+Buffalo,Outdoor,10/19/2012,1845.04
+Buffalo,Clothing,10/19/2012,10886.48
+Buffalo,Jewelry,10/19/2012,9454.2
+Buffalo,Housewares,10/19/2012,19849.1
+Las Vegas,Toys,10/19/2012,38668.75
+Las Vegas,Jewelry,10/19/2012,35549.19
+Las Vegas,Clothing,10/19/2012,24185.27
+Las Vegas,Electronics,10/19/2012,20413.83
+Las Vegas,Outdoor,10/19/2012,3496.69
+Las Vegas,Shoes,10/19/2012,21937.45
+Las Vegas,Furniture,10/19/2012,8548.87
+Las Vegas,Housewares,10/19/2012,42354.72
+Los Angeles,Toys,10/19/2012,60502.97
+Los Angeles,Shoes,10/19/2012,37468.15
+Los Angeles,Housewares,10/19/2012,64137.69
+Los Angeles,Clothing,10/19/2012,35897.95
+Los Angeles,Electronics,10/19/2012,27097.6
+Los Angeles,Furniture,10/19/2012,11239.25
+Los Angeles,Jewelry,10/19/2012,43727.01
+Los Angeles,Outdoor,10/19/2012,6601.5
+Seattle,Housewares,10/19/2012,94432.15
+Seattle,Toys,10/19/2012,60359.28
+Seattle,Clothing,10/19/2012,49604.49
+Seattle,Electronics,10/19/2012,41777.74
+Seattle,Outdoor,10/19/2012,7694.9
+Seattle,Jewelry,10/19/2012,58016.81
+Seattle,Shoes,10/19/2012,50064.05
+Seattle,Furniture,10/19/2012,13028.48
+Buffalo,Electronics,10/26/2012,15307.6
+Buffalo,Jewelry,10/26/2012,8459.82
+Buffalo,Housewares,10/26/2012,18894.7
+Buffalo,Clothing,10/26/2012,11351.24
+Buffalo,Outdoor,10/26/2012,1435.94
+Buffalo,Shoes,10/26/2012,7749.8
+Buffalo,Furniture,10/26/2012,4730.72
+Buffalo,Toys,10/26/2012,8495.07
+Las Vegas,Furniture,10/26/2012,9350.9
+Las Vegas,Jewelry,10/26/2012,36292.6
+Las Vegas,Outdoor,10/26/2012,4032.5
+Las Vegas,Toys,10/26/2012,39255.35
+Las Vegas,Shoes,10/26/2012,21449.85
+Las Vegas,Electronics,10/26/2012,25846.94
+Las Vegas,Clothing,10/26/2012,27390.81
+Las Vegas,Housewares,10/26/2012,43134.88
+Los Angeles,Toys,10/26/2012,63992.36
+Los Angeles,Shoes,10/26/2012,37302.54
+Los Angeles,Outdoor,10/26/2012,5253.54
+Los Angeles,Electronics,10/26/2012,30891.9
+Los Angeles,Jewelry,10/26/2012,46098.84
+Los Angeles,Furniture,10/26/2012,10731.67
+Los Angeles,Housewares,10/26/2012,62475.44
+Los Angeles,Clothing,10/26/2012,41615.24
+Seattle,Toys,10/26/2012,60917.72
+Seattle,Shoes,10/26/2012,47321.62
+Seattle,Housewares,10/26/2012,93534.21
+Seattle,Jewelry,10/26/2012,57973.13
+Seattle,Furniture,10/26/2012,12439.1
+Seattle,Electronics,10/26/2012,46483.6
+Seattle,Clothing,10/26/2012,57046.29
+Seattle,Outdoor,10/26/2012,6946.58
+Buffalo,Toys,11/5/2012,8327.13
+Buffalo,Shoes,11/5/2012,8284.45
+Buffalo,Outdoor,11/5/2012,2888.46
+Buffalo,Electronics,11/5/2012,12921.02
+Buffalo,Jewelry,11/5/2012,8428.7
+Buffalo,Furniture,11/5/2012,5570.38
+Buffalo,Housewares,11/5/2012,18177.59
+Buffalo,Clothing,11/5/2012,5794.35
+Las Vegas,Outdoor,11/5/2012,3574.83
+Las Vegas,Shoes,11/5/2012,23036.8
+Las Vegas,Clothing,11/5/2012,18164.2
+Las Vegas,Jewelry,11/5/2012,35840.06
+Las Vegas,Furniture,11/5/2012,10342.72
+Las Vegas,Housewares,11/5/2012,46717.76
+Las Vegas,Electronics,11/5/2012,17277.63
+Las Vegas,Toys,11/5/2012,37702.53
+Los Angeles,Housewares,11/5/2012,61750.11
+Los Angeles,Furniture,11/5/2012,11867.42
+Los Angeles,Clothing,11/5/2012,25661.21
+Los Angeles,Jewelry,11/5/2012,44349.31
+Los Angeles,Electronics,11/5/2012,19210.13
+Los Angeles,Outdoor,11/5/2012,5663.61
+Los Angeles,Shoes,11/5/2012,40999.93
+Los Angeles,Toys,11/5/2012,59041.91
+Seattle,Outdoor,11/5/2012,10034.78
+Seattle,Electronics,11/5/2012,32946.21
+Seattle,Shoes,11/5/2012,44695.18
+Seattle,Jewelry,11/5/2012,57583.94
+Seattle,Clothing,11/5/2012,30837.99
+Seattle,Housewares,11/5/2012,93896.22
+Seattle,Toys,11/5/2012,60168.16
+Seattle,Furniture,11/5/2012,11960.92
+Buffalo,Toys,12/10/2012,8743.69
+Buffalo,Shoes,12/10/2012,9375.33
+Buffalo,Outdoor,12/10/2012,1219.14
+Buffalo,Electronics,12/10/2012,11830.1
+Buffalo,Furniture,12/10/2012,5010.04
+Buffalo,Housewares,12/10/2012,18120.98
+Buffalo,Clothing,12/10/2012,11038.58
+Buffalo,Jewelry,12/10/2012,9072.09
+Las Vegas,Outdoor,12/10/2012,3788.59
+Las Vegas,Jewelry,12/10/2012,35446.18
+Las Vegas,Housewares,12/10/2012,42112.67
+Las Vegas,Clothing,12/10/2012,22764.01
+Las Vegas,Furniture,12/10/2012,10487.17
+Las Vegas,Shoes,12/10/2012,20212.71
+Las Vegas,Electronics,12/10/2012,20920.03
+Las Vegas,Toys,12/10/2012,37248.47
+Los Angeles,Clothing,12/10/2012,34070
+Los Angeles,Toys,12/10/2012,63083.63
+Los Angeles,Outdoor,12/10/2012,4864.11
+Los Angeles,Electronics,12/10/2012,28203.54
+Los Angeles,Jewelry,12/10/2012,43076.52
+Los Angeles,Furniture,12/10/2012,10833.86
+Los Angeles,Housewares,12/10/2012,59664.89
+Los Angeles,Shoes,12/10/2012,35288.99
+Seattle,Toys,12/10/2012,60674.94
+Seattle,Shoes,12/10/2012,48524.82
+Seattle,Outdoor,12/10/2012,6078.84
+Seattle,Electronics,12/10/2012,39036.4
+Seattle,Jewelry,12/10/2012,56556.77
+Seattle,Furniture,12/10/2012,12822.48
+Seattle,Housewares,12/10/2012,91054.12
+Seattle,Clothing,12/10/2012,44080.53
